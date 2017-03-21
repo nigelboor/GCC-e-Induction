@@ -1,0 +1,1295 @@
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="TACBoundary533"
+X-MimeOLE: Produced By TAC-Soft MimeOLE V1.00
+
+This is a multi-part message in MIME format.
+
+--TACBoundary533
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/html/temp.html
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD HTML 4.01 Transitional//EN=22>=0D=0A=
+<html>=0D=0A<=21-- saved from url=3D(0014)about:internet -->=0D=0A<head=
+>=0D=0A<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; char=
+set=3Dutf-8=22>=0D=0A<meta http-equiv=3D=22Content-Style-Type=22 content=3D=
+=22text/css=22>=0D=0A<meta HTTP-EQUIV=3D=22PRAGMA=22 CONTENT=3D=22NO-CA=
+CHE=22>=0D=0A  <=21--***MCTEMPLATE1***--><TITLE>Multiple Choice</TITLE>=0D=
+=0A<meta http-equiv=3D=22X-UA-Compatible=22content=3D=22IE=3DEmulateIE7=22=
+>=0D=0A<=21--***Version20***-->=0D=0A<style type=3D'text/css'>=23feedba=
+cker{position:absolute; visibility: hidden; height:auto;margin:10 auto;ov=
+erflow:visible;border:1px;border-style:solid; background-color:=23FFFFFF;=
+ padding:5px;}</style>=0D=0A<=21-- SINGLE PAGE TEMPLATE: PLEASE NOTE THAT=
+ ALTERATIONS TO THE ORIGINAL TEMPLATES ARE ONLY POSSIBLE IN THE REGISTERE=
+D VERSION-->=0D=0A<style type=3D'text/css'>=23alert{position:absolute; vi=
+sibility: hidden; height:auto; left:40%; margin:10 auto;overflow:visible;=
+border:1px;border-style:solid; background-color:=23FFFFFF; padding:5px;}<=
+/style>=0D=0A<style TYPE=3D=22text/css=22><=21-- html, body {margin:0; pa=
+dding:0; width:100%; height:100%; }=23background{position:absolute; z-ind=
+ex:1; width:100%; height:105%;}=23scroller {position:absolute; width:100%=
+; height:100%; top:0; left:0; overflow:auto; z-index:2;} =23slide { Posit=
+ion: Absolute; Left: 5px; Top: 5px; Width:20px; Visibility: Visible; } A:=
+LINK{text-decoration: none;} A:VISITED{text-decoration: none;} TD{font-fa=
+mily:'Arial Unicode MS','Arial','Microsoft Sans Serif';}  STRONG{font-siz=
+e:16pt;font-weight:normal;font-style:normal;}--></style>=0D=0A<script typ=
+e=3D=22text/javascript=22>=0D=0A<=21--=0D=0Avar customImage =3D 0;=0D=0Av=
+ar ImageShow =3D 0;=0D=0Avar scoreEnd =3D 0;=0D=0Avar FFPresent=3D=22no=22=
+;=0D=0Avar FULL=3D0;=0D=0Avar Critical =3D 0;=0D=0Avar MHT=3D1;=0D=0Avar=
+ PassCent =3D 0;=0D=0Avar SCORM =3D false;=0D=0Avar CaseMarker=3D1;=0D=0A=
+var passed =3D 0;=0D=0Avar per =3D 0;=0D=0Avar browserName =3D =22=22;=0D=
+=0Avar scrollPosition=3D0; =0D=0Avar ua =3D navigator.userAgent.toLowerCa=
+se(); =0D=0Aif ( ua.indexOf( =22opera=22 ) =21=3D -1 ) { =0D=0AbrowserNam=
+e =3D =22opera=22; =0D=0A} =0D=0Aelse if ( ua.indexOf( =22chrome=22 ) =21=
+=3D -1 ) { =0D=0AbrowserName =3D =22chrome=22;=0D=0A} =0D=0Aelse if ( ua.=
+indexOf( =22msie=22 ) =21=3D -1 ) { =0D=0AbrowserName =3D =22msie=22; =0D=
+=0A} =0D=0Aelse if ( ua.indexOf( =22safari=22 ) =21=3D -1 ) { =0D=0Abrows=
+erName =3D =22safari=22; =0D=0A} =0D=0Aelse if ( ua.indexOf( =22mozilla=22=
+ ) =21=3D -1 ) { =0D=0Aif ( ua.indexOf( =22firefox=22 ) =21=3D -1 ) { =0D=
+=0AbrowserName =3D =22firefox=22; =0D=0A} else { =0D=0AbrowserName =3D =22=
+firefox=22; =0D=0A}=0D=0A}=0D=0Afunction hideAlert(){ =0D=0Avar showAle=
+rt =3D document.getElementById(=22alert=22);=0D=0Avar showFeedback =3D do=
+cument.getElementById(=22feedbacker=22); =0D=0AshowFeedback.style.visibil=
+ity =3D =22hidden=22; =0D=0AshowAlert.style.visibility =3D =22hidden=22;=0D=
+=0A=0D=0A}=0D=0Afunction showAlert(w,h,hint){=0D=0AscrollPosition=3D0;=0D=
+=0Aif (customImage=3D=3D1){=0D=0Avar showAlert =3D document.getElementB=
+yId(=22scroller=22);=0D=0AscrollPosition=3D showAlert.scrollTop;=0D=0A}=0D=
+=0Avar showAlert =3D document.getElementById(=22alert=22);=0D=0Atry{=0D=0A=
+}=0D=0Acatch(err){=0D=0A}=0D=0Ahint =3D hint + =22<br><br><center><INPU=
+T TYPE=3D'BUTTON' VALUE=3D' OK ' onClick=3D'hideAlert()'></center>=22;=0D=
+=0AshowAlert.style.top =3D fbY-30+scrollPosition;   =0D=0Adocument.all=5B=
+'alert'=5D.innerHTML=3D hint;=0D=0AshowAlert.style.visibility =3D=22visib=
+le=22;=0D=0A}=0D=0Afunction goTop(){=0D=0Awindow.location =3D'=23';}=0D=0A=
+if (location.href.indexOf('?TM') =21=3D -1){FULL=3D0;} =0D=0Afunction cl=
+oseWindow() {top.close();}=0D=0Afunction hideFeedback(){ =0D=0Avar showFe=
+edback =3D document.getElementById(=22feedbacker=22); =0D=0AshowFeedback.=
+style.visibility =3D =22hidden=22;=0D=0A}=0D=0Avar posx;var posy;var fbX;=
+var fbY;=0D=0Afunction getMouse(e){=0D=0Aif (=21e) e =3D window.event; =0D=
+=0AfbX=3DmouseX(e);=0D=0AfbY=3DmouseY(e);=0D=0A}=0D=0Afunction mouseX(ev=
+t) {=0D=0Aif (evt.pageX) return evt.pageX;=0D=0Aelse if (evt.clientX)=0D=0A=
+return evt.clientX + (document.documentElement.scrollLeft ?=0D=0Adocume=
+nt.documentElement.scrollLeft :=0D=0Adocument.body.scrollLeft);=0D=0Aelse=
+ return null;=0D=0A}=0D=0Afunction mouseY(evt) {=0D=0Aif (evt.pageY) retu=
+rn evt.pageY;=0D=0Aelse if (evt.clientY)=0D=0Areturn evt.clientY + (docum=
+ent.documentElement.scrollTop ?=0D=0Adocument.documentElement.scrollTop :=
+=0D=0Adocument.body.scrollTop);=0D=0Aelse return null;=0D=0A}=0D=0Afuncti=
+on showTip(w,h,hint){=0D=0Avar scrollPosition=3D0;=0D=0Aif (customImage=3D=
+=3D1){=0D=0Avar showFeedback =3D document.getElementById(=22scroller=22)=
+;=0D=0AscrollPosition=3D showFeedback.scrollTop;=0D=0A}=0D=0Avar showFeed=
+back =3D document.getElementById(=22feedbacker=22);=0D=0Atry{=0D=0A}=0D=0A=
+catch(err){=0D=0A}=0D=0Aif (showAnswer=3D=3D1){=0D=0Ahint =3D hint + =22=
+<br><br><center><INPUT TYPE=3D'BUTTON' VALUE=3D' OK ' onClick=3D'hideFeed=
+back()'></center>=22;=0D=0A}=0D=0AshowFeedback.style.top =3D   fbY-100+sc=
+rollPosition;   =0D=0AshowFeedback.style.left=3D fbX+100;=0D=0Adocument.a=
+ll=5B'feedbacker'=5D.innerHTML=3D hint;=0D=0AshowFeedback.style.visibilit=
+y =3D=22visible=22;=0D=0A}=0D=0Avar myLayer =3D =22=22;=0D=0Avar picture =
+=3D =22=22; =0D=0Avar showPicture =3D =22=22;=0D=0AresultString =3D =22=22=
+;=0D=0Avar MultipleAttempts=3D0;=0D=0A=0D=0Avar myLayer =3D =22=22;=0D=0A=
+var picture =3D =22=22; =0D=0Avar showPicture =3D =22=22;=0D=0AresultStr=
+ing =3D =22=22;=0D=0Avar MultipleAttempts=3D0;=0D=0A=0D=0Afunction Status=
+Quo(){doit();}=0D=0Avar commas =3D=22=5C=22=22;=0D=0Avar placer =3D locat=
+ion.href;var goLoca1=3D0;var goLoca2=3D=22http://www.nelsontraining.com/g=
+ccsustainability.htm=22;var goExit=3D0;FULL=3D0;=0D=0Avar verdict =3D =22=
+=22;=0D=0AresultString =3D =22=22;=0D=0Avar lang1=3D  =22&=2389;&=23111;&=
+=23117;&=2332;&=23104;&=2397;&=23118;&=23101;&=2332;&=2397;&=23108;&=2311=
+4;&=23101;&=2397;&=23100;&=23121;&=2332;&=2397;&=23110;&=23115;&=23119;&=23=
+101;&=23114;&=23101;&=23100;&=2332;&=23116;&=23104;&=2397;&=23116;&=233=
+2;&=23113;&=23117;&=23101;&=23115;&=23116;&=23105;&=23111;&=23110;&=2346;=
+=22;=0D=0Avar lang2=3D =22&=2370;&=23117;&=23108;&=23108;&=2332;&=2377;&=23=
+97;&=23114;&=23107;&=23115;&=2333;&=2333;=22;=0D=0Avar lang3=3D=22&=239=
+0;&=23101;&=23114;&=23111;&=2333;&=2332;&=2378;&=23111;&=2332;&=23112;&=23=
+111;&=23105;&=23110;&=23116;&=23115;&=2333;=22;=0D=0Avar lang4=3D=22&=23=
+89;&=23111;&=23117;&=2332;&=2399;&=23111;&=23117;&=23108;&=23100;&=2332;&=
+=23100;&=23111;&=2332;&=2398;&=23101;&=23116;&=23116;&=23101;&=23114;&=23=
+33;=22;=0D=0Avar lang5=3D=22&=2380;&=23114;&=23101;&=23116;&=23116;&=2312=
+1;&=2332;&=2371;&=23111;&=23111;&=23100;&=2333;=22;=0D=0Avar lang6=3D=22&=
+=23112;&=23111;&=23105;&=23110;&=23116;&=2340;&=23115;&=2341;&=2346;=22;=0D=
+=0Afunction decodeIT(verdict) {=0D=0AresultString=3Dverdict;=0D=0Avar t=
+ester;=0D=0Atester=3D resultString.indexOf('=23');=0D=0Aif (tester < 0) {=
+=0D=0Areturn resultString;=0D=0A}=0D=0A=09if (verdict =21=3D '') {=0D=0A=09=
+=09var uniText =3D verdict;=0D=0A            var i =3D 0;=0D=0A=09=09va=
+r testText =3D uniText.substring(2,uniText.length-1).split(=22;&=23=22)=0D=
+=0Afor (i=3D0;i<testText.length;i++)=0D=0A=09=09=09resultString =3D test=
+Text=5Bi=5D;=0D=0A=09=09resultString =3D =22=22=0D=0A=09=09for (i=3D0;i<t=
+estText.length;i++)=0D=0A=09=09=09resultString =3D resultString + String.=
+fromCharCode(testText=5Bi=5D); =0D=0Areturn resultString;=0D=0A=09}=0D=0A=
+}=0D=0Afunction goLoca(){return;}=0D=0Avar up,down;var mins,secs;=0D=0Afu=
+nction Minutes(data) {=0D=0Afor(var i=3D0;i<data.length;i++) =0D=0Aif(dat=
+a.substring(i,i+1)=3D=3D=22:=22) =0D=0Abreak;  =0D=0Areturn(data.substrin=
+g(0,i)); =0D=0A}=0D=0Afunction Seconds(data) {        =0D=0Afor(var i=3D0=
+;i<data.length;i++) =0D=0Aif(data.substring(i,i+1)=3D=3D=22:=22) =0D=0Abr=
+eak;  =0D=0Areturn(data.substring(i+1,data.length)); =0D=0A}=0D=0Afunctio=
+n Display(min,sec) {     =0D=0Avar disp;       =0D=0Aif(min<=3D9) disp=3D=
+=22 0=22;   =0D=0Aelse disp=3D=22 =22;  =0D=0Adisp+=3Dmin+=22:=22;  =0D=0A=
+if(sec<=3D9) disp+=3D=220=22+sec;       =0D=0Aelse disp+=3Dsec; =0D=0Are=
+turn(disp); =0D=0A}=0D=0Afunction Down() {   =0D=0Amins=3D1*Minutes(docum=
+ent.timex.given.value);        =0D=0Asecs=3D0+Seconds(document.timex.give=
+n.value);        =0D=0ADownRepeat(); =0D=0A}=0D=0Afunction DownRepeat() {=
+ =0D=0Asecs--;        =0D=0Aif(secs=3D=3D-1) { =0D=0Asecs=3D59; mins--; =0D=
+=0A}       =0D=0Adocument.timex.taken.value=3DDisplay(mins,secs);   =0D=
+=0Aif((mins=3D=3D0)&&(secs=3D=3D0)){=0D=0AgoExit=3D1;=0D=0Areturn;=0D=0A}=
+     =0D=0Aelse down=3DsetTimeout(=22DownRepeat()=22,1000); =0D=0A}=0D=0A=
+if (navigator.appName =21=3D=22Netscape=22){=0D=0AsetInterval(=22moveback=
+()=22,150);=0D=0Afunction moveback(){=0D=0A  }=0D=0A}=0D=0Aif (document.i=
+mages) { img1 =3D new Image(); img1.src =3D =22Resources/Images/arrow1.gi=
+f=22 }=0D=0A//-->=0D=0A</script>=0D=0A<style type=3D=22text/css=22>=0D=0A=
+=23tt_ovrl { =0D=0Abackground-color: black; =0D=0A-moz-opacity: 0.7; opac=
+ity: 0.7;=0D=0Atop: 0; left: 0; position: fixed;=0D=0Awidth: 100%; height=
+:100%; z-index: 99; =0D=0A}=0D=0A=23tt_ww { position: fixed; z-index: 100=
+; top: 0; left: 0; width: 100%; height: 100%; text-align: center;} =0D=0A=
+=23tt_win { margin: 20% auto 0 auto; width: 400px; text-align: left;}=0D=0A=
+=23tt_w {background-color: white; padding: 3px; border: 1px solid black=
+; background-color: =23EEE;}=0D=0A=23tt_t {color: white; margin: 0 0 2px =
+3px; font-family: Arial, sans-serif; font-size: 10pt;}=0D=0A=23tt_text {w=
+idth: 100%;}=0D=0A=23tt_w span {font-family: Arial, sans-serif; font-size=
+: 10pt;}=0D=0A=23tt_w div {text-align: right; margin-top: 5px;}=0D=0A</st=
+yle>=0D=0A<=21-- IE specific code: -->=0D=0A<=21--=5Bif lte IE 7=5D>=0D=0A=
+<style type=3D=22text/css=22>=0D=0A=23tt_ovrl {=0D=0Aposition: absolute;=
+=0D=0Afilter:alpha(opacity=3D70);=0D=0Atop: expression(eval(document.body=
+.scrollTop));=0D=0Awidth: expression(eval(document.body.clientWidth));=0D=
+=0A}=0D=0A=23tt_ww { =0D=0Aposition: absolute; =0D=0Atop: expression(eval=
+(document.body.scrollTop)); =0D=0A}=0D=0A</style>=0D=0A<=21=5Bendif=5D-->=
+=0D=0A<script type=3D=22text/javascript=22>=0D=0A<=21--=0D=0Avar PassAns=3D=
+=22=22;=0D=0Avar PassQues=3D=22=22;=0D=0Avar PassQuiz=3D=22=22;=0D=0Ava=
+r RCount=3D0;=0D=0Afunction get_cookie (Name) {=0D=0Avar search =3D Name =
++ =22=3D=22=0D=0Avar returnvalue =3D =22=22;=0D=0Aif (document.cookie.len=
+gth > 0) {=0D=0Aoffset =3D document.cookie.indexOf(search)=0D=0A// if coo=
+kie exists=0D=0Aif (offset =21=3D -1) { =0D=0Aoffset +=3D search.length=0D=
+=0A// set index of beginning of value=0D=0Aend =3D document.cookie.index=
+Of(=22;=22, offset);=0D=0A// set index of end of cookie value=0D=0Aif (en=
+d =3D=3D -1) end =3D document.cookie.length;=0D=0Areturnvalue=3Dunescape(=
+document.cookie.substring(offset, end))=0D=0A}=0D=0A}=0D=0Areturn returnv=
+alue;=0D=0A}=0D=0Afunction setRunsCookie(what){=0D=0Adocument.cookie=3Dch=
+eckup+=22=3D=22+what=0D=0A}=0D=0Afunction hw1(PassQues1,PassAns1,PassQuiz=
+1)=0D=0A{=0D=0Aif (passed=3D=3D1 || runner=3D=3D1){=0D=0Areturn;=0D=0A}=0D=
+=0APassAns=3DPassAns1;=0D=0APassQues=3DPassQues1;=0D=0APassQuiz=3DPassQu=
+iz1;=0D=0A=0D=0Aif (passed=3D=3D1 || runner=3D=3D1){=0D=0Areturn;=0D=0A}=0D=
+=0Adocument.onselectstart=3Dnew Function (=22return true=22);=0D=0Att_p=
+rompt( hw2, 'A password is necessary to continue', '');=0D=0A}=0D=0Afunct=
+ion hw2(n)=0D=0A{=0D=0Aif (n=3D=3Dnull){=0D=0Adocument.onselectstart=3Dne=
+w Function (=22return false=22);=0D=0Areturn}=0D=0Adocument.onselectstart=
+=3Dnew Function (=22return false=22);=0D=0A Count(n);=0D=0A}=0D=0Afunctio=
+n hw3(PassQuiz1)=0D=0A{=0D=0APassQuiz=3DPassQuiz1;=0D=0Adocument.onselect=
+start=3Dnew Function (=22return true=22);=0D=0A    tt_prompt( hw4, '&=238=
+0;&=23108;&=23101;&=2397;&=23115;&=23101;&=2332;&=23116;&=23101;&=23108;&=
+=23108;&=2332;&=23117;&=23115;&=2332;&=23121;&=23111;&=23117;&=23114;&=23=
+32;&=23110;&=2397;&=23109;&=23101; ...', '');=0D=0A}=0D=0Afunction hw4(n)=
+=0D=0A{=0D=0Aif (n=3D=3Dnull){=0D=0Adocument.onselectstart=3Dnew Function=
+ (=22return false=22);=0D=0Areturn}=0D=0Adocument.onselectstart=3Dnew Fun=
+ction (=22return false=22);=0D=0Aif (PassQuiz=3D=3D=22MC=22){=0D=0AAlertC=
+C(n,correctList, incorrectList, totalcorrect,totaltried, totalincorrect,q=
+uestion, quiztitle, tries);=0D=0A}=0D=0Aif (PassQuiz=3D=3D=22SQ=22){=0D=0A=
+AlertCC(n,correctList, incorrectList, totalcorrect,totaltried, totalinco=
+rrect, quiztitle, tries, SIZE, address);=0D=0A}=0D=0A}=0D=0Afunction hw5(=
+PassQues1)=0D=0A{=0D=0APassQues=3DPassQues1;=0D=0Adocument.onselectstart=3D=
+new Function (=22return true=22);=0D=0A    tt_prompt( hw6, 'What is you=
+r answer?', '');=0D=0A}=0D=0Afunction hw6(n,question)=0D=0A{=0D=0Aif (n=3D=
+=3Dnull){=0D=0Adocument.onselectstart=3Dnew Function (=22return false=22=
+);=0D=0Areturn}=0D=0Adocument.onselectstart=3Dnew Function (=22return fal=
+se=22);=0D=0APassQuiz=3D=22x=22;=0D=0AEngine2(PassQues,n);=0D=0A}=0D=0Afu=
+nction hw17()=0D=0A{=0D=0Adocument.onselectstart=3Dnew Function (=22retur=
+n true=22);=0D=0A    tt_prompt( hw18, 'Please tell us your name ...', '')=
+;=0D=0A}=0D=0Afunction hw18(n)=0D=0A{=0D=0Aif (n=3D=3Dnull){=0D=0Adocumen=
+t.onselectstart=3Dnew Function (=22return false=22);=0D=0Areturn}=0D=0Ado=
+cument.onselectstart=3Dnew Function (=22return false=22);=0D=0APassAns=3D=
+n;=0D=0AAlertCC(n,correctList, incorrectList, totalcorrect,totaltried, to=
+talincorrect,question, quiztitle, tries);=0D=0A}=0D=0Afunction hw7()=0D=0A=
+{=0D=0Adocument.onselectstart=3Dnew Function (=22return true=22);=0D=0A =
+   tt_prompt( hw8, 'What colour would you like? Simply type in the name o=
+f the colour ... red, blue, yellow, pink etc.', '');=0D=0A}=0D=0Afunction=
+ hw8(n)=0D=0A{=0D=0Aif (n=3D=3Dnull){=0D=0Adocument.onselectstart=3Dnew F=
+unction (=22return false=22);=0D=0Areturn}=0D=0Adocument.onselectstart=3D=
+new Function (=22return false=22);=0D=0AMycolor(n);=0D=0A}=0D=0Afunction =
+hw13(PA1)=0D=0A{=0D=0APassQuiz=3DPA1;=0D=0Adocument.onselectstart=3Dnew F=
+unction (=22return true=22);=0D=0A    tt_prompt( hw14, 'Please tell us th=
+e name of player 1', '');=0D=0A}=0D=0Afunction hw14(n)=0D=0A{=0D=0Aif (n=3D=
+=3Dnull){=0D=0Adocument.onselectstart=3Dnew Function (=22return false=22=
+);=0D=0Areturn}=0D=0Adocument.onselectstart=3Dnew Function (=22return fa=
+lse=22);=0D=0APassQues=3Dn;=0D=0Ahw15();=0D=0A//AlertCC(n,score1, score2,=
+ correctList, incorrectList, totalcorrect1,totaltried1, totalincorrect1,t=
+otalcorrect2,totaltried2, totalincorrect2,quiztitle, tries, SIZE, address=
+)=0D=0A}=0D=0Afunction hw15()=0D=0A{=0D=0Adocument.onselectstart=3Dnew Fu=
+nction (=22return true=22);=0D=0A    tt_prompt( hw16, 'Please tell us the=
+ name of player 2', '');=0D=0A}=0D=0Afunction hw16(n)=0D=0A{=0D=0Aif (n=3D=
+=3Dnull){=0D=0Adocument.onselectstart=3Dnew Function (=22return false=22=
+);=0D=0Areturn}=0D=0Adocument.onselectstart=3Dnew Function (=22return fal=
+se=22);=0D=0Aif (PassQuiz=3D=3D=22PT=22){=0D=0AAlertCC(PassQues,n,fortune=
+1, fortune2, correctList, incorrectList, totalcorrect1,totaltried1, total=
+incorrect1, totalcorrect2, totaltried2, totalincorrect2, quiztitle, tries=
+, SIZE, address);=0D=0A}=0D=0A}=0D=0Afunction hw25(PassQues1)=0D=0A{=0D=0A=
+PassQues=3DPassQues1;=0D=0Adocument.onselectstart=3Dnew Function (=22ret=
+urn true=22);=0D=0A    tt_prompt( hw26, 'What is your answer?', '');=0D=0A=
+}=0D=0Afunction hw26(n,question)=0D=0A{=0D=0Aif (n=3D=3Dnull){=0D=0Adocu=
+ment.onselectstart=3Dnew Function (=22return false=22);=0D=0Areturn}=0D=0A=
+document.onselectstart=3Dnew Function (=22return false=22);=0D=0APassQui=
+z=3D=22x=22;=0D=0AWritAnswer2(n);=0D=0A}=0D=0Avar tt_cb =3D null;=0D=0Afu=
+nction tt=24(a) { return document.getElementById(a); } =0D=0Afunction tt_=
+prompt(cb, q, a) {=0D=0Att_cb =3D cb;=0D=0Att=24('tt_t').innerHTML =3D ''=
+ + '';=0D=0Att=24('tt_prompt').innerHTML =3D q;=0D=0Att=24('tt_text').val=
+ue =3D a; =0D=0Att=24('tt_ovrl').style.display =3D tt=24('tt_ww').style.d=
+isplay =3D ''; =0D=0Att=24('tt_text').focus(); =0D=0Att=24('tt_text').sel=
+ect(); =0D=0A}=0D=0Afunction tt_clk(m) { =0D=0Att=24('tt_ovrl').style.dis=
+play =3D tt=24('tt_ww').style.display =3D 'none'; =0D=0Aif (=21m) tt_cb(n=
+ull); else tt_cb(tt=24('tt_text').value);=0D=0A}=0D=0Acs=3D=220123456789A=
+BCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz=22;=0D=0AIndigo=3D0;=0D=
+=0ARed=3D=22=22;=0D=0AYellow=3D=22=22;=0D=0Als1=3D=22=22;ls2=3D=22=22;l=
+s3=3D=22=22;bye =3D 0;four=3D=2200 01 10 11 =22;fourletter=3D=22a  b  c  =
+d =22;=0D=0Avar passed=3D0;=0D=0Avar runner=3D0;=0D=0Avar DaysToLive=3D1;=
+=0D=0Afunction PW(info){=0D=0Aif (=0D=0Apassed=3D=3D1){=0D=0Areturn}=0D=0A=
+var pw=3Dinfo;=0D=0Aif (pw=3D=3Dnull)=0D=0A{=0D=0Abye=3D1;return;=0D=0A}=
+=0D=0Afor (var i=3D0;i<pw.length;i++)=0D=0A{=0D=0Achm=3Dpw.charAt(i);=0D=0A=
+cmm=3Dcs.indexOf(chm)+32;=0D=0Afor (var j=3D7;j>-1;j--)=0D=0A{=0D=0Acx=3D=
+Math.pow(2,j);=0D=0Aif (cmm >=3D cx )=0D=0A{=0D=0Acmm=3Dcmm-cx;ls1+=3D=22=
+1=22;=0D=0A}=0D=0Aelse{=0D=0Als1+=3D=220=22;=0D=0A}=0D=0A}=0D=0A}=0D=0A=
+for(var i=3D0;i<ls1.length;i=3Di+2)=0D=0A{=0D=0Als2=3Dls1.substring(i,i+2=
+);y=3Dfour.indexOf(ls2);ls3+=3Dfourletter.charAt(y);}if(ls3 =21=3D Red&& =
+ls3=21=3D Yellow ){bye=3D1;ls1=3D=22=22;ls2=3D=22=22;ls3=3D=22=22;alert(=22=
+Sorry but the password is incorrect=22);PW();return;}=0D=0Aif (ls3=3D=3D=
+Yellow){=0D=0AWWHCount=3D0;=0D=0AIndigo=3D1;=0D=0Atries=3D0;=0D=0A}=0D=0A=
+passed=3D1;=0D=0Abye=3D0;=0D=0Aif (PassQuiz=3D=3D=22MC=22){=0D=0AEngine(=
+PassQues,PassAns);=0D=0A}=0D=0Aif (PassQuiz=3D=3D=22SQ=22){=0D=0AcheckAns=
+wer(PassAns);=0D=0A}=0D=0Aif (PassQuiz=3D=3D=22SQ1=22){=0D=0AWritAnswer2(=
+PassAns);=0D=0A}=0D=0Aif (PassQuiz=3D=3D=22RT=22){=0D=0AanswerIt(PassQues=
+,PassAns);=0D=0A}=0D=0Aif (PassQuiz=3D=3D=22PT=22){=0D=0AcheckAnswer(Pass=
+Ques);=0D=0A}=0D=0A}=0D=0Afunction Bye(){return;temp=3Dwindow.confirm(=22=
+Are you sure?=22);=0D=0Aif(temp=3D=3Dtrue){location.replace(=22about:blan=
+k=22);=0D=0AStopIt=3D0;=0D=0Areturn(0);}=0D=0Aif(temp=3D=3Dfalse){=0D=0Al=
+ocation.reload();=0D=0AStopIt=3D0;=0D=0A}}=0D=0Afunction cheers(){PW();if=
+ (bye=3D=3D1){Bye();}}=0D=0Avar Amber=3D 0;=0D=0A//**expDays=0D=0Avar exp=
+Days =3D 1;=0D=0Avar myexp =3D new Date();=0D=0A//**Green=0D=0Avar checku=
+p=3D'MCQM4209';=0D=0Amyexp.setTime(myexp.getTime() + (expDays*24*60*60*10=
+00));=0D=0Afunction Count(info){=0D=0Aif (passed=3D=3D1 || runner=3D=3D1)=
+{=0D=0Apassed=3D1;=0D=0Areturn;=0D=0A}=0D=0APW(info);=0D=0Areturn;=0D=0A}=
+=0D=0A// -->=0D=0A</SCRIPT>=0D=0A</head>=0D=0A=0D=0A<body bgcolor=3D=22Wh=
+ite=22 text=3D=22Black=22 link=3D=22=23003333=22 alink=3D=22=23ffff00=22 =
+vlink=3D=22=23336633=22 onKeyDown=3D=22onKeyDown();=22>=0D=0A<CENTER><NOS=
+CRIPT><b>This page requires a JavaScript-enabled browser</b><BR>Instructi=
+ons on how to enable your browser are contained in the help file.<BR></NO=
+SCRIPT></CENTER>=0D=0A<=21--EXTRABUTTONS Place--> =0D=0A<=21--<BR><FONT S=
+IZE=3D1> MC Quiz Maker Copyright (C) 2006 - 2009 by<a href=3D=22http://ww=
+w.tac-soft.com=22> TAC-Soft. All Rights Reserved</a></FONT> -->=0D=0A<a n=
+ame=3Dtop></a>=0D=0A<IFRAME NAME=3D=22framer1=22 SRC=3D=22Resources/Image=
+s/f.gif=22 TITLE=3D=22Sounds=22 LONGDESC=3D=22Resources/Images/f.gif=22 W=
+IDTH=3D=221=22=0D=0AHEIGHT=3D=221=22 FRAMEBORDER=3D=220=22>=0D=0A</IFRAME=
+>=0D=0A<=21-- tt_prompt HTML code -->=0D=0A<div id=3D=22tt_ovrl=22 style=3D=
+=22display: none;=22>&nbsp;</div>=0D=0A<div id=3D=22tt_ww=22 style=3D=22=
+display: none;=22>=0D=0A<div id=3D=22tt_win=22><div id=3D=22tt_t=22></di=
+v>=0D=0A<div id=3D=22tt_w=22><span id=3D=22tt_prompt=22></span>=0D=0A<br =
+/><input type=3D=22text=22 id=3D=22tt_text=22 onKeyPress=3D=0D=0A=22if((e=
+vent.keyCode=3D=3D10)||(event.keyCode=3D=3D13)) tt_clk(1); if (event.keyC=
+ode=3D=3D27) tt_clk(0);=22>=0D=0A<br><div><input type=3D=22button=22 id=3D=
+=22tt_ok=22 onclick=3D=22tt_clk(1);=22 value=3D=22OK=22>=0D=0A<input typ=
+e=3D=22button=22 id=3D=22tt_cancel=22 onclick=3D=22tt_clk(0);=22 value=3D=
+=22Cancel=22>=0D=0A</div></div>=0D=0A</div>=0D=0A</div>=0D=0A<=21-- tt_pr=
+ompt HTML code -->=09=0D=0A<=21--<div id=3D=22debugConsole=22>=0D=0A<h1>Q=
+UIZ RESULTS CONSOLE</h1>=0D=0A <p id=3D=22debugText=22></p>=0D=0A</div>--=
+>=0D=0A<script type=3D=22text/javascript=22>=0D=0A<=21--=0D=0Avar newImgs=
+ =3D new Array;=0D=0Avar tic=3Dnew Array;=0D=0Avar done=3Dnew Array;var P=
+Matching=3D1;var score=3D0;var answ=3DFONTT;var q=3D20;var tries=3D=220=22=
+;var StopIt=3D0;=0D=0ATacImageSrc =3D new Array (=0D=0A=22arrow1.gif=22=0D=
+=0A)=0D=0ATacImageList =3D new Array ();=0D=0Afor (counter in TacImageS=
+rc) {=0D=0ATacImageList=5Bcounter=5D =3D new Image();=0D=0ATacImageList=5B=
+counter=5D.src =3D=0D=0ATacImageSrc=5Bcounter=5D;=0D=0A}=0D=0Avar object=
+=3Dnew Array();=0D=0Aobject=5B1=5D=3Dnew=0D=0Aobjectdata(40,40,=22Resourc=
+es/Images/correct.gif=22,=22Resources/Images/incorrect.gif=22,=22|| Quest=
+ion 1||=22);=0D=0Aobject=5B2=5D=3Dnew=0D=0Aobjectdata(40,40,=22Resources/=
+Images/correct.gif=22,=22Resources/Images/incorrect.gif=22,=22|| Question=
+ 2||=22);=0D=0Aobject=5B3=5D=3Dnew=0D=0Aobjectdata(40,40,=22Resources/Ima=
+ges/correct.gif=22,=22Resources/Images/incorrect.gif=22,=22|| Question 3|=
+|=22);=0D=0Aobject=5B4=5D=3Dnew=0D=0Aobjectdata(40,40,=22Resources/Images=
+/correct.gif=22,=22Resources/Images/incorrect.gif=22,=22|| Question 4||=22=
+);=0D=0Aobject=5B5=5D=3Dnew=0D=0Aobjectdata(40,40,=22Resources/Images/co=
+rrect.gif=22,=22Resources/Images/incorrect.gif=22,=22|| Question 5||=22);=
+=0D=0Aobject=5B6=5D=3Dnew=0D=0Aobjectdata(40,40,=22Resources/Images/corre=
+ct.gif=22,=22Resources/Images/incorrect.gif=22,=22|| Question 6||=22);=0D=
+=0Aobject=5B7=5D=3Dnew=0D=0Aobjectdata(40,40,=22Resources/Images/correct.=
+gif=22,=22Resources/Images/incorrect.gif=22,=22|| Question 7||=22);=0D=0A=
+object=5B8=5D=3Dnew=0D=0Aobjectdata(40,40,=22Resources/Images/correct.gif=
+=22,=22Resources/Images/incorrect.gif=22,=22|| Question 8||=22);=0D=0Aobj=
+ect=5B9=5D=3Dnew=0D=0Aobjectdata(40,40,=22Resources/Images/correct.gif=22=
+,=22Resources/Images/incorrect.gif=22,=22|| Question 9||=22);=0D=0Aobject=
+=5B10=5D=3Dnew=0D=0Aobjectdata(40,40,=22Resources/Images/correct.gif=22,=22=
+Resources/Images/incorrect.gif=22,=22|| Question 10||=22);=0D=0A=0D=0Af=
+unction objectdata(hsize,vsize,isTrueImg,isFalseImg,mess){=0D=0Athis.mess=
+=3Dmess;=0D=0Athis.simg=3Dnew Image(hsize,vsize);=0D=0Athis.simg.src=3Dis=
+TrueImg;=0D=0Athis.rimg=3Dnew Image(hsize,vsize);=0D=0Athis.rimg.src=3Dis=
+FalseImg;=0D=0A}=0D=0Afunction trimString (str)=0D=0A{ str =3D this =21=3D=
+ window? this : str; return str.replace(/=5E=5Cs+/g, '').replace(/=5Cs+=24=
+/g, '');=0D=0A }=0D=0A//<=21-- Resize Bug Correction=0D=0Afunction disa=
+bleselect(e){=0D=0Areturn false;=0D=0A}=0D=0Afunction reEnable(){=0D=0Are=
+turn true;=0D=0A}=0D=0Adocument.onselectstart=3Dnew Function (=22return f=
+alse=22);=0D=0Aif (window.sidebar){=0D=0Adocument.onmousedown=3Ddisablese=
+lect;=0D=0Adocument.onclick=3DreEnable;=0D=0A}=0D=0ANS4x =3D document.lay=
+ers;=0D=0Aif (NS4x) {=0D=0AorigWidth=3DinnerWidth;=0D=0AorigHeight=3Dinne=
+rHeight;=0D=0A}=0D=0Amanu=3Dnavigator.appName;=0D=0Avers=3Dnavigator.appV=
+ersion;=0D=0Avar NS4=3Dtrue;=0D=0Aif (manu.indexOf(=22Microsoft=22)>=3D0 =
+&& parseInt(navigator.appVersion)>=3D 4)=0D=0A{=0D=0ANS4=3Dfalse;=0D=0A}=0D=
+=0Awindow.onbeforeunload =3D functionclear;=0D=0Afunction functionclear=
+(){=0D=0Atry{=0D=0Afor (var imp =3D 0; imp < question+1;imp++){=0D=0Avar =
+f =3D document.forms=5Bimp=5D;=0D=0Afor(i=3D0; i<f.elements.length; i++) =
+{=0D=0Aif(f=5Bi=5D.type =3D=3D =22checkbox=22) {=0D=0Af=5Bi=5D.checked =3D=
+ false;=0D=0A}=0D=0A}=0D=0A}=0D=0Afor (var imp =3D 0; imp < question+1;i=
+mp++){=0D=0A  var or =3D document.getElementsByName(imp);=0D=0A      for =
+(var i =3D 0; i < or.length; i++) {=0D=0A         or=5Bi=5D.checked =3D f=
+alse;=0D=0A     }=0D=0A}=0D=0A}=0D=0Acatch(err){=0D=0A}=0D=0A}=0D=0Afunct=
+ion reDo() {=0D=0Aif (innerWidth =21=3DorigWidth || innerHeight =21=3Dori=
+gHeight)=0D=0Alocation.reload();=0D=0A}=0D=0Aif (NS4x) onresize=3DreDo;=0D=
+=0A=0D=0ASOUNDON1=3D0;SOUNDON2=3D0;=0D=0Avar browser_check=3D=22=22;=0D=0A=
+if(navigator.appName=3D=3D=22Netscape=22 && parseInt(navigator.appVersi=
+on)>=3D4)=0D=0Abrowser_check=3D=22n3_or_better=22;=0D=0Aif(navigator.appN=
+ame.substring(0,9)=3D=3D=22Microsoft=22)=0D=0Abrowser_check=3D=22msie=22;=
+=0D=0Asound=3Dnew Array;=0D=0A=0D=0Afunction playSound(dest)=0D=0A{=0D=0A=
+if (browserName=3D=3D=22unknown=22){=0D=0Aalert(decodeIT(=22=5Cn&=2383;&=23=
+111;&=23114;&=23114;&=23121;&=2332;&=2398;&=23117;&=23116;&=2332;&=2311=
+6;&=23104;&=23105;&=23115;&=2332;&=23115;&=23111;&=23117;&=23110;&=23100;=
+&=2332;&=23115;&=2399;&=23104;&=23101;&=23109;&=23101;&=2332;&=23105;&=23=
+115;&=2332;&=2378;&=2379;&=2384;&=2332;&=23115;&=23117;&=23112;&=23112;&=23=
+111;&=23114;&=23116;&=23101;&=23100;&=2332;&=2398;&=23121;&=2332;&=2312=
+1;&=23111;&=23117;&=23114;&=2332;&=2398;&=23114;&=23111;&=23119;&=23115;&=
+=23101;&=23114;&=2346;=22));=0D=0A}=0D=0Avar file=3Dsound=5Bdest=5D;=0D=0A=
+if (browserName=21=3D=22msie=22){=0D=0Adocument.getElementById(=22Player=
+=22).innerHTML=3D=22<embed src=3D'=22+file+=22' hidden=3Dtrue height=3D1p=
+x width=3D1px autostart=3Dtrue loop=3Dfalse>=22;=0D=0Areturn;=0D=0A}=0D=0A=
+if(browser_check=3D=3D=22msie=22)=0D=0A{=0D=0Avar file=3Dsound=5Bdest=5D=
+;=0D=0Avar doc=3Dparent.framer1.document;=0D=0Adoc.write('<HTML><HEAD>');=
+=0D=0Adoc.write('<TITLE></TITLE>');=0D=0Adoc.write('</HEAD><BODY BGCOLOR=3D=
+=2200FFFF=22>');=0D=0A}=0D=0Aif (browser_check=3D=3D=22n3_or_better=22)=
+{=0D=0Aif (dest=3D=3D1) document.mediaPlayer.SetSource(sound=5B1=5D);=0D=0A=
+if (dest=3D=3D2) document.mediaPlayer.SetSource(sound=5B2=5D);=0D=0Adoc=
+ument.mediaPlayer.DoPlay();=0D=0A}=0D=0Aif(browser_check=3D=3D=22msie=22)=
+{=0D=0Adoc.write('<bgsound src=3D=22' + file + '=22 loop=3D1>');=0D=0Adoc=
+.write('</BODY></HTML>');=0D=0Adoc.close ();=0D=0A}=0D=0A}=0D=0Aquestion =
+=3D  10; =0D=0AshowAnswer=3D0;var bites=3Ddocument.cookie.split(=22; =22)=
+;var FONTT=3D0;var FULL=3D0;var HIDE=3D0;var ema=3D0;var showIt=3D0;=0D=0A=
+=0D=0A//var QuizSize=3Dquestion;=0D=0Avar plonk=3D=22</=22 +=22script>=22=
+;=0D=0Avar jbegin=3D=22<=22 +=22script type=3D'text/javascript'>=22;=0D=0A=
+var invert=3D'=22';=0D=0Avar bingo=3D=22=22;=0D=0A=0D=0Avar quizname=3D=
+=22&=2377;&=23117;&=23108;&=23116;&=23105;&=23112;&=23108;&=23101;&=2332;=
+&=2367;&=23104;&=23111;&=23105;&=2399;&=23101;&=2332;&=2382;&=23101;&=231=
+15;&=23117;&=23108;&=23116;&=23115;&=2332;&=23102;&=23111;&=23114;:=22;=0D=
+=0Avar quiztitle =3D=22Sustainability Quiz=22;=0D=0Avar totaltried=3D0;=0D=
+=0Avar totalcorrect=3D0;=0D=0Avar totalincorrect=3D0;=0D=0AincorrectAns=
+wer=3D=22=22;=0D=0AincorrectList=3D=22=22;=0D=0AcorrectList=3D=22=22;=0D=0A=
+var popup=3D=22null=22;=0D=0Afunction wclose(){warning=3Dfalse;location=
+.replace('http://www.nelsontraining.com/gccsustainability.htm');return;}=0D=
+=0Afunction showScorm(correctList, incorrectList, totalcorrect,totaltri=
+ed, totalincorrect,question, quiztitle, tries){=0D=0Aif (totalcorrect=3D=3D=
+0 && totalincorrect=3D=3D0){=0D=0Aalert(=22No results to show at the mo=
+ment=21=22);=0D=0Areturn;=0D=0A}=0D=0Aif (scoreEnd=3D=3D1 && goExit =21=3D=
+12){=0D=0Atemp=3Dwindow.confirm(decodeIT(=22Viewing your score will auto=
+matically end the quiz session. You will still be able to submit the resu=
+lts but you will not be able to answer any further questions. Is this rea=
+lly what you want?=22));=0D=0Aif (temp=3D=3Dfalse){=0D=0Areturn;=0D=0A}=0D=
+=0AgoExit=3D12;=0D=0A}=0D=0Aif(tries=3D=3D=220=22){=0D=0Atries=3D=22&=23=
+78;&=23111;&=23116;&=2332;&=23114;&=23101;&=2399;&=23111;&=23114;&=23100;=
+&=23101;&=23100;=22;=0D=0A}=0D=0Aema=3D1;=0D=0Aper=3D(totaltried-totalinc=
+orrect)/question*100;=0D=0Aper=3DMath.round(per)+=22%=22;=0D=0Avar squizt=
+itle =3D quiztitle;=0D=0Awhile (squiztitle.indexOf(=22'=22) > -1)=0D=0A s=
+quiztitle =3D squiztitle.replace(=22'=22,=22=60=22);=0D=0Avar sIncorrect =
+=3D incorrectList;=0D=0Awhile (sIncorrect.indexOf(=22'=22) > -1)=0D=0A sI=
+ncorrect =3D sIncorrect.replace(=22'=22,=22=60=22);=0D=0Avar sCorrect =3D=
+ correctList;=0D=0Awhile (sCorrect.indexOf(=22'=22) > -1)=0D=0A sCorrect =
+=3D sCorrect.replace(=22'=22,=22=60=22);=0D=0Aif (totaltried=3D=3D0){=0D=0A=
+per=3D=220%=22;=0D=0A}=0D=0AShowScore(correctList, incorrectList, total=
+correct,totaltried, totalincorrect,question, quiztitle, tries);=0D=0Adisp=
+lay();=0D=0A}=0D=0Afunction hideScorm(){=0D=0Avar noInput =3D =22=22;=0D=0A=
+=09var debugText =3D document.getElementById(=22debugText=22);=0D=0A=09=
+if(debugText){=0D=0A=09debugText.innerHTML =3D noInput;=0D=0A}=0D=0A}=0D=0A=
+function AlertCC(n,correctList, incorrectList, totalcorrect,totaltried,=
+ totalincorrect,question, quiztitle, tries)=0D=0A{=0D=0Atemp=3Dwindow.con=
+firm(decodeIT(=22&=2384;&=23111;&=2332;&=23117;&=23115;&=23101;&=2332;&=23=
+116;&=23104;&=23105;&=23115;&=2332;&=23111;&=23112;&=23116;&=23105;&=231=
+11;&=23110;&=2332;&=23121;&=23111;&=23117;&=2332;&=23109;&=23117;&=23115;=
+&=23116;&=2332;&=23104;&=2397;&=23118;&=23101;&=2332;&=2397;&=2332;&=2311=
+5;&=23116;&=2397;&=23110;&=23100;&=2397;&=23114;&=23100;&=2332;&=23101;&=23=
+109;&=2397;&=23105;&=23108;&=2332;&=2399;&=23108;&=23105;&=23101;&=2311=
+0;&=23116;&=2332;&=23105;&=23110;&=23115;&=23116;&=2397;&=23108;&=23108;&=
+=23101;&=23100;&=2332;&=23111;&=23110;&=2332;&=23121;&=23111;&=23117;&=23=
+114;&=2332;&=2399;&=23111;&=23109;&=23112;&=23117;&=23116;&=23101;&=23114=
+;&=2332;&=2340;&=2379;&=23117;&=23116;&=23108;&=23111;&=23111;&=23107;&=23=
+32;&=2369;&=23120;&=23112;&=23114;&=23101;&=23115;&=23115;&=2344;&=2332;=
+&=2379;&=23117;&=23116;&=23108;&=23111;&=23111;&=23107;&=2344;&=2332;&=23=
+69;&=23117;&=23100;&=23111;&=23114;&=2397;&=2332;&=23101;&=23116;&=2399;&=
+=2346;&=2341;&=2332;&=2380;&=23108;&=23101;&=2397;&=23115;&=23101;&=2332;=
+&=23110;&=23111;&=23116;&=23101;&=2332;&=23116;&=23104;&=2397;&=23116;&=23=
+32;&=23121;&=23111;&=23117;&=2332;&=23109;&=2397;&=23121;&=2332;&=23101;=
+&=23110;&=2399;&=23111;&=23117;&=23110;&=23116;&=23101;&=23114;&=2332;&=23=
+112;&=23114;&=23111;&=2398;&=23108;&=23101;&=23109;&=23115;&=2332;&=2310=
+5;&=23102;&=2332;&=23121;&=23111;&=23117;&=2332;&=2397;&=23114;&=23101;&=23=
+32;&=23114;&=23117;&=23110;&=23110;&=23105;&=23110;&=23103;&=2332;&=239=
+7;&=23110;&=2332;&=2397;&=23110;&=23116;&=23105;&=2345;&=23118;&=23105;&=23=
+114;&=23117;&=23115;&=2332;&=23115;&=23111;&=23102;&=23116;&=23119;&=23=
+97;&=23114;&=23101;&=2332;&=23119;&=23104;&=23105;&=2399;&=23104;&=2332;&=
+=2398;&=23108;&=23111;&=2399;&=23107;&=23115;&=2332;&=23115;&=2399;&=2311=
+4;&=23105;&=23112;&=23116;&=2345;&=2398;&=2397;&=23115;&=23101;&=23100;&=23=
+32;&=23109;&=2397;&=23105;&=23108;&=23105;&=23110;&=23103;&=2346;&=2332=
+;&=2380;&=23108;&=23101;&=2397;&=23115;&=23101;&=2332;&=23110;&=23111;&=23=
+116;&=23101;&=2332;&=2397;&=23108;&=23115;&=23111;&=2332;&=23116;&=23104=
+;&=2397;&=23116;&=2332;&=23115;&=23117;&=2398;&=23109;&=23105;&=23116;&=23=
+116;&=23105;&=23110;&=23103;&=2332;&=23116;&=23104;&=23101;&=2332;&=2311=
+4;&=23101;&=23115;&=23117;&=23108;&=23116;&=23115;&=2332;&=2397;&=23117;&=
+=23116;&=23111;&=23109;&=2397;&=23116;&=23105;&=2399;&=2397;&=23108;&=231=
+08;&=23121;&=2332;&=23101;&=23110;&=23100;&=23115;&=2332;&=23116;&=23104;=
+&=23101;&=2332;&=23113;&=23117;&=23105;&=23122;&=2332;&=23115;&=23101;&=23=
+115;&=23115;&=23105;&=23111;&=23110;&=2333;=22));=0D=0Aif (temp=3D=3Dfal=
+se){=0D=0Areturn;=0D=0A}=0D=0Avar myname=3Dn;=0D=0Aif (myname=3D=3Dnull){=
+=0D=0Areturn;=0D=0A}=0D=0Aif(tries=3D=3D=220=22){=0D=0Atries=3D=22Not rec=
+orded=22;=0D=0A}=0D=0Aema=3D1;=0D=0Aif (myname=3D=3Dnull || myname=3D=3D=22=
+=22){=0D=0Amyname=3D=22&=2385;&=23110;&=23107;&=23110;&=23111;&=23119;&=
+=23110;&=2332;&=2385;&=23115;&=23101;&=23114;=22;=0D=0A}=0D=0Avar address=
+=3D=22jon=40nelsontraining.co.uk=22;=0D=0A=0D=0Avar quiztaker=3Dmyname;=0D=
+=0Avar submitString=3D =22'mailto:=22+address+=22?subject=3DMultiple Cho=
+ice Quiz Maker Results from =22+quiztaker+=22 &amp;NAME=3Dsupporter &amp;=
+METHOD=3DPOST &amp;ENCTYPE=3Dtext/plain'>=22;=0D=0Avar re =3D / /g; =0D=0A=
+submitString=3D submitString.replace(re,=22 =22);=0D=0Amyname=3Dquizna=
+me+=22 =22 +myname;=0D=0Aper=3D(totaltried-totalincorrect)/question*100;=0D=
+=0Aper=3DMath.round(per)+=22%=22;=0D=0Avar squiztaker =3D quiztaker;=0D=
+=0Awhile (squiztaker.indexOf(=22'=22) > -1)=0D=0A squiztaker =3D squiztak=
+er.replace(=22'=22,=22=60=22);=0D=0Avar squiztitle =3D quiztitle;=0D=0Awh=
+ile (squiztitle.indexOf(=22'=22) > -1)=0D=0A squiztitle =3D squiztitle.re=
+place(=22'=22,=22=60=22);=0D=0Avar sIncorrect =3D incorrectList;=0D=0Awhi=
+le (sIncorrect.indexOf(=22'=22) > -1)=0D=0A sIncorrect =3D sIncorrect.rep=
+lace(=22'=22,=22=60=22);=0D=0Avar sCorrect =3D correctList;=0D=0Awhile (s=
+Correct.indexOf(=22'=22) > -1)=0D=0A sCorrect =3D sCorrect.replace(=22'=22=
+,=22=60=22);=0D=0Aif (totaltried=3D=3D0){=0D=0Aper=3D=220%=22;=0D=0A}=0D=
+=0Aif (Amber=3D=3D0){=0D=0AsetRunsCookie(0);=0D=0Awarning=3Dfalse;=0D=0A}=
+=0D=0Avar m1=3D=22<=21DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.01 Transiti=
+onal//EN'><html><head><meta http-equiv=3D'Content-Type' content=3D'text/h=
+tml; charset=3Dutf-8'><TITLE>Results</TITLE>=22 +=0D=0Ajbegin +=0D=0A=22f=
+unction disableselect(e){=22+=0D=0A=22return false;=22+=0D=0A=22} =22+=0D=
+=0A=22function reEnable(){=22+=0D=0A=22return true;=22+=0D=0A=22} =22+=0D=
+=0A=22document.onselectstart=3Dnew Function ('return false');=22+=0D=0A=22=
+if (window.sidebar){=22+=0D=0A=22document.onmousedown=3Ddisableselect;=22=
++=0D=0A=22document.onclick=3DreEnable;=22+=0D=0A=22} =22+=0D=0Aplonk+=0D=
+=0A=22</head>=22;=0D=0Avar m2=3D=22<body BGCOLOR=3D'White'>=22;=0D=0Avar =
+m7=3D=22<div align=3D'center'>=22+=0D=0A=22<form action=3D'...'>=22+=0D=0A=
+=22<input type=3D'button' value=3D'&=2383;&=23101;&=23110;&=23100;&=2332=
+;&=2377;&=23101;&=23115;&=23115;&=2397;&=23103;&=23101;'onClick=3D=22+com=
+mas+=22parent.location=3D'mailto:=22+address+=22?subject=3DMultiple Choic=
+e Quiz Maker Results&amp;body=3DTitle of Quiz: =22+escape(squiztitle)+=22=
+%0AQuestions answered by: =22+ escape(squiztaker)+=22%0AQuestion(s) avail=
+able: =22+question+=22%0ATotal number of questions answered:  =22+totaltr=
+ied+=22%0ACorrect answer(s)=22+totalcorrect+=22%0A Incorrect answer(s)=22=
++totalincorrect+=22%0AGrade as percentage:=22+per+=22%0A%0AList of questi=
+on(s) with incorrect answers. The incorrect choice is in brackets:%0A=22+=
+sIncorrect+=22%0A%0AList of question(s) with correct answers:%0A=22+sCorr=
+ect+=22%0A'=22+commas+=22>=22+=0D=0A=22</form>=22+=0D=0A=22</div>=22;=0D=0A=
+var m3=3D=22<h1><B>&=2377;&=23117;&=23108;&=23116;&=23105;&=23112;&=231=
+08;&=23101;&=2332;&=2367;&=23104;&=23111;&=23105;&=2399;&=23101;&=2332;&=23=
+81;&=23117;&=23105;&=23122;&=2332;&=2377;&=2397;&=23107;&=23101;&=23114=
+;&=2332;&=2382;&=23101;&=23115;&=23117;&=23108;&=23116;&=23115;</B></h1>=22=
+ +=0D=0A=22<br><CENTER>=22+=0D=0A=22<FORM action=3D=22 + submitString +=
+ =22&=2384;&=23104;&=23101;&=23115;&=23101;&=2332;&=2397;&=23114;&=23101;=
+&=2332;&=23116;&=23104;&=23101;&=2332;&=23114;&=23101;&=23115;&=23117;&=23=
+108;&=23116;&=23115;&=2332;&=23119;&=23104;&=23105;&=2399;&=23104;&=2332=
+;&=23119;&=23105;&=23108;&=23108;&=2332;&=2398;&=23101;&=2332;&=23115;&=23=
+101;&=23110;&=23116;&=2332;&=23105;&=23102;&=2332;&=23121;&=23111;&=2311=
+7;&=2332;&=2399;&=23108;&=23105;&=2399;&=23107;&=2332;&=23116;&=23104;&=23=
+101;&=2332;&=2339;&=2383;&=23101;&=23110;&=23100;&=2332;&=23109;&=23101;=
+&=23115;&=23115;&=2397;&=23103;&=23101;&=2339;&=2332;&=2398;&=23117;&=231=
+16;&=23116;&=23111;&=23110;&=2358;<p>=22+'=5Cn'+ =0D=0A=22<TEXTAREA NAME=3D=
+Message COLS=3D80 ROWS=3D20 readonly>=22+=0D=0A=22&=2384;&=23105;&=2311=
+6;&=23108;&=23101;&=2332;&=23111;&=23102;&=2332;&=2381;&=23117;&=23105;&=23=
+122;&=2358; =22+quiztitle+ '=5Cn'+=0D=0A=22&=2381;&=23117;&=23105;&=231=
+22;&=2332;&=23116;&=23121;&=23112;&=23101;&=2358;&=2332;&=2377;&=23117;&=23=
+108;&=23116;&=23105;&=23112;&=23108;&=23101;&=2332;&=2367;&=23104;&=231=
+11;&=23105;&=2399;&=23101;=22+'=5Cn'+=0D=0A=22&=2384;&=23104;&=23101;&=23=
+32;&=23114;&=23101;&=23115;&=23117;&=23108;&=23116;&=23115;&=2332;&=23119=
+;&=23105;&=23108;&=23108;&=2332;&=2398;&=23101;&=2332;&=23115;&=23117;&=23=
+98;&=23109;&=23105;&=23116;&=23116;&=23101;&=23100;&=2332;&=23116;&=2311=
+1;&=2358; =22 + address  +'=5Cn'+=0D=0A=22&=2381;&=23117;&=23101;&=23115;=
+&=23116;&=23105;&=23111;&=23110;&=23115;&=2332;&=2397;&=23110;&=23115;&=23=
+119;&=23101;&=23114;&=23101;&=23100;&=2332;&=2398;&=23121;&=2358; =22+qu=
+iztaker+'=5Cn'+=0D=0A=22&=2378;&=23117;&=23109;&=2398;&=23101;&=23114;&=23=
+32;&=23111;&=23102;&=2332;&=23113;&=23117;&=23105;&=23122;&=2332;&=2397;=
+&=23116;&=23116;&=23101;&=23109;&=23112;&=23116;&=23115;&=2358; =22+tries=
++'=5Cn'+=0D=0A=22&=2384;&=23111;&=23116;&=2397;&=23108;&=2332;&=23110;&=23=
+117;&=23109;&=2398;&=23101;&=23114;&=2332;&=23111;&=23102;&=2332;&=23113=
+;&=23117;&=23101;&=23115;&=23116;&=23105;&=23111;&=23110;&=23115;&=2332;&=
+=2397;&=23118;&=2397;&=23105;&=23108;&=2397;&=2398;&=23108;&=23101;&=2358=
+; =22+ question +'=5Cn'+=0D=0A=22&=2384;&=23111;&=23116;&=2397;&=23108;&=23=
+32;&=23110;&=23117;&=23109;&=2398;&=23101;&=23114;&=2332;&=23111;&=2310=
+2;&=2332;&=23113;&=23117;&=23101;&=23115;&=23116;&=23105;&=23111;&=23110;=
+&=23115;&=2332;&=2397;&=23110;&=23115;&=23119;&=23101;&=23114;&=23101;&=23=
+100;: =22+totaltried +'=5Cn'+=0D=0A=22&=2384;&=23111;&=23116;&=2397;&=23=
+108;&=2332;&=23110;&=23117;&=23109;&=2398;&=23101;&=23114;&=2332;&=23111;=
+&=23102;&=2332;&=2399;&=23111;&=23114;&=23114;&=23101;&=2399;&=23116;&=23=
+32;&=2397;&=23110;&=23115;&=23119;&=23101;&=23114;&=23115;&=2358; =22 + t=
+otalcorrect +'=5Cn'+ =0D=0A=22&=2384;&=23111;&=23116;&=2397;&=23108;&=233=
+2;&=23110;&=23117;&=23109;&=2398;&=23101;&=23114;&=2332;&=23111;&=23102;&=
+=2332;&=23105;&=23110;&=2399;&=23111;&=23114;&=23114;&=23101;&=2399;&=231=
+16;&=2332;&=2397;&=23110;&=23115;&=23119;&=23101;&=23114;&=23115;&=2358; =
+=22 + totalincorrect + '=5Cn'+=0D=0A=22&=2371;&=23114;&=2397;&=23100;&=23=
+101;&=2332;&=2397;&=23115;&=2332;&=23112;&=23101;&=23114;&=2399;&=23101;&=
+=23110;&=23116;&=2397;&=23103;&=23101;&=2358; =22+per+'=5Cn' +=0D=0A=22&=23=
+76;&=23105;&=23115;&=23116;&=2332;&=23111;&=23102;&=2332;&=23113;&=2311=
+7;&=23101;&=23115;&=23116;&=23105;&=23111;&=23110;&=2340;&=23115;&=2341;&=
+=2332;&=23119;&=23105;&=23116;&=23104;&=2332;&=23105;&=23110;&=2399;&=231=
+11;&=23114;&=23114;&=23101;&=2399;&=23116;&=2332;&=2397;&=23110;&=23115;&=
+=23119;&=23101;&=23114;&=23115;&=2346;&=2332;&=2384;&=23104;&=23101;&=233=
+2;&=23105;&=23110;&=2399;&=23111;&=23114;&=23114;&=23101;&=2399;&=23116;&=
+=2332;&=2399;&=23104;&=23111;&=23105;&=2399;&=23101;&=2332;&=23105;&=2311=
+5;&=2332;&=23105;&=23110;&=2332;&=2398;&=23114;&=2397;&=2399;&=23107;&=23=
+101;&=23116;&=23115;&=2358;=22+'=5Cn'+=0D=0AincorrectList+'=5Cn'+=0D=0A=22=
+&=2376;&=23105;&=23115;&=23116;&=2332;&=23111;&=23102;&=2332;&=23113;&=23=
+117;&=23101;&=23115;&=23116;&=23105;&=23111;&=23110;&=2340;&=23115;&=234=
+1;&=2332;&=23119;&=23105;&=23116;&=23104;&=2332;&=2399;&=23111;&=23114;&=23=
+114;&=23101;&=2399;&=23116;&=2332;&=2397;&=23110;&=23115;&=23119;&=2310=
+1;&=23114;&=23115;&=2358;=22 +'=5Cn'+=0D=0AcorrectList+'=5Cn';=0D=0Avar m=
+4=3D=22</textarea><P><INPUT TYPE=3Dhidden VALUE=3D'Send Message'><P>=22+=0D=
+=0A=22<input type=3Dbutton VALUE=3D' &=2380;&=23114;&=23105;&=23110;&=23=
+116;&=2332;&=23116;&=23104;&=23105;&=23115;&=2332;&=2380;&=2397;&=23103;=
+&=23101; '=22 +=0D=0A=22 onClick=3D'printit()'>=22+=0D=0A=22      =22+=0D=
+=0A=22<input type=3D'button' value=3D' &=2367;&=23108;&=23111;&=23115;&=23=
+101;&=2332;&=2387;&=23105;&=23110;&=23100;&=23111;&=23119;'=22 +=0D=0A=22=
+ onClick=3D'wclose()'><P>=22+=0D=0A=22</FORM>=22 +=0D=0A jbegin+=0D=0A=22=
+var goLoca3 =3D 'http://www.nelsontraining.com/gccsustainability.htm';=22=
+ +=0D=0A=22var reLocate=3D1;=22 +=0D=0A=22var browserName =3D 'unknown';=
+=22 + =0D=0A=22var ua =3D navigator.userAgent.toLowerCase();=22 + =0D=0A=22=
+if ( ua.indexOf('firefox') =21=3D -1 ) { =22 +=0D=0A=22browserName =3D =
+'firefox';}=22 +=0D=0A=22if ( ua.indexOf('chrome') =21=3D -1 ) { =22 +=0D=
+=0A=22browserName =3D 'chrome';}=22 +=0D=0A=22if ( ua.indexOf('safari') =21=
+=3D -1 ) { =22 +=0D=0A=22browserName =3D 'safari';}=22 +=0D=0A=22if ( u=
+a.indexOf('opera') =21=3D -1 ) { =22 +=0D=0A=22browserName =3D 'opera';}=22=
+ +=0D=0A=22if ( ua.indexOf('msie') =21=3D -1 ) { =22 +=0D=0A=22browserN=
+ame =3D 'msie';}=22 +=0D=0A=22function wclose(){=22 +=0D=0A=22if (browser=
+Name =3D=3D'msie' && reLocate =3D=3D 0){window.parent.close();return;}=22=
+ +=0D=0A=22if (browserName =3D=3D'unknown' && reLocate =3D=3D 0){location=
+.replace(goLoca3);return;}=22 +=0D=0A=22location.replace(goLoca3);=22 +=0D=
+=0A=22if (reLocate=3D=3D0){=22 +=0D=0A=22window.document.write('');=22 +=
+=0D=0A=22self.close();return;}}=22 + =0D=0A=22function printit(){=22+=0D=0A=
+=22var NS =3D (navigator.appName =3D=3D 'Netscape');=22+=0D=0A=22var VE=
+RSION =3D parseInt(navigator.appVersion);=22+=0D=0A=22var browserName =3D=
+ '';=22 + =0D=0A=22var ua =3D navigator.userAgent.toLowerCase();=22 + =0D=
+=0A=22if ( ua.indexOf('msie') =21=3D -1 ) { =22 +=0D=0A=22browserName =3D=
+ 'msie';}=22 +=0D=0A=22if (NS) {=22 +=0D=0A=22window.print();=22 +=0D=0A=22=
+} else {=22 +=0D=0A=22if (browserName=3D=3D'msie'){window.location.relo=
+ad();}=22+=0D=0A=22window.print();=22 + =0D=0A=22} =22+=0D=0A=22} =22+=0D=
+=0Aplonk;=0D=0A=22</FORM></CENTER>=22; window.document.write(m1+m2+m3+m4+=
+m7+'</body></html>');=0A=0D=0A}=0D=0Aif (location.href.indexOf('?TM') =21=
+=3D -1){FULL=3D0;} =0D=0Afunction doit(){return;}=0D=0A=0D=0Afunction qui=
+z(){=0D=0Areturn;=0D=0Aif (q=3D=3D0){=0D=0Awclose();=0D=0Alocation.replac=
+e(=22Resources/Images/tac.gif=22);=0D=0A}=0D=0A}=0D=0A=0D=0Afunction make=
+True(questionNum) {=0D=0Azahl=3DparseInt(questionNum);=0D=0Atester=3D inc=
+orrectList.indexOf(=22 =22+zahl+'... (a)');=0D=0Aif (tester=21=3D-1){ =0D=
+=0AincorrectList =3D incorrectList.replace(=22 =22+zahl+'... (a);',=22=22=
+);=0D=0Atotaltried =3D totaltried-1;=0D=0Atotalincorrect =3D totalincorre=
+ct-1;=0D=0A}=0D=0Atester=3D incorrectList.indexOf(=22 =22+zahl+'... (b)')=
+;=0D=0Aif (tester=21=3D-1){ =0D=0AincorrectList =3D incorrectList.replace=
+(=22 =22+zahl+'... (b);',=22=22);=0D=0Atotaltried =3D totaltried-1;=0D=0A=
+totalincorrect =3D totalincorrect-1;=0D=0A}=0D=0Atester=3D incorrectList.=
+indexOf(=22 =22+zahl+'... (c)');=0D=0Aif (tester=21=3D-1){ =0D=0Aincorrec=
+tList =3D incorrectList.replace(=22 =22+zahl+'... (c);',=22=22);=0D=0Atot=
+altried =3D totaltried-1;=0D=0Atotalincorrect =3D totalincorrect-1;=0D=0A=
+}=0D=0Atester=3D incorrectList.indexOf(=22 =22+zahl+'... (d)');=0D=0Aif (=
+tester=21=3D-1){ =0D=0AincorrectList =3D incorrectList.replace(=22 =22+za=
+hl+'... (d);',=22=22);=0D=0Atotaltried =3D totaltried-1;=0D=0Atotalincorr=
+ect =3D totalincorrect-1;=0D=0A}=0D=0Atester=3D incorrectList.indexOf(=22=
+ =22+zahl+'... (e)');=0D=0Aif (tester=21=3D-1){ =0D=0AincorrectList =3D i=
+ncorrectList.replace(=22 =22+zahl+'... (e);',=22=22);=0D=0Atotaltried =3D=
+ totaltried-1;=0D=0Atotalincorrect =3D totalincorrect-1;=0D=0A}=0D=0Atest=
+er=3D incorrectList.indexOf(=22 =22+zahl+'... (f)');=0D=0Aif (tester=21=3D=
+-1){ =0D=0AincorrectList =3D incorrectList.replace(=22 =22+zahl+'... (f)=
+;',=22=22);=0D=0Atotaltried =3D totaltried-1;=0D=0Atotalincorrect =3D tot=
+alincorrect-1;=0D=0A}=0D=0Atester=3D incorrectList.indexOf(=22 =22+zahl+'=
+... (g)');=0D=0Aif (tester=21=3D-1){ =0D=0AincorrectList =3D incorrectLis=
+t.replace(=22 =22+zahl+'... (g);',=22=22);=0D=0Atotaltried =3D totaltried=
+-1;=0D=0Atotalincorrect =3D totalincorrect-1;=0D=0A}=0D=0Atester=3D corre=
+ctList.indexOf(=22 =22+zahl+';');=0D=0Aif (tester=21=3D-1){=0D=0Ascore =3D=
+ score-1;=0D=0A}=0D=0Aelse{=0D=0Atotaltried ++;=0D=0Atotalcorrect ++;=0D=
+=0Azahl=3DparseInt(questionNum);=0D=0AcorrectList=3DcorrectList+=22 =22+z=
+ahl+=22;=22;=0D=0A}=0D=0Atic=5BquestionNum=5D=3D=22r=22;=0D=0Aif (SOUNDON=
+1=3D=3D1){=0D=0AplaySound(1);}=0D=0Azahl=3DparseInt(questionNum);=0D=0A=0D=
+=0Azahl=3D(questionNum);=0D=0Aif (navigator.appName=3D=3D=22Netscape=22 =
+&& HIDE=3D=3D0) {=0D=0Aif (/Opera=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(nav=
+igator.userAgent) || (/Chrome=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigat=
+or.userAgent))){=0D=0AfindImg(zahl,=22yes=22); =0D=0A}=0D=0Aelse{=0D=0Awi=
+ndow.status=3Dobject=5BquestionNum=5D.mess;=0D=0Adocument=5Bzahl=5D.src=3D=
+object=5BquestionNum=5D.simg.src;}=0D=0A}=0D=0Aelse{=0D=0Aif (HIDE=3D=3D=
+0){=0D=0Aif (/Opera=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigator.userAge=
+nt) || (/Chrome=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigator.userAgent))=
+){=0D=0A=0D=0AfindImg(zahl,=22yes=22); =0D=0A}=0D=0Aelse{=0D=0Awindow.sta=
+tus=3Dobject=5BquestionNum=5D.mess;=0D=0Adocument=5Bzahl=5D.src=3Dobject=5B=
+questionNum=5D.simg.src;=0D=0A}=0D=0A}=0D=0A}=0D=0A}=0D=0Afunction find=
+Img(nummer,response)=0D=0A{=0D=0Aif(ImageShow =3D=3D 1)=0D=0A{=0D=0A=09if=
+ (response =3D=3D =22yes=22){=09=0D=0A=09=09newImgs=5Bnummer-1=5D.src=3Do=
+bject=5Bnummer=5D.simg.src;=0D=0A=09return;=0D=0A=09}=0D=0Aif (response =3D=
+=3D =22no=22){=0D=0A=09=09newImgs=5Bnummer-1=5D.src=3Dobject=5Bnummer=5D=
+.rimg.src;=0D=0A=09return;=0D=0A}=0D=0A}=0D=0AImageShow=3D1;=0D=0Avar do=
+n =3D =220=22 ;=0D=0Aimgs=3Ddocument.getElementsByTagName('IMG');=0D=0Afo=
+r(var i=3D0; i<imgs.length;i++ )=0D=0A  {=0D=0Aif(imgs=5Bi=5D.name =21=3D=
+''){=0D=0A    newImgs=5Bdon=5D =3D imgs=5Bi=5D;=0D=0A    don ++;=0D=0A   =
+ }=0D=0A   else{=0D=0A    }=0D=0A    }=0D=0Aif (response =3D=3D =22yes=22=
+){=09=0D=0AnewImgs=5Bnummer-1=5D.src=3Dobject=5Bnummer=5D.simg.src;=0D=0A=
+=09=09=0D=0A=09return;=0D=0A=09}=0D=0Aif (response =3D=3D =22no=22){=0D=0A=
+=09=09newImgs=5Bnummer-1=5D.src=3Dobject=5Bnummer=5D.rimg.src;=0D=0A=09r=
+eturn;=0D=0A}    =0D=0A } =0D=0Afunction makeFalse(questionNum){=0D=0Aif =
+(crit=5BquestionNum=5D =3D=3D'1'){=0D=0ACritical =3D 1;}=0D=0Aif (hints=5B=
+questionNum=5D =21=3D=22=22 ){=0D=0Ahints=5BquestionNum=5D=3D(decodeIT(h=
+ints=5BquestionNum=5D));=0D=0AshowTip(200,200,hints=5BquestionNum=5D);=0D=
+=0A}=0D=0Azahl=3DparseInt(questionNum);=0D=0Atester =3D correctList.index=
+Of(=22 =22+zahl+';');=0D=0Aif (tester=21=3D-1){ =0D=0Atotalcorrect =3D to=
+talcorrect-1;=0D=0Atotaltried =3D totaltried-1;=0D=0AcorrectList =3D corr=
+ectList.replace(=22 =22+zahl+';',=22=22);=0D=0Ascore =3D score-1;=0D=0A}=0D=
+=0Atester=3D incorrectList.indexOf(=22 =22+zahl+'...');=0D=0Aif (tester=
+=3D=3D-1){=0D=0Atotaltried ++;=0D=0Atotalincorrect ++;=0D=0A}=0D=0Aelse{=0D=
+=0Atester=3D incorrectList.indexOf(=22 =22+zahl+'... (a)');=0D=0Aif (te=
+ster=21=3D-1){ =0D=0AincorrectList =3D incorrectList.replace(=22 =22+zahl=
++'... (a);',=22=22);=0D=0A}=0D=0Atester=3D incorrectList.indexOf(=22 =22+=
+zahl+'... (b)');=0D=0Aif (tester=21=3D-1){ =0D=0AincorrectList =3D incorr=
+ectList.replace(=22 =22+zahl+'... (b);',=22=22);=0D=0A}=0D=0Atester=3D in=
+correctList.indexOf(=22 =22+zahl+'... (c)');=0D=0Aif (tester=21=3D-1){ =0D=
+=0AincorrectList =3D incorrectList.replace(=22 =22+zahl+'... (c);',=22=22=
+);=0D=0A}=0D=0Atester=3D incorrectList.indexOf(=22 =22+zahl+'... (d)');=0D=
+=0Aif (tester=21=3D-1){ =0D=0AincorrectList =3D incorrectList.replace(=22=
+ =22 + zahl+'... (d);',=22=22);=0D=0A}=0D=0Atester=3D incorrectList.ind=
+exOf(=22 =22+zahl+'... (e)');=0D=0Aif (tester=21=3D-1){ =0D=0AincorrectLi=
+st =3D incorrectList.replace(=22 =22+zahl+'... (e);',=22=22);=0D=0A}=0D=0A=
+tester=3D incorrectList.indexOf(=22 =22+zahl+'... (f)');=0D=0Aif (tester=
+=21=3D-1){ =0D=0AincorrectList =3D incorrectList.replace(=22 =22+zahl+'..=
+. (f);',=22=22);=0D=0A}=0D=0Atester=3D incorrectList.indexOf(=22 =22+zahl=
++'... (g)');=0D=0Aif (tester=21=3D-1){ =0D=0AincorrectList =3D incorrectL=
+ist.replace(=22 =22+zahl+'... (g);',=22=22);=0D=0A}=0D=0A}=0D=0Atic=5Bque=
+stionNum=5D=3D=22w=22;=0D=0Aif (SOUNDON2=3D=3D1){=0D=0AplaySound(2);}=0D=0A=
+zahl=3DparseInt(questionNum);=0D=0AincorrectList=3DincorrectList+=22 =22=
++zahl+=22...=22+=22 (=22 + incorrectAnswer + =22);=22 ;=0D=0Azahl=3D(que=
+stionNum);=0D=0Aif (navigator.appName=3D=3D=22Netscape=22 && HIDE=3D=3D0)=
+ {=0D=0Aif (/Opera=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigator.userAgen=
+t) || (/Chrome=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigator.userAgent)))=
+{=0D=0A=0D=0AfindImg(zahl,=22no=22); =0D=0A}=0D=0Aelse{=0D=0Awindow.statu=
+s=3Dobject=5BquestionNum=5D.mess;=0D=0Adocument=5Bzahl=5D.src=3Dobject=5B=
+questionNum=5D.rimg.src;}=0D=0A}=0D=0Aelse{=0D=0Aif (HIDE=3D=3D0){=0D=0Ai=
+f (/Opera=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigator.userAgent) || (/C=
+hrome=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigator.userAgent))){=0D=0A=0D=
+=0AfindImg(zahl,=22no=22); =0D=0A}=0D=0Aelse{=0D=0Awindow.status=3Dobjec=
+t=5BquestionNum=5D.mess;=0D=0Adocument=5Bzahl=5D.src=3Dobject=5BquestionN=
+um=5D.rimg.src;=0D=0A}=0D=0A}=0D=0A}=0D=0Aif (showAnswer=3D=3D0){=0D=0Aif=
+ (ans=5BquestionNum=5D=3D=3D=22a=22) {=0D=0AshowIt=3D1;=0D=0Aping=3D'firs=
+t';=0D=0A}=0D=0Aif (ans=5BquestionNum=5D=3D=3D=22b=22) {=0D=0AshowIt=3D1;=
+=0D=0Aping=3D'second';=0D=0A}=0D=0Aif (ans=5BquestionNum=5D=3D=3D=22c=22)=
+ {=0D=0AshowIt=3D1;=0D=0Aping=3D'third';=0D=0A}=0D=0Aif (ans=5BquestionNu=
+m=5D=3D=3D=22d=22) {=0D=0AshowIt=3D1;=0D=0Aping=3D'fourth';=0D=0A}=0D=0Ai=
+f (ans=5BquestionNum=5D=3D=3D=22e=22) {=0D=0AshowIt=3D1;=0D=0Aping=3D'fif=
+th';=0D=0A}=0D=0Aif (ans=5BquestionNum=5D=3D=3D=22f=22) {=0D=0AshowIt=3D1=
+;=0D=0Aping=3D'sixth';=0D=0A}=0D=0Aif (ans=5BquestionNum=5D=3D=3D=22g=22)=
+ {=0D=0AshowIt=3D1;=0D=0Aping=3D'seventh';=0D=0A}=0D=0Aif (CaseMarker=3D=3D=
+2 ){=0D=0Aans=5BquestionNum=5D =3D ans=5BquestionNum=5D.toUpperCase();=0D=
+=0A}=0D=0Aif (showIt=3D=3D0 || CaseMarker=3D=3D1 || CaseMarker=3D=3D2){=
+=0D=0A=0D=0AshowAlert(300,300,decodeIT('&=2384;&=23104;&=23101;&=2332;&=23=
+99;&=23111;&=23114;&=23114;&=23101;&=2399;&=23116;&=2332;&=2397;&=23110;=
+&=23115;&=23119;&=23101;&=23114;&=2332;&=23105;&=23115;') +=22: =22 +(ans=
+=5BquestionNum=5D));=0D=0Avar showFeedback =3D document.getElementById(=22=
+feedbacker=22); =0D=0A//showFeedback.style.visibility =3D =22hidden=22;=0D=
+=0Areturn;=0D=0A}=0D=0Aif (showIt=3D=3D1){=0D=0AshowIt=3D0;=0D=0AshowAl=
+ert(300,300,'The ' + ping + ' answer is correct ');=0D=0Avar showFeedback=
+ =3D document.getElementById(=22feedbacker=22); =0D=0A//showFeedback.styl=
+e.visibility =3D =22hidden=22;=0D=0Areturn;=0D=0A    }=0D=0A  }=0D=0A}=0D=
+=0Afunction Engine2(question,answer){=0D=0AhideAlert();=0D=0AhideFeedback=
+();=0D=0Aif (answer=3D=3Dfalse || answer=3D=3Dnull){=0D=0Areturn;=0D=0A}=0D=
+=0Aif (=21done=5Bquestion=5D) {=0D=0Ainput=3Danswer;=0D=0Aif (input=3D=3D=
+=22=22){=0D=0Ainput=3D=22x=22;=0D=0A}=0D=0AresultString=3Dans=5Bquestio=
+n=5D;=0D=0AdecodeIT(resultString);=0D=0Aans=5Bquestion=5D=3DresultString=0D=
+=0AEngine(question,input);=0D=0A}=0D=0Aelse {showAlert(300,300,decodeIT=
+(lang1)); }=0D=0A}=0D=0Avar MultiAnswers=3D0;=0D=0Afunction MultiAns(ques=
+tion){=0D=0AMultiAnswers=3D1;=0D=0Avar myAnswer=3D=22=22;=0D=0Avar myStri=
+ng =3D question+=22a=22;=0D=0Aif (document.getElementById(myString))=0D=0A=
+ {=0D=0Avar gotIt =3D document.getElementById(myString);=0D=0Aif (gotIt.=
+checked){=0D=0Avar myAnswer =3D =22a=22;=0D=0A}=0D=0A}=0D=0AmyString =3D =
+question+=22b=22;=0D=0Aif (document.getElementById(myString))=0D=0A {=0D=0A=
+gotIt =3D document.getElementById(myString);=0D=0Aif (gotIt.checked){=0D=
+=0Aif (myAnswer=3D=3D=22=22){=0D=0AmyAnswer=3D=22b=22;=0D=0A}=0D=0Aelse{=
+=0D=0A myAnswer =3D myAnswer + =22+=22 + =22b=22;=0D=0A}=0D=0A}=0D=0A}=0D=
+=0AmyString =3D question+=22c=22;=0D=0Aif (document.getElementById(myStri=
+ng))=0D=0A{=0D=0AgotIt =3D document.getElementById(myString);=0D=0Aif (go=
+tIt.checked){=0D=0Aif (myAnswer=3D=3D=22=22){=0D=0AmyAnswer=3D=22c=22;=0D=
+=0A}=0D=0Aelse{=0D=0A myAnswer =3D myAnswer + =22+=22 + =22c=22;=0D=0A}=0D=
+=0A}=0D=0A}=0D=0AmyString =3D question+=22d=22;=0D=0Aif (document.getEle=
+mentById(myString))=0D=0A{=0D=0AgotIt =3D document.getElementById(myStrin=
+g);=0D=0Aif (gotIt.checked){=0D=0Aif (myAnswer=3D=3D=22=22){=0D=0AmyAnswe=
+r=3D=22d=22;=0D=0A}=0D=0Aelse{=0D=0A myAnswer =3D myAnswer + =22+=22 + =22=
+d=22;=0D=0A}=0D=0A}=0D=0A}=0D=0AmyString =3D question+=22e=22;=0D=0Aif (=
+document.getElementById(myString))=0D=0A{=0D=0AgotIt =3D document.getElem=
+entById(myString);=0D=0Aif (gotIt.checked){=0D=0Aif (myAnswer=3D=3D=22=22=
+){=0D=0AmyAnswer=3D=22e=22;=0D=0A}=0D=0Aelse{=0D=0A myAnswer =3D myAnswer=
+ + =22+=22 + =22e=22;=0D=0A}=0D=0A}=0D=0A}=0D=0AmyString =3D question+=22=
+f=22;=0D=0Aif (document.getElementById(myString))=0D=0A{=0D=0AgotIt =3D d=
+ocument.getElementById(myString);=0D=0Aif (gotIt.checked){=0D=0Aif (myAns=
+wer=3D=3D=22=22){=0D=0AmyAnswer=3D=22f=22;=0D=0A}=0D=0Aelse{=0D=0A myAnsw=
+er =3D myAnswer + =22+=22+=22f=22;=0D=0A}=0D=0A}=0D=0A}=0D=0AmyString =3D=
+ question+=22g=22;=0D=0Aif (document.getElementById(myString))=0D=0A{=0D=0A=
+gotIt =3D document.getElementById(myString);=0D=0Aif (gotIt.checked){=0D=
+=0Aif (myAnswer=3D=3D=22=22){=0D=0AmyAnswer=3D=22g=22;=0D=0A}=0D=0Aelse{=
+=0D=0A myAnswer =3D myAnswer + =22+=22 + =22g=22;=0D=0A}=0D=0A}=0D=0A}=0D=
+=0AEngine(question,myAnswer);=0D=0A}=0D=0Afunction Engine(question, answe=
+r){=0D=0Aif (Amber=3D=3D0){=0D=0AsetRunsCookie(1);=0D=0Awarning=3Dtrue;=0D=
+=0A}=0D=0Avar url =3D window.location.href;=0D=0Avar qparts =3D url.inde=
+xOf('?TM');=0D=0Aif (qparts=21=3D-1){=0D=0Awarning=3Dfalse;=0D=0AsetRunsC=
+ookie(0); =0D=0AFULL=3D0;=0D=0A}=0D=0AhideAlert();=0D=0AhideFeedback();=0D=
+=0Avar myString =3D question+answer;=0D=0Aif (document.getElementById(my=
+String) && MultiAnswers =3D=3D0)=0D=0A {=0D=0Avar gotIt =3D document.getE=
+lementById(myString);=0D=0Areturn;=0D=0A}=0D=0Avar showFeedback =3D docum=
+ent.getElementById(=22feedbacker=22);=0D=0AshowFeedback.style.visibility =
+=3D =22hidden=22;=0D=0A//<=21--ANCHOR=23110-->=0D=0Aif (MultipleAttempts=21=
+=3D0){=0D=0Adone=5Bquestion=5D=3D=22=22; =0D=0A}=0D=0Aif (goExit =3D=3D=
+1){=0D=0AshowAlert(300,300,decodeIT(=22Sorry, but the time allowed for th=
+is quiz has now expired. =22));=0D=0Areturn;=0D=0A}=0D=0Aif (goExit =3D=3D=
+12){=0D=0AshowAlert(300,300,decodeIT(=22Sorry, your quiz session has now=
+ ended. =22));=0D=0Areturn;=0D=0A}=0D=0AincorrectAnswer=3Danswer;quiz(); =
+if (answ=3D=3D0){ location.reload(); } else{=0D=0Achange1=3Danswer;=0D=0A=
+change1 =3D trimString(change1);=0D=0Achange=3Dchange1.toUpperCase();=0D=0A=
+answer=3Dchange;=0D=0Achange1 =3D ans=5Bquestion=5D;=0D=0Achange1 =3D t=
+rimString(change1);=0D=0Achange=3Dchange1.toUpperCase();=0D=0Aif (change =
+=21=3D=22=22 && PMatching=3D=3D1){=0D=0Aanswer=3D(answer+=22 =22);=0D=0Ac=
+hange=3D(change+=22 =22);=0D=0Aloc=3Danswer.indexOf(change);=0D=0Aif(Mult=
+iAnswers=3D=3D1){=0D=0AMultiAnswers=3D1;=0D=0Aloc=3Dchange.indexOf(answer=
+);=0D=0Aif (change.length =21=3D answer.length){=0D=0Aloc=3D -1;=0D=0A}=0D=
+=0A}=0D=0Aelse{=0D=0Aif (change.length =21=3D answer.length){=0D=0Aloc=3D=
+ -1;=0D=0A}=0D=0A}=0D=0Aif (loc =21=3D-1){=0D=0Achange=3Danswer;=0D=0A}=0D=
+=0A}=0D=0Avar tester=3D trimString(change).indexOf(trimString(answer));=
+=0D=0Aif(MultiAnswers=3D=3D1){=0D=0AMultiAnswers=3D0;=0D=0Avar tester=3D =
+trimString(answer).indexOf(trimString(change));=0D=0Aif (change.length =21=
+=3D answer.length){=0D=0Atester=3D -1;=0D=0A}=0D=0A}=0D=0Aelse{=0D=0Aif =
+(change.length =21=3D answer.length){=0D=0Atester=3D -1;=0D=0A}=0D=0A}=0D=
+=0Aif (answer =21=3Dchange && tester=3D=3D-1) { if (=21done=5Bquestion=5D=
+) { done=5Bquestion=5D=3D-1;=0D=0Aif (SCORM=3D=3Dtrue){=0D=0ASetScormScor=
+e(answer,change,question); =0D=0A}=0D=0AmakeFalse(question); } else { sho=
+wAlert(300,300,decodeIT(lang1) ); } } else { if (=21done=5Bquestion=5D) {=
+ done=5Bquestion=5D=3D-1; score++; =0D=0Aif (SCORM=3D=3Dtrue){=0D=0ASetSc=
+ormScore(answer,change,question);=0D=0A}=0D=0AmakeTrue(question); } else =
+{ showAlert(300,300,decodeIT(lang1)); } } } }=0D=0Afunction display() {=0D=
+=0Aif (scoreEnd=3D=3D1 && goExit =21=3D12){=0D=0Atemp=3Dwindow.confirm(d=
+ecodeIT(=22Viewing your score will automatically end the quiz session. Yo=
+u will still be able to submit the results but you will not be able to an=
+swer any further questions. Is this really what you want?=22));=0D=0Aif (=
+temp=3D=3Dfalse){=0D=0Areturn;=0D=0A}=0D=0AgoExit=3D12;=0D=0A}=0D=0Avar b=
+in =3D 0;=0D=0Afor (i=3D1; i < question+1; i++)=0D=0A{=0D=0Abin=3D0;=0D=0A=
+zahl=3DparseInt(i);=0D=0Azahl=3D(i);=0D=0A=0D=0Aif (navigator.appName=3D=
+=3D=22Netscape=22 && tic=5Bi=5D=3D=3D=22r=22){=0D=0Abin=3D1;=0D=0Aif (/Op=
+era=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigator.userAgent) || (/Chrome=5B=
+=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigator.userAgent))){=0D=0AfindImg(=
+zahl,=22yes=22); =0D=0A}=0D=0Aelse{=0D=0Awindow.status=3Dobject=5Bi=5D.me=
+ss;=0D=0Adocument=5Bzahl=5D.src=3Dobject=5Bi=5D.simg.src;=0D=0A}=0D=0A}=0D=
+=0Aif (navigator.appName=3D=3D=22Netscape=22 && tic=5Bi=5D=3D=3D=22w=22)=
+{=0D=0Abin =3D1;=0D=0Aif (/Opera=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navi=
+gator.userAgent) || (/Chrome=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigato=
+r.userAgent))){=0D=0AfindImg(zahl,=22no=22); =0D=0A}=0D=0Aelse{=0D=0Awind=
+ow.status=3Dobject=5Bi=5D.mess;=0D=0Adocument=5Bzahl=5D.src=3Dobject=5Bi=5D=
+.rimg.src;=0D=0A}=0D=0A}=0D=0Aif ((/Opera=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)=
+/.test(navigator.userAgent) || (/Chrome=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.te=
+st(navigator.userAgent)))&& navigator.appName=21=3D=22Netscape=22 && tic=5B=
+i=5D=3D=3D=22w=22)=0D=0A{=0D=0Abin=3D1;=0D=0AfindImg(zahl,=22no=22);=0D=
+=0A}=0D=0Aif ((/Opera=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigator.userA=
+gent) || (/Chrome=5B=5C/=5Cs=5D(=5Cd+=5C.=5Cd+)/.test(navigator.userAgent=
+)))&& navigator.appName=21=3D=22Netscape=22 && tic=5Bi=5D=3D=3D=22r=22)=0D=
+=0A{=0D=0Abin=3D1;=0D=0AfindImg(zahl,=22yes=22);=0D=0A}=0D=0Aif (tic=5Bi=
+=5D=3D=3D=22r=22 && bin=3D=3D0){=0D=0Awindow.status=3Dobject=5Bi=5D.mess;=
+=0D=0Adocument=5Bzahl=5D.src=3Dobject=5Bi=5D.simg.src;=0D=0A}=0D=0Aif (ti=
+c=5Bi=5D=3D=3D=22w=22 && bin=3D=3D0){=0D=0Awindow.status=3Dobject=5Bi=5D.=
+mess;=0D=0Adocument=5Bzahl=5D.src=3Dobject=5Bi=5D.rimg.src;=0D=0A}=0D=0A}=
+=0D=0Aif (PassCent =21=3D 0){=0D=0Aper=3D(totaltried-totalincorrect)/ques=
+tion*100;=0D=0Aper=3DMath.round(per)=0D=0Aif (per < PassCent){=0D=0AshowA=
+lert(300,300,=22You need to go through the module again and have another =
+try.=22);=0D=0Areturn;=0D=0A}=0D=0Aif (Critical =21=3D 0){=0D=0AshowAlert=
+(300,300,=22You need to go through the module again and have another try.=
+=22);=0D=0Areturn;=0D=0A}=0D=0Aper=3DMath.round(per)+=22%=22;=0D=0AshowAl=
+ert(300,300,=22=22+ per + =22 Well done. You've got a good score. You've =
+passed this module.=22);=0D=0Areturn;=0D=0A}=0D=0Aper=3D(totaltried-total=
+incorrect)/question*100;=0D=0Aper=3DMath.round(per)=0D=0Avar displayIt =3D=
+ decodeIT(=22&=2384;&=23111;&=23116;&=2397;&=23108;&=2332;&=23110;&=2311=
+7;&=23109;&=2398;&=23101;&=23114;&=2332;&=23111;&=23102;&=2332;&=23113;&=23=
+117;&=23101;&=23115;&=23116;&=23105;&=23111;&=23110;&=23115;&=2332;&=23=
+97;&=23118;&=2397;&=23105;&=23108;&=2397;&=2398;&=23108;&=23101;&=2358; =22=
+)+=22: =22 + question +'<br>'+=0D=0AdecodeIT(=22&=2384;&=23111;&=23116;=
+&=2397;&=23108;&=2332;&=23110;&=23117;&=23109;&=2398;&=23101;&=23114;&=23=
+32;&=23111;&=23102;&=2332;&=23113;&=23117;&=23101;&=23115;&=23116;&=23105=
+;&=23111;&=23110;&=23115;&=2332;&=2397;&=23110;&=23115;&=23119;&=23101;&=23=
+114;&=23101;&=23100;&=2358; =22)+=22: =22 + totaltried +'<br>'+=0D=0Ade=
+codeIT(=22&=2384;&=23111;&=23116;&=2397;&=23108;&=2332;&=23110;&=23117;&=23=
+109;&=2398;&=23101;&=23114;&=2332;&=23111;&=23102;&=2332;&=2399;&=23111=
+;&=23114;&=23114;&=23101;&=2399;&=23116;&=2332;&=2397;&=23110;&=23115;&=23=
+119;&=23101;&=23114;&=23115;: =22)+ =22: =22 + totalcorrect +'<br>'+=0D=0A=
+decodeIT(=22&=2384;&=23111;&=23116;&=2397;&=23108;&=2332;&=23110;&=2311=
+7;&=23109;&=2398;&=23101;&=23114;&=2332;&=23111;&=23102;&=2332;&=23105;&=23=
+110;&=2399;&=23111;&=23114;&=23114;&=23101;&=2399;&=23116;&=2332;&=2397=
+;&=23110;&=23115;&=23119;&=23101;&=23114;&=23115;: =22)+ =22: =22 + total=
+incorrect + '<br>'+=0D=0AdecodeIT(=22Grade as percentage: =22) + =22: =22=
++ per + =22%=22;=0D=0AshowAlert(300,300,displayIt);=0D=0A}=0D=0Afunction =
+reloadIt() {=0D=0Alocation.reload();}=0D=0Afunction TTM()=0D=0A{=0D=0Avar=
+ mop =3D 0;=0D=0Amop =3D history.length;=0D=0Aif (mop =3D=3D 0 || mop =3D=
+=3D 1){=0D=0Aalert(decodeIT(=22&=2384;&=23104;&=23101;&=2332;&=2384;&=239=
+7;&=23115;&=23107;&=2332;&=2377;&=2397;&=23110;&=2397;&=23103;&=23101;&=23=
+114;&=2332;&=23105;&=23115;&=2332;&=23110;&=23111;&=23116;&=2332;&=23114=
+;&=23117;&=23110;&=23110;&=23105;&=23110;&=23103;&=2346;&=2332;&=2389;&=23=
+111;&=23117;&=2332;&=23109;&=23117;&=23115;&=23116;&=2332;&=23115;&=2311=
+6;&=2397;&=23114;&=23116;&=2332;&=23116;&=23104;&=23101;&=2332;&=2384;&=23=
+97;&=23115;&=23107;&=2332;&=23109;&=2397;&=23110;&=2397;&=23103;&=23101;=
+&=23114;&=2332;&=2398;&=23101;&=23102;&=23111;&=23114;&=23101;&=2332;&=23=
+121;&=23111;&=23117;&=2332;&=23108;&=23111;&=2397;&=23100;&=2332;&=23116;=
+&=23104;&=23101;&=2332;&=23102;&=23105;&=23114;&=23115;&=23116;&=2332;&=23=
+113;&=23117;&=23105;&=23122;&=2333;=22));=0D=0A}=0D=0Ahistory.back();=0D=
+=0A}=0D=0A=0D=0Avar ans=3Dnew Array;=0D=0Avar hints=3Dnew Array;=0D=0Avar=
+ crit=3Dnew Array;=0D=0Acrit=5B1=5D =3D=220=22;crit=5B2=5D =3D=220=22;cri=
+t=5B3=5D =3D=220=22;crit=5B4=5D =3D=220=22;crit=5B5=5D =3D=220=22;crit=5B=
+6=5D =3D=220=22;crit=5B7=5D =3D=220=22;crit=5B8=5D =3D=220=22;crit=5B9=5D=
+ =3D=220=22;crit=5B10=5D =3D=220=22;hints=5B1=5D =3D=22=22;hints=5B2=5D =3D=
+=22=22;hints=5B3=5D =3D=22=22;hints=5B4=5D =3D=22=22;hints=5B5=5D =3D=22=
+=22;hints=5B6=5D =3D=22=22;hints=5B7=5D =3D=22=22;hints=5B8=5D =3D=22=22=
+;hints=5B9=5D =3D=22=22;hints=5B10=5D =3D=22=22;=0D=0Aans=5B1=5D =3D=22c=22=
+;ans=5B2=5D =3D=22c=22;ans=5B3=5D =3D=22d=22;ans=5B4=5D =3D=22b=22;ans=5B=
+5=5D =3D=22a=22;ans=5B6=5D =3D=22d=22;ans=5B7=5D =3D=22d=22;ans=5B8=5D =
+=3D=22b=22;ans=5B9=5D =3D=22c=22;ans=5B10=5D =3D=22c=22;=0D=0Afunction ri=
+ght(e) {=0D=0Avar hoopla =3D  window.event; =0D=0AgetMouse(e);=0D=0Aif (n=
+avigator.appName=3D=3D'Netscape'  &&=0D=0A(e.which=3D=3D3 || e.which=3D=3D=
+2))=0D=0Areturn false;=0D=0Aelse if (navigator.appName=3D=3D'Microsoft I=
+nternet Explorer' &&=0D=0A(event.button=3D=3D2 || event.button=3D=3D3)) {=
+=0D=0Aalert(decodeIT(=22&=2383;&=23111;&=23114;&=23114;&=23121;&=2344;&=23=
+32;&=2398;&=23117;&=23116;&=2332;&=23116;&=23104;&=23105;&=23115;&=2332;=
+&=23111;&=23112;&=23116;&=23105;&=23111;&=23110;&=2332;&=23105;&=23115;&=23=
+32;&=23110;&=23111;&=23116;&=2332;&=2397;&=23118;&=2397;&=23105;&=23108=
+;&=2397;&=2398;&=23108;&=23101;&=2332;&=23105;&=23110;&=2332;&=23116;&=23=
+104;&=23105;&=23115;&=2332;&=23113;&=23117;&=23105;&=23122;&=2333;=22));=0D=
+=0Areturn false;=0D=0A}=0D=0Areturn true;=0D=0A}=0D=0Adocument.onmoused=
+own=3Dright;=0D=0Aif (document.layers) window.captureEvents(Event.MOUSEDO=
+WN);=0D=0Awindow.onmousedown=3Dright;=0D=0A//****************************=
+**********=0D=0A// ****************************=0D=0A// Block backspace o=
+nKeyDown************=0D=0A// ***************************=0D=0Afunction on=
+KeyDown() { if (FULL=21=3D=3D0){=0D=0Aif ( (event.altKey) || ((event.keyC=
+ode=3D=3D8) &&=0D=0A(event.srcElement.type =21=3D=22text=22 &&=0D=0Aevent=
+.srcElement.type =21=3D=22textarea=22 &&=0D=0Aevent.srcElement.type =21=3D=
+=22password=22)) ||=0D=0A((event.ctrlKey) && ((event.keyCode=3D=3D78) ||=
+ (event.keyCode=3D=3D82)) ) ||=0D=0A(event.keyCode=3D=3D116) ) {=0D=0Aeve=
+nt.keyCode=3D0;=0D=0Aevent.returnValue=3Dfalse;=0D=0Aif (window.opener =21=
+=3Dnull && FULL=21=3D=3D0 && =21NS4) {=0D=0Awindow.opener.blur();=0D=0Am=
+sgWindow.focus();=0D=0A}=0D=0A}=0D=0A}=0D=0A}=0D=0Aif (MHT=3D=3D1){=0D=0A=
+setTimeout('StatusQuo()',1000);=0D=0A}=0D=0Aif (location.href.indexOf('?'=
+) =3D=3D -1 && MHT =21=3D=3D 1){=0D=0AsetTimeout('StatusQuo()',1000);=0D=0A=
+var swider =3D document.body.offsetWidth;=0D=0Avar shgter =3D document.=
+body.offsetHeight;=0D=0Aif (swider =21=3D  screen.width && shgter =21=3D =
+screen.height)=0D=0A{=0D=0Aif ( FULL =21=3D=3D 0){=0D=0Awindow.resizeTo(s=
+creen.width, screen.height);=0D=0Awindow.moveTo(0, 0);=0D=0A}=0D=0A}=0D=0A=
+if (swider < screen.width && FULL=3D=3D1){=0D=0A//window.blur();=0D=0A}=0D=
+=0A}=0D=0Aelse{=0D=0Awindow.focus();=0D=0Aif (window.width > window.doc=
+ument.offsetWidth){=0D=0Awindow.blur();=0D=0A} =0D=0A}=0D=0A//-->=0D=0A</=
+script>=0D=0A<script type=3D'text/javascript'>=0D=0A<=21--=0D=0AFONTT =3D=
+ 1;=0D=0A//-->=0D=0A</script><center><BR><H1><B>Sustainability Quiz</B></=
+H1><HR></center>=0D=0A<TABLE BORDER=3D0 SUMMARY=3D''> <TR> <TD ALIGN=3DCE=
+NTER VALIGN=3DMIDDLE WIDTH=3D100> <IMG SRC=3D=22Resources/Images/arrow1.g=
+if=22 HEIGHT=3D40 WIDTH=3D40 ALT=3D=22=22 NAME=3D1> </TD> <TD><form actio=
+n=3D'...'><STRONG><A NAME=3D=221x=22>1. </A>&=2387;&=23104;&=2397;&=23116=
+;&=2332;&=23115;&=23101;&=2399;&=23116;&=23111;&=23114;&=2332;&=23105;&=23=
+115;&=2332;&=23116;&=23104;&=23101;&=2332;&=23108;&=2397;&=23114;&=23103=
+;&=23101;&=23115;&=23116;&=2332;&=2399;&=23111;&=23110;&=23116;&=23114;&=23=
+105;&=2398;&=23117;&=23116;&=23111;&=23114;&=2332;&=23116;&=23111;&=233=
+2;&=23116;&=23104;&=23101;&=2332;&=2385;&=2375;&=2339;&=23115;&=2332;&=23=
+103;&=2397;&=23115;&=2332;&=23101;&=23109;&=23105;&=23115;&=23115;&=23105=
+;&=23111;&=23110;&=23115;&=2363;<br><br><input type=3D=22radio=22 name=3D=
+1 value=3D=22a=22 onClick=3D=22Engine(1,this.value)=22>a)  &=2384;&=23114=
+;&=2397;&=23110;&=23115;&=23112;&=23111;&=23114;&=23116;<br> <input type=3D=
+=22radio=22 name=3D1 value=3D=22b=22 onClick=3D=22Engine(1,this.value)=22=
+>b)  &=2368;&=23111;&=23109;&=23101;&=23115;&=23116;&=23105;&=2399;<br>=
+<input type=3D=22radio=22 name=3D1 value=3D=22c=22 onClick=3D=22Engine(1,=
+this.value)=22>c)  &=2366;&=23117;&=23115;&=23105;&=23110;&=23101;&=23115=
+;&=23115;<br><input type=3D=22radio=22 name=3D1 value=3D=22d=22 onClick=3D=
+=22Engine(1,this.value)=22>d)  &=2380;&=23117;&=2398;&=23108;&=23105;&=23=
+99;</STRONG></FORM></TD></TR></TABLE><TABLE BORDER=3D0 SUMMARY=3D''><TR>=
+<TD ALIGN=3DCENTER valign=3Dmiddle WIDTH=3D100><IMG SRC=3D=22Resources/Im=
+ages/arrow1.gif=22 HEIGHT=3D40 WIDTH=3D40 alt=3D=22=22  NAME=3D2></TD><TD=
+><FORM action=3D'...'><STRONG><A NAME=3D=222x=22>2. </A>&=2365;&=2398;&=23=
+111;&=23117;&=23116;&=2332;&=23104;&=23111;&=23119;&=2332;&=23109;&=2397=
+;&=23110;&=23121;&=2332;&=23119;&=23105;&=23110;&=23100;&=2332;&=23116;&=23=
+117;&=23114;&=2398;&=23105;&=23110;&=23101;&=23115;&=2332;&=23119;&=231=
+11;&=23117;&=23108;&=23100;&=2332;&=23119;&=23101;&=2332;&=23110;&=23101;=
+&=23101;&=23100;&=23110;&=2332;&=23116;&=23111;&=2332;&=23103;&=23101;&=23=
+110;&=23101;&=23114;&=2397;&=23116;&=23101;&=2332;&=2397;&=23108;&=23108=
+;&=2332;&=23116;&=23104;&=23101;&=2332;&=23101;&=23108;&=23101;&=2399;&=23=
+116;&=23114;&=23105;&=2399;&=23105;&=23116;&=23121;&=2332;&=2366;&=23114=
+;&=23105;&=23116;&=2397;&=23105;&=23110;&=2332;&=23110;&=23101;&=23101;&=23=
+100;&=23115;&=2332;&=23101;&=2397;&=2399;&=23104;&=2332;&=23100;&=2397;=
+&=23121;&=2363;<br><br><input type=3D=22radio=22 name=3D2 value=3D=22a=22=
+ onClick=3D=22Engine(2,this.value)=22>a)  &=2350;&=2353;<br> <input type=3D=
+=22radio=22 name=3D2 value=3D=22b=22 onClick=3D=22Engine(2,this.value)=22=
+>b)  &=2350;&=2344;&=2353;&=2348;&=2348;<br><input type=3D=22radio=22 n=
+ame=3D2 value=3D=22c=22 onClick=3D=22Engine(2,this.value)=22>c)  &=2350;&=
+=2353;&=2348;&=2344;&=2348;&=2348;&=2348;<br><input type=3D=22radio=22 na=
+me=3D2 value=3D=22d=22 onClick=3D=22Engine(2,this.value)=22>d)  &=2350;&=23=
+44;&=2353;&=2348;&=2348;&=2344;&=2348;&=2348;&=2348;</STRONG></FORM></T=
+D></TR></TABLE><TABLE BORDER=3D0 SUMMARY=3D''><TR><TD ALIGN=3DCENTER vali=
+gn=3Dmiddle WIDTH=3D100><IMG SRC=3D=22Resources/Images/arrow1.gif=22 HEIG=
+HT=3D40 WIDTH=3D40 alt=3D=22=22  NAME=3D3></TD><TD><FORM action=3D'...'><=
+STRONG><A NAME=3D=223x=22>3. </A>&=2372;&=23111;&=23119;&=2332;&=23109;&=23=
+117;&=2399;&=23104;&=2332;&=23103;&=23114;&=23101;&=23101;&=23110;&=231=
+04;&=23111;&=23117;&=23115;&=23101;&=2332;&=23103;&=2397;&=23115;&=2332;&=
+=23100;&=23111;&=23101;&=23115;&=2332;&=2397;&=2332;&=23116;&=23121;&=231=
+12;&=23105;&=2399;&=2397;&=23108;&=2332;&=23110;&=23117;&=2399;&=23108;&=23=
+101;&=2397;&=23114;&=2332;&=23112;&=23111;&=23119;&=23101;&=23114;&=233=
+2;&=23115;&=23116;&=2397;&=23116;&=23105;&=23111;&=23110;&=2332;&=23112;&=
+=23114;&=23111;&=23100;&=23117;&=2399;&=23101;&=2363;<br><br><input type=3D=
+=22radio=22 name=3D3 value=3D=22a=22 onClick=3D=22Engine(3,this.value)=22=
+>a)  &=2384;&=23119;&=23105;&=2399;&=23101;&=2332;&=2397;&=23115;&=2332=
+;&=23109;&=23117;&=2399;&=23104;&=2332;&=2397;&=23115;&=2332;&=2397;&=233=
+2;&=23103;&=2397;&=23115;&=2332;&=23112;&=23111;&=23119;&=23101;&=23114;&=
+=2332;&=23115;&=23116;&=2397;&=23116;&=23105;&=23111;&=23110;<br> <input =
+type=3D=22radio=22 name=3D3 value=3D=22b=22 onClick=3D=22Engine(3,this.va=
+lue)=22>b)  &=2384;&=23104;&=23101;&=2332;&=23115;&=2397;&=23109;&=23101;=
+&=2332;&=2397;&=23115;&=2332;&=2397;&=2332;&=23103;&=2397;&=23115;&=2332;=
+&=23112;&=23111;&=23119;&=23101;&=23114;&=2332;&=23115;&=23116;&=2397;&=23=
+116;&=23105;&=23111;&=23110;<br><input type=3D=22radio=22 name=3D3 value=
+=3D=22c=22 onClick=3D=22Engine(3,this.value)=22>c)  &=2372;&=2397;&=23108=
+;&=23102;&=2332;&=23116;&=23104;&=2397;&=23116;&=2332;&=23112;&=23114;&=23=
+111;&=23100;&=23117;&=2399;&=23101;&=23100;&=2332;&=2398;&=23121;&=2332;=
+&=2397;&=2332;&=23103;&=2397;&=23115;&=2332;&=23112;&=23111;&=23119;&=231=
+01;&=23114;&=2332;&=23115;&=23116;&=2397;&=23116;&=23105;&=23111;&=23110;=
+<br><input type=3D=22radio=22 name=3D3 value=3D=22d=22 onClick=3D=22Engin=
+e(3,this.value)=22>d)  &=2365;&=23108;&=23109;&=23111;&=23115;&=23116;&=23=
+32;&=23110;&=23111;&=23110;&=23101;</STRONG></FORM></TD></TR></TABLE><TA=
+BLE BORDER=3D0 SUMMARY=3D''><TR><TD ALIGN=3DCENTER valign=3Dmiddle WIDTH=3D=
+100><IMG SRC=3D=22Resources/Images/arrow1.gif=22 HEIGHT=3D40 WIDTH=3D40=
+ alt=3D=22=22  NAME=3D4></TD><TD><FORM action=3D'...'><STRONG><A NAME=3D=22=
+4x=22>4. </A>&=2366;&=23121;&=2332;&=23119;&=23104;&=2397;&=23116;&=233=
+2;&=23121;&=23101;&=2397;&=23114;&=2332;&=23115;&=23104;&=23111;&=23117;&=
+=23108;&=23100;&=2332;&=2397;&=23108;&=23108;&=2332;&=23110;&=23101;&=231=
+19;&=2332;&=23100;&=23111;&=23109;&=23101;&=23115;&=23116;&=23105;&=2399;=
+&=2332;&=23100;&=23101;&=23118;&=23101;&=23108;&=23111;&=23112;&=23109;&=23=
+101;&=23110;&=23116;&=2332;&=2398;&=23101;&=2332;&=2339;&=23122;&=23101=
+;&=23114;&=23111;&=2332;&=2399;&=2397;&=23114;&=2398;&=23111;&=23110;&=23=
+39;<br><br><input type=3D=22radio=22 name=3D4 value=3D=22a=22 onClick=3D=22=
+Engine(4,this.value)=22>a)  &=2350;&=2348;&=2349;&=2350;<br> <input typ=
+e=3D=22radio=22 name=3D4 value=3D=22b=22 onClick=3D=22Engine(4,this.value=
+)=22>b)  &=2350;&=2348;&=2349;&=2354;<br><input type=3D=22radio=22 name=3D=
+4 value=3D=22c=22 onClick=3D=22Engine(4,this.value)=22>c)  &=2350;&=2348=
+;&=2350;&=2348;<br><input type=3D=22radio=22 name=3D4 value=3D=22d=22 onC=
+lick=3D=22Engine(4,this.value)=22>d)  &=2350;&=2348;&=2353;&=2348;</STRON=
+G></FORM></TD></TR></TABLE><TABLE BORDER=3D0 SUMMARY=3D''><TR><TD ALIGN=3D=
+CENTER valign=3Dmiddle WIDTH=3D100><IMG SRC=3D=22Resources/Images/arrow1=
+.gif=22 HEIGHT=3D40 WIDTH=3D40 alt=3D=22=22  NAME=3D5></TD><TD><FORM acti=
+on=3D'...'><STRONG><A NAME=3D=225x=22>5. </A>&=2373;&=23102;&=2332;&=2310=
+1;&=2397;&=2399;&=23104;&=2332;&=23104;&=23111;&=23117;&=23115;&=23101;&=23=
+104;&=23111;&=23108;&=23100;&=2332;&=23105;&=23110;&=2332;&=2366;&=2311=
+4;&=23105;&=23116;&=2397;&=23105;&=23110;&=2332;&=23117;&=23115;&=23101;&=
+=23100;&=2332;&=2351;&=2332;&=23101;&=23110;&=23101;&=23114;&=23103;&=231=
+21;&=2345;&=23115;&=2397;&=23118;&=23105;&=23110;&=23103;&=2332;&=23108;&=
+=23105;&=23103;&=23104;&=23116;&=2332;&=2398;&=23117;&=23108;&=2398;&=231=
+15;&=2332;&=23119;&=23101;&=2339;&=23100;&=2332;&=23115;&=2397;&=23118;&=23=
+101;&=2332;&=23101;&=23110;&=23111;&=23117;&=23103;&=23104;&=2332;&=231=
+01;&=23108;&=23101;&=2399;&=23116;&=23114;&=23105;&=2399;&=23105;&=23116;=
+&=23121;&=2332;&=23116;&=23111;&=2346;&=2346;&=2346;<br><br><input type=3D=
+=22radio=22 name=3D5 value=3D=22a=22 onClick=3D=22Engine(5,this.value)=22=
+>a)  &=2379;&=23112;&=23101;&=23114;&=2397;&=23116;&=23101;&=2332;&=2397=
+;&=23108;&=23108;&=2332;&=23116;&=23104;&=23101;&=2332;&=23115;&=23116;&=23=
+114;&=23101;&=23101;&=23116;&=2332;&=23108;&=23105;&=23103;&=23104;&=23=
+116;&=23115;&=2332;&=23105;&=23110;&=2332;&=23116;&=23104;&=23101;&=2332;=
+&=2399;&=23111;&=23117;&=23110;&=23116;&=23114;&=23121;<br> <input type=3D=
+=22radio=22 name=3D5 value=3D=22b=22 onClick=3D=22Engine(5,this.value)=22=
+>b)  &=2368;&=23111;&=2332;&=2353;&=2348;&=2348;&=2332;&=23108;&=23111;&=
+=2397;&=23100;&=23115;&=2332;&=23111;&=23102;&=2332;&=23119;&=2397;&=2311=
+5;&=23104;&=23105;&=23110;&=23103;<br><input type=3D=22radio=22 name=3D5 =
+value=3D=22c=22 onClick=3D=22Engine(5,this.value)=22>c)  &=2377;&=2397;&=23=
+107;&=23101;&=2332;&=2349;&=2348;&=2348;&=2348;&=2332;&=2399;&=23117;&=23=
+112;&=23115;&=2332;&=23111;&=23102;&=2332;&=23116;&=23101;&=2397;<br><i=
+nput type=3D=22radio=22 name=3D5 value=3D=22d=22 onClick=3D=22Engine(5,th=
+is.value)=22>d)  &=2380;&=23111;&=23119;&=23101;&=23114;&=2332;&=2397;&=23=
+108;&=23108;&=2332;&=23111;&=23102;&=2332;&=2387;&=2397;&=23108;&=23101;=
+&=23115;</STRONG></FORM></TD></TR></TABLE><TABLE BORDER=3D0 SUMMARY=3D''>=
+<TR><TD ALIGN=3DCENTER valign=3Dmiddle WIDTH=3D100><IMG SRC=3D=22Resource=
+s/Images/arrow1.gif=22 HEIGHT=3D40 WIDTH=3D40 alt=3D=22=22  NAME=3D6></TD=
+><TD><FORM action=3D'...'><STRONG><A NAME=3D=226x=22>6. </A>&=2387;&=2310=
+4;&=23105;&=2399;&=23104;&=2332;&=23111;&=23102;&=2332;&=23116;&=23104;&=23=
+101;&=2332;&=23102;&=23111;&=23108;&=23108;&=23111;&=23119;&=23105;&=23=
+110;&=23103;&=2332;&=23105;&=23115;&=2332;&=23116;&=23104;&=23101;&=2332;=
+&=23109;&=23111;&=23115;&=23116;&=2332;&=23101;&=23110;&=23101;&=23114;&=23=
+103;&=23121;&=2332;&=23105;&=23110;&=23116;&=23101;&=23110;&=23115;&=23=
+105;&=23118;&=23101;&=2332;&=23105;&=23110;&=2332;&=2397;&=2332;&=23116;&=
+=23121;&=23112;&=23105;&=2399;&=2397;&=23108;&=2332;&=23111;&=23102;&=231=
+02;&=23105;&=2399;&=23101;&=2363;<br><br><input type=3D=22radio=22 name=3D=
+6 value=3D=22a=22 onClick=3D=22Engine(6,this.value)=22>a)  &=2367;&=2311=
+1;&=23109;&=23112;&=23117;&=23116;&=23101;&=23114;<br> <input type=3D=22r=
+adio=22 name=3D6 value=3D=22b=22 onClick=3D=22Engine(6,this.value)=22>b) =
+ &=2369;&=23108;&=23101;&=2399;&=23116;&=23114;&=23105;&=2399;&=2332;&=23=
+102;&=2397;&=23110;<br><input type=3D=22radio=22 name=3D6 value=3D=22c=22=
+ onClick=3D=22Engine(6,this.value)=22>c)  &=2376;&=23105;&=23103;&=23104;=
+&=23116;&=23105;&=23110;&=23103;<br><input type=3D=22radio=22 name=3D6 va=
+lue=3D=22d=22 onClick=3D=22Engine(6,this.value)=22>d)  &=2380;&=23104;&=23=
+111;&=23116;&=23111;&=2399;&=23111;&=23112;&=23105;&=23101;&=23114;</STR=
+ONG></FORM></TD></TR></TABLE><TABLE BORDER=3D0 SUMMARY=3D''><TR><TD ALIGN=
+=3DCENTER valign=3Dmiddle WIDTH=3D100><IMG SRC=3D=22Resources/Images/arro=
+w1.gif=22 HEIGHT=3D40 WIDTH=3D40 alt=3D=22=22  NAME=3D7></TD><TD><FORM ac=
+tion=3D'...'><STRONG><A NAME=3D=227x=22>7. </A>&=2387;&=23104;&=2397;&=23=
+116;&=2332;&=23100;&=23111;&=23101;&=23115;&=2332;&=2367;&=2372;&=2380;&=23=
+32;&=23115;&=23116;&=2397;&=23110;&=23100;&=2332;&=23102;&=23111;&=2311=
+4;&=2332;&=2340;&=23105;&=23110;&=2332;&=23116;&=23104;&=23101;&=2332;&=23=
+99;&=23111;&=23110;&=23116;&=23101;&=23120;&=23116;&=2332;&=23111;&=2310=
+2;&=2332;&=23101;&=23110;&=23101;&=23114;&=23103;&=23121;&=2332;&=23112;&=
+=23114;&=23111;&=23100;&=23117;&=2399;&=23116;&=23105;&=23111;&=23110;&=23=
+41;<br><br><input type=3D=22radio=22 name=3D7 value=3D=22a=22 onClick=3D=
+=22Engine(7,this.value)=22>a)  &=2367;&=23104;&=23101;&=2397;&=23112;&=23=
+32;&=2372;&=23101;&=2397;&=23116;&=23105;&=23110;&=23103;&=2332;&=2380;&=23=
+111;&=23119;&=23101;&=23114;<br> <input type=3D=22radio=22 name=3D7 val=
+ue=3D=22b=22 onClick=3D=22Engine(7,this.value)=22>b)  &=2367;&=23104;&=23=
+97;&=23114;&=23103;&=23101;&=2397;&=2398;&=23108;&=23101;&=2332;&=2372;&=23=
+101;&=2397;&=23116;&=2332;&=2380;&=23114;&=23111;&=23100;&=23117;&=2399=
+;&=23116;&=23105;&=23111;&=23110;<br><input type=3D=22radio=22 name=3D7 v=
+alue=3D=22c=22 onClick=3D=22Engine(7,this.value)=22>c)  &=2367;&=2397;&=23=
+108;&=23105;&=23102;&=23111;&=23114;&=23110;&=23105;&=2397;&=23110;&=233=
+2;&=2372;&=23105;&=23103;&=23104;&=23119;&=2397;&=23121;&=2332;&=2380;&=23=
+97;&=23116;&=23114;&=23111;&=23108;<br><input type=3D=22radio=22 name=3D=
+7 value=3D=22d=22 onClick=3D=22Engine(7,this.value)=22>d)  &=2367;&=23111=
+;&=23109;&=2398;&=23105;&=23110;&=23101;&=23100;&=2332;&=2372;&=23101;&=23=
+97;&=23116;&=2332;&=2397;&=23110;&=23100;&=2332;&=2380;&=23111;&=23119;&=
+=23101;&=23114;</STRONG></FORM></TD></TR></TABLE><TABLE BORDER=3D0 SUMMAR=
+Y=3D''><TR><TD ALIGN=3DCENTER valign=3Dmiddle WIDTH=3D100><IMG SRC=3D=22R=
+esources/Images/arrow1.gif=22 HEIGHT=3D40 WIDTH=3D40 alt=3D=22=22  NAME=3D=
+8></TD><TD><FORM action=3D'...'><STRONG><A NAME=3D=228x=22>8. </A>&=2387=
+;&=23104;&=2397;&=23116;&=2332;&=23104;&=2397;&=23115;&=2332;&=2398;&=231=
+01;&=23101;&=23110;&=2332;&=23116;&=23104;&=23101;&=2332;&=2397;&=23118;&=
+=23101;&=23114;&=2397;&=23103;&=23101;&=2332;&=23103;&=23108;&=23111;&=23=
+98;&=2397;&=23108;&=2332;&=23116;&=23101;&=23109;&=23112;&=23101;&=23114;=
+&=2397;&=23116;&=23117;&=23114;&=23101;&=2332;&=2399;&=23104;&=2397;&=231=
+10;&=23103;&=23101;&=2332;&=23111;&=23118;&=23101;&=23114;&=2332;&=23116;=
+&=23104;&=23101;&=2332;&=23108;&=2397;&=23115;&=23116;&=2332;&=2349;&=234=
+8;&=2348;&=2332;&=23121;&=23101;&=2397;&=23114;&=23115;&=2363;<br><br><in=
+put type=3D=22radio=22 name=3D8 value=3D=22a=22 onClick=3D=22Engine(8,thi=
+s.value)=22>a)  &=2343;&=2350;&=2332;&=23100;&=23101;&=23103;&=2332;&=236=
+7;<br> <input type=3D=22radio=22 name=3D8 value=3D=22b=22 onClick=3D=22En=
+gine(8,this.value)=22>b)  &=2343;&=2348;&=2346;&=2355;&=2353;&=2332;&=231=
+00;&=23101;&=23103;&=2332;&=2367;<br><input type=3D=22radio=22 name=3D8 v=
+alue=3D=22c=22 onClick=3D=22Engine(8,this.value)=22>c)  &=2343;&=2348;&=23=
+46;&=2353;&=2332;&=23100;&=23101;&=23103;&=2332;&=2367;<br><input type=3D=
+=22radio=22 name=3D8 value=3D=22d=22 onClick=3D=22Engine(8,this.value)=22=
+>d)  &=2345;&=2349;&=2332;&=23100;&=23101;&=23103;&=2332;&=2367;</STRONG=
+></FORM></TD></TR></TABLE><TABLE BORDER=3D0 SUMMARY=3D''><TR><TD ALIGN=3D=
+CENTER valign=3Dmiddle WIDTH=3D100><IMG SRC=3D=22Resources/Images/arrow1.=
+gif=22 HEIGHT=3D40 WIDTH=3D40 alt=3D=22=22  NAME=3D9></TD><TD><FORM actio=
+n=3D'...'><STRONG><A NAME=3D=229x=22>9. </A>&=2369;&=23118;&=23101;&=2311=
+4;&=23121;&=2332;&=23100;&=2397;&=23121;&=2332;&=23117;&=23112;&=2332;&=23=
+116;&=23111;&=2332;&=2355;&=2348;&=2332;&=23109;&=23105;&=23108;&=23108;=
+&=23105;&=23111;&=23110;&=2332;&=2398;&=2397;&=23114;&=23114;&=23101;&=23=
+108;&=23115;&=2332;&=23111;&=23102;&=2332;&=23111;&=23105;&=23108;&=2332;=
+&=2397;&=23114;&=23101;&=2332;&=23112;&=23117;&=23109;&=23112;&=23101;&=23=
+100;&=2332;&=23111;&=23117;&=23116;&=2332;&=23111;&=23102;&=2332;&=23116=
+;&=23104;&=23101;&=2332;&=23103;&=23114;&=23111;&=23117;&=23110;&=23100;&=
+=2346;&=2332;&=2372;&=23111;&=23119;&=2332;&=23109;&=2397;&=23110;&=23121=
+;&=2332;&=23109;&=23111;&=23114;&=23101;&=2332;&=23121;&=23101;&=2397;&=23=
+114;&=23115;&=2332;&=2399;&=2397;&=23110;&=2332;&=23119;&=23101;&=2332;&=
+=23107;&=23101;&=23101;&=23112;&=2332;&=23101;&=23120;&=23116;&=23114;&=23=
+97;&=2399;&=23116;&=23105;&=23110;&=23103;&=2332;&=23116;&=23104;&=23105=
+;&=23115;&=2332;&=2397;&=23109;&=23111;&=23117;&=23110;&=23116;&=2363;<br=
+><br><input type=3D=22radio=22 name=3D9 value=3D=22a=22 onClick=3D=22Engi=
+ne(9,this.value)=22>a)  &=2353;<br> <input type=3D=22radio=22 name=3D9 va=
+lue=3D=22b=22 onClick=3D=22Engine(9,this.value)=22>b)  &=2349;&=2353;<br>=
+<input type=3D=22radio=22 name=3D9 value=3D=22c=22 onClick=3D=22Engine(9,=
+this.value)=22>c)  &=2352;&=2348;<br><input type=3D=22radio=22 name=3D9 v=
+alue=3D=22d=22 onClick=3D=22Engine(9,this.value)=22>d)  &=2352;&=2353;&=23=
+48;</STRONG></FORM></TD></TR></TABLE><TABLE BORDER=3D0 SUMMARY=3D''><TR>=
+<TD ALIGN=3DCENTER valign=3Dmiddle WIDTH=3D100><IMG SRC=3D=22Resources/Im=
+ages/arrow1.gif=22 HEIGHT=3D40 WIDTH=3D40 alt=3D=22=22  NAME=3D10></TD><T=
+D><FORM action=3D'...'><STRONG><A NAME=3D=2210x=22>10. </A>&=2366;&=23121=
+;&=2332;&=2350;&=2348;&=2353;&=2348;&=2344;&=2332;&=23104;&=23111;&=23119=
+;&=2332;&=23109;&=23117;&=2399;&=23104;&=2332;&=23109;&=23117;&=23115;&=23=
+116;&=23110;&=2332;&=23103;&=23108;&=23111;&=2398;&=2397;&=23108;&=2332;=
+&=2367;&=2379;&=2350;&=2332;&=23101;&=23109;&=23105;&=23115;&=23115;&=231=
+05;&=23111;&=23110;&=23115;&=2332;&=2398;&=23101;&=2332;&=23114;&=23101;&=
+=23100;&=23117;&=2399;&=23101;&=23100;&=2332;&=2398;&=23121;&=2332;&=2311=
+6;&=23111;&=2332;&=2397;&=23118;&=23111;&=23105;&=23100;&=2332;&=23116;&=23=
+104;&=23101;&=2332;&=23114;&=23105;&=23115;&=23107;&=2332;&=23111;&=231=
+02;&=2332;&=23101;&=23120;&=23116;&=23105;&=23110;&=2399;&=23116;&=23105;=
+&=23111;&=23110;&=2332;&=23111;&=23102;&=2332;&=2349;&=2347;&=2351;&=2332=
+;&=23111;&=23102;&=2332;&=2397;&=23110;&=23105;&=23109;&=2397;&=23108;&=23=
+32;&=23115;&=23112;&=23101;&=2399;&=23105;&=23101;&=23115;&=2363;<br><br=
+><input type=3D=22radio=22 name=3D10 value=3D=22a=22 onClick=3D=22Engine(=
+10,this.value)=22>a)  &=23108;&=23101;&=23115;&=23115;&=2332;&=23116;&=23=
+104;&=2397;&=23110;&=2332;&=2349;&=2348;&=2337;<br> <input type=3D=22radi=
+o=22 name=3D10 value=3D=22b=22 onClick=3D=22Engine(10,this.value)=22>b)  =
+&=2349;&=2353;&=2345;&=2351;&=2348;&=2337;<br><input type=3D=22radio=22 n=
+ame=3D10 value=3D=22c=22 onClick=3D=22Engine(10,this.value)=22>c)  &=2353=
+;&=2348;&=2345;&=2356;&=2353;&=2337;<br><input type=3D=22radio=22 name=3D=
+10 value=3D=22d=22 onClick=3D=22Engine(10,this.value)=22>d)  &=23109;&=23=
+111;&=23114;&=23101;&=2332;&=23116;&=23104;&=2397;&=23110;&=2332;&=2357;&=
+=2348;&=2337;</STRONG></FORM></TD></TR></TABLE><FORM action=3D'...'> <CEN=
+TER> <input type=3D=22button=22 onClick=3D=22display();=22 value=3D'&=236=
+7;&=2397;&=23108;&=2399;&=23117;&=23108;&=2397;&=23116;&=23101;&=2332;&=23=
+83;&=2399;&=23111;&=23114;&=23101;'> <INPUT TYPE=3D=22button=22 VALUE=3D=
+'&=2367;&=23108;&=23111;&=23115;&=23101;&=2332;&=2381;&=23117;&=23105;&=23=
+122;' onClick=3D'wclose()'> <INPUT TYPE=3D=22BUTTON=22 VALUE=3D'&=2383;&=
+=23117;&=2398;&=23109;&=23105;&=23116;&=2332;&=2382;&=23101;&=23115;&=231=
+17;&=23108;&=23116;&=23115;' onClick=3D=22hw3('MC')=22></CENTER></FORM>=0D=
+=0A<div id=3D=22alert=22>This is more feedback=21</div>=0D=0A<div id=3D=22=
+feedbacker=22>This is the feedback=21</div>=0D=0A=0D=0A=0D=0A=0D=0A<scr=
+ipt type=3D=22text/javascript=22>=0D=0A<=21--=0D=0Aansw=3DFONTT;=0D=0Afun=
+ction Mycolor(bg){=0D=0Aif (bg=3D=3Dnull){=0D=0Areturn;=0D=0A}=0D=0Adocum=
+ent.bgColor=3Dbg;=0D=0A} =0D=0A//-->=0D=0A</script>=0D=0A<span id=3D=22Pl=
+ayer=22></span>=0D=0A=0D=0A<br><br><br>=0D=0A<div align=3D=22center=22><a=
+ href=3D'=23top'><font color=3D=22=23000000=22><u>Back to Top</u></font><=
+/a></div>=0D=0A<br><br><br>=0D=0A=0D=0A</body>=0D=0A</html>=0D=0A=0D=0A=0D=
+=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=
+
+
+
+--TACBoundary533
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/html/Resources/Images/arrow1.gif
+
+R0lGODlhKAAoAPEAAAAAAP///3Wx7v///yH5BAEAAAMALAAAAAAoACgAAAJsnI+py+0Po5y02ouz
+3lP4D4YfJpamYJ3qWJWLmYaN24KPGLOGPuC1LjsEKcNhz/ZTIYySFUrIjKyWPuKJWu3AoDRr9/ht
+bsFhqfOaPEch6N1Y+23Ds3JxV5lW8+b6J+cPGCg4SFhoeIiYKFEAADs=
+
+--TACBoundary533
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/html/Resources/Images/correct.gif
+
+R0lGODlhKAAoAPcAAAAAAAAAMwAAZgAAmQAAzAAA/zMAADMAMzMAZjMAmTMAzDMA/2YAAGYAM2YA
+ZmYAmWYAzGYA/5kAAJkAM5kAZpkAmZkAzJkA/8wAAMwAM8wAZswAmcwAzMwA//8AAP8AM/8AZv8A
+mf8AzP8A/wAzAAAzMwAzZgAzmQAzzAAz/zMzADMzMzMzZjMzmTMzzDMz/2YzAGYzM2YzZmYzmWYz
+zGYz/5kzAJkzM5kzZpkzmZkzzJkz/8wzAMwzM8wzZswzmcwzzMwz//8zAP8zM/8zZv8zmf8zzP8z
+/wBmAABmMwBmZgBmmQBmzABm/zNmADNmMzNmZjNmmTNmzDNm/2ZmAGZmM2ZmZmZmmWZmzGZm/5lm
+AJlmM5lmZplmmZlmzJlm/8xmAMxmM8xmZsxmmcxmzMxm//9mAP9mM/9mZv9mmf9mzP9m/wCZAACZ
+MwCZZgCZmQCZzACZ/zOZADOZMzOZZjOZmTOZzDOZ/2aZAGaZM2aZZmaZmWaZzGaZ/5mZAJmZM5mZ
+ZpmZmZmZzJmZ/8yZAMyZM8yZZsyZmcyZzMyZ//+ZAP+ZM/+ZZv+Zmf+ZzP+Z/wDMAADMMwDMZgDM
+mQDMzADM/zPMADPMMzPMZjPMmTPMzDPM/2bMAGbMM2bMZmbMmWbMzGbM/5nMAJnMM5nMZpnMmZnM
+zJnM/8zMAMzMM8zMZszMmczMzMzM///MAP/MM//MZv/Mmf/MzP/M/wD/AAD/MwD/ZgD/mQD/zAD/
+/zP/ADP/MzP/ZjP/mTP/zDP//2b/AGb/M2b/Zmb/mWb/zGb//5n/AJn/M5n/Zpn/mZn/zJn//8z/
+AMz/M8z/Zsz/mcz/zMz/////AP//M///Zv//mf//zP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAcALAAAAAAoACgA
+AAiGAA8IHEiwoMGDCBMqXMiwocOHECNKnEixosWIbDKyuchQo0aOCD2KBFlQ5EiSAk2eJKlyJceW
+HlHC/Mhy5kaZMFGmzKlzps4DPh/GTBi0ocqDRTvyHLjUaNGmTm0mjSr1qMSqLSlidTlxa0aQWHHa
+7Dn259SaJn8STKt2Lc22cOPKnUtXYkAAOw==
+
+--TACBoundary533
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/html/Resources/Images/f.gif
+
+R0lGODlhCgAOAPMAAMDAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAACH5BAEAAAAALAAAAAAKAA4AAAQNEMhJq7046827/yAVAQA7
+
+--TACBoundary533
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/html/Resources/Images/incorrect.gif
+
+R0lGODlhKAAoAPcAAAAAAAAAMwAAZgAAmQAAzAAA/zMAADMAMzMAZjMAmTMAzDMA/2YAAGYAM2YA
+ZmYAmWYAzGYA/5kAAJkAM5kAZpkAmZkAzJkA/8wAAMwAM8wAZswAmcwAzMwA//8AAP8AM/8AZv8A
+mf8AzP8A/wAzAAAzMwAzZgAzmQAzzAAz/zMzADMzMzMzZjMzmTMzzDMz/2YzAGYzM2YzZmYzmWYz
+zGYz/5kzAJkzM5kzZpkzmZkzzJkz/8wzAMwzM8wzZswzmcwzzMwz//8zAP8zM/8zZv8zmf8zzP8z
+/wBmAABmMwBmZgBmmQBmzABm/zNmADNmMzNmZjNmmTNmzDNm/2ZmAGZmM2ZmZmZmmWZmzGZm/5lm
+AJlmM5lmZplmmZlmzJlm/8xmAMxmM8xmZsxmmcxmzMxm//9mAP9mM/9mZv9mmf9mzP9m/wCZAACZ
+MwCZZgCZmQCZzACZ/zOZADOZMzOZZjOZmTOZzDOZ/2aZAGaZM2aZZmaZmWaZzGaZ/5mZAJmZM5mZ
+ZpmZmZmZzJmZ/8yZAMyZM8yZZsyZmcyZzMyZ//+ZAP+ZM/+ZZv+Zmf+ZzP+Z/wDMAADMMwDMZgDM
+mQDMzADM/zPMADPMMzPMZjPMmTPMzDPM/2bMAGbMM2bMZmbMmWbMzGbM/5nMAJnMM5nMZpnMmZnM
+zJnM/8zMAMzMM8zMZszMmczMzMzM///MAP/MM//MZv/Mmf/MzP/M/wD/AAD/MwD/ZgD/mQD/zAD/
+/zP/ADP/MzP/ZjP/mTP/zDP//2b/AGb/M2b/Zmb/mWb/zGb//5n/AJn/M5n/Zpn/mZn/zJn//8z/
+AMz/M8z/Zsz/mcz/zMz/////AP//M///Zv//mf//zP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAcALAAAAAAoACgA
+AAiuAA8IHEiwoMGDCBMqXMiwocOHECMq9ECxosSHFTN6uMhQo0aOEz16lJixoEiRGEcOPImy40mC
+LFsejLkRJs2SBm8ivElxJc+aM3ke+Al0J1GdDo++hKj0Y8SmFp825QiV6tSLUHtKzUoy5lCaKZf6
+ZJlUrE2yC9HmBJvQq1G3a80GVWuS7luZdfGm1SvQrkuccVUyjTpXMMjATg8XTqw4r+HGYxlDPkt4
+cmDLBgMCADs=
+
+--TACBoundary533
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/html/Resources/Images/info.gif
+
+R0lGODlhDQANAPEAADMzM////wAAAAAAACH5BAEAAAEALAAAAAANAA0AAAIdhI8Yyx3WTgSTMugc
+fvLa1YEfN27kVKFiaGZkAhcAOw==
+
+--TACBoundary533
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/html/Resources/Images/missing.gif
+
+R0lGODlh7wBiAPcAAP//////39//////v//fnL///5zf/7//v7/fnJzfv5y/nP+/dN+cSJycdL90
+AJxIAHS//0ic33S/v3ScnEhInAB0vwBInHR0dEhISHQAdHQASEgASHQAAEgAAAAAdAAASAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAA7wBiAAAI/wABCBxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaNHiCBCihxJsqTJkyhTqlzJsqXLlzBjypxJU2RB
+EB9z6tzJs+dHnASB+hxKtKhRnkIFJj3KtKnTpwiXLoVKtapVnVKvat3K1WLWrmDDir1JdqzZs1e/
+ol3L1qjatnDj/iwrt67di2/v6t3LMC/fv4CV0g1MmK/fwojjHk7MGO3ixpDDPo5MWevkypihXs7M
++ejmzqB9fg5NOufo0qg3nhY4gINJDwc4QJDYenbm2hIX2HZIYIMBgrjdDo7Y+zdr2akdBn+4vGHx
+qqsLPj++O7nC5g2xL5yueThE7q0ndP8IuXuByAgGcbeW4BpEhNYh0Qt0ILI6A5HsbZuPb9BBhYEM
+/AfAfu5RZyBw7YFQ3nkHEiifQPeFVAEB44FggQADMghgSB8o4BuCtsFH3k7REQQeBx/8xkCKAKz4
+G4UPGtgai/fRyKJ/ELLYIosUKrjjix3EOKAHBQAQwAOzmTdba/8F11xr8i1gI5Do4eYiADDm+BuU
+wV2Z5Y9YdqCjjBxEOaZHJQ50onwUQgDlQAsQCSIAb4bJZgduamBcm3SWuaGbfgoUZ5ED4VbckQ9K
+aYCTyKn5IYKJEllbnUMWQCmZkVoaKJiFIscdUt49dGKIsvEpkKlkkqoqQfvNxl2bqKL/Ot9/DFwY
+K56MVnfkmbcCCkGvsvbpKp5q4vnqowbuahyoQVU0KnUEjlSdeo3m2mJIHiBArKKdQhBtfQUN6gB6
+qE5abaME0Tfit+TVxq6CnwqbYUnejvnpcur6iFWovCGba7wFUbuqsKby+aqxyCI0gAYJ6Bnmbm1a
+i5ADKQJcG8DBGprwqcjei+5AFC+LJr/O+XsuoEIGjJzE7sqZ4ZKbKnnpQUdicKGRDySaYp3Bmojr
+pt3O3KeQ1KZM6ZXdGtSzaiQz9Ky8SIc8J8ulEguffF6ON1vUZ0JYoKA+MonzhUfqeyqxlXIaspU6
+Sn3lkRXUybWKPIopsqFoD7pvsxQ9/x0cgS4nTfXWHBog9bUhiaefSIGbmLCDnYaUn3QVjgl4kX8z
+TijiIAhI382Xw8mhh3c32iMIXXeU5lkAJ0QABRhaNxffetUJN0QMpCy7Rqt3dXrnonZw8+4j0078
+8Rj1jvzyghnP/PMPKV+RdmsJnJB21Kf3cV3SU5R9W99jvz1k3U/0PVvhj39+Ycqv196C/Km8ePzu
+j+i15I1CTqcGDYDQOAD5GlZ5bgQueQUngMdhD/3yp6GpcUCBZnNM0xgyI7r9Rkl9ElDSMCi2CoIp
+az7KWpU4MLx0CchFt5vPhXAEJuux8ErwGdYIt1Y3oq0MRRZkS/sC1SZEwelMtfGhoP92xsOfPeg+
+KIOTpIDGGoc9rEVy4pIT+SSwhe3JahzQIAOWmERBNa5oZ6uOWXaoql6BqFf/6pix0Paw87VKXtwS
+XdhuWJ03Lqc4F2OjrKwnr7WQkTrl+lged2MuVcVRWO/y1UEilC204cgBN2OktmBGScQ1spJhdJdJ
+pkXHA0nQeRH5lx7ZSLBRKpJgavzVxvroM9uYKk6xEWAYDVg1V2IRYr652CodOLBPDmQqEMmVEAcE
+RNkMU1G5opTMmMhKJRIKg326gJz09jJaestlHNzUFjXVRYV1spljnOBCrJVNDRqonH1kG5BC2DYi
+ivGJVwMZ8ODpmhmWEmYF8mCW1Dn/n2Jicn1b+WMf9TeneX1NYhECgeLAhi3MjQ9xKTocNCFqOHdC
+rXBre+D7GqQ5+aXzoZIRZ1haBz2nlG8otnuAOUtKlZMO5XcrZWl3QCnTmv5SpDZlnktz2pmdbqRs
+JNEdWyIkVO2Q9CATtQxOjZJCsL2zeswsqONEtpCkpmWpRWkqzmIK1acmTTq7RIhVraI8FrZIQPpL
+Jv/8tzmtAnB4BBWR2dJ6soX1T04J1WBcE1Sd001TQ10a3aPSulYijRU6WDWI3o6UpDk2qa4kjN1A
+tJpCEQ5tiBd07EcBNTwY+smydTrkQDXLTwpNyU59Gt7SWppYjx4qZz9cFGRTplUk/17WiwWI1zEt
+Kqw6zUyZRDoqbnYr2266CLiaetBqZ3pTi+CoVgJAI2TfCVRpzTKMymplsU5ZyOtud7vZPQjeIPYz
+VS6rONLFJVXJ2tpwEWlcT6ROMseXQgrpdZPzAVcguSub4MQrkfm1X9L26y57+SaRy7FiV6S3sIYB
+ibz8PSVBmmoeNoUVZBUz5XxtKcaj9rN0ssxkqTrmG4uhS8FckV7NbkZcnpXXIFqVmtAoB4EWF5G/
+NhTqd5NmY+MS0WgnzsDmlErTiNwnUZo9EtkeoCDtaLU1kWynAV75V5j9R8kCKJuE36ZStWVYP19k
+oJWhVrfTApC3Y+nep/aKPwlPtprLBDkyQ9l6tsLJ8Wt9anNz8npnl52ua8uh6/w6NNiOBjqCVy3y
+d2DHU850L3eNdnR7i1XCSFPGp5aODKYz3ZhNczoxnv40+yYtakkrutSyCzWq/6LqVe+l1a6+C6xj
+zT1S07rTtr41qHOt61Gfutc95TWwATPrYfuyecZGTbGTnWZhM1vWN6mJtKdN7Wpb+9rYxvazt81t
+uAQEADs=
+
+--TACBoundary533
+Content-Type: audio/wav
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/html/Resources/Sounds/tt.wav
+
+UklGRtYGAABXQVZFZm10IBAAAAABAAEAESsAABErAAABAAgAZGF0YbIGAACAgICAgICAgICAgICA
+gICAgICAgICAgICAgICAgIB+gICAgICAgICAgIB+foB+gICAgH6AfoCAgICAfn5+fn5+fn6AfoCA
+gICAfn6AgICAgICAgICAgICAgICAgICAfoCAgICAgICAgICAfn6AgH5+foCAgICAgICAgICAgICA
+gICAgICAgICAgICAgICAgICAgICAgICAgICAfn5+gICAgICAgIKCgH58fHx+fn5+gIKGiIaCfnp2
+dHZ4enx+goiMjpCMgnp2cm5scnZ8hIiQlJSOiIB8dnRycHB0en6AiJCQioSAfHh2dHZ8fn6ChoaE
+goKGiIaAenh2dnZ6fH6ChIaMko6KgnhybGhudHqCipKSkIiAenZycnBwcnJ4foiQkpickI58altR
+VV98nLW7q6WOYklDQ1mEo7G3q4huW0lDWX6Wq7uxknpsbmhdX3KAkp6no5iYlHxdU1VTU2qIhpaU
+enyQmoiGhIKEeF9fbH6Yqa+Ydl9dZHKKkoaMim5VYnyClquxjm5mZF9dhKuzoaWCZF01PXJymLur
+jG5qXWp6jJyhiH6UbE1sjJqckIJkcpSemIp4W1tfZnylpZyCWVFmV0tfkrunmqGIeGhbeqG9no6W
+eFtDSWqIlJSlp5h6eHiEZFNRerHFfF9mSTlXr9O5iE07UW6awdXmv3ZLO09VeIZ+lL2neGpdXVlT
+fq3JtaeUbE0/cK+1pWxNO0NHcLXm2bWMWykSS2iludXffCUMJTt4u9nkvXRLUVNdnt/myZZiR3J8
+imxTbnZ6jq+hfm5mU1tuiJ7Dq3g7GkF6oa+/jj0rQVmSyd27fD0vGDFyx/zyuV8SAAo/fKXV5r2E
+VzUvQ3qt09XDo2YpFC9wjqG/tZ52Yk1RcoieqaGYmI6KfE89T5azlnRqZGhqnK+rt7WWbEc/R1+M
+ucPRyYpLFAgzhNPy15xkUUNNcIyns7e3q4ZwVzsxU5rR2cW3kEEODk2at9Xq0XovIz9ieKXHzZZT
+QU1baHaSpbOroZyIaFlwfn56iJ6KcnaAgHRbXXCMmKu3nnRXT1V0jJqYlIJ4eGRddoh+dnZ4nqeK
+gHpkX3iOjHpoX26Glp6YiIJyU1FskJqhnI50YmRwhn5fbISIiJyaclFfbF1birWzjnRmXVddfqu3
+p4JoV2ZwfKGakIRmV2huaICKiIiho5iAYlVbaHqMo6GWiGxTQ1eOr6ujnoBiWWJueJSllHBkaGp2
+jKmtnoZqTTlPdISUq7u1moBdR1FbZHBwfpytr6magmhoaGRweH6GlpyalIx4aF1ZboKQmJyOjIaA
+dG5yipqOcF1kbHaWr6unhmpRTWJ8jJCamJaSinZkanCAioiKhHp4enqCioiSlop0bGpyfIianph8
+X1tyfoKQnJiYkn5qYl9qfIyYo5R6fHhwcH5+gJKelJSMdl1XaHyKjpKOfHp4goKEjoZ8eHyAhHqA
+iIR6bmRocHiIjJqtp45yXVlmbnSKmJaEgHpqbHyAeoKMioR8fH6EiIaCdnBwbnJ6hoyOlJKEcGhy
+eHp8hIaAgIB+goaGhoR8eHRyamp0dn6Kjo6Ujn52enx6fICAfHhycnZ+iISGjIqAeHJwcnR6hIyM
+hoKAgHx8fHZ6goB4dnh8gIaIiIaIhHh0eH5+fn5+fn6AhISCgIB6eHh4eICGioqEgHx6eHp+foKK
+in5ycnqAfoCEgnx4en5+gIaGhIB8dnR4fICEhIKCgHp4enx+fn6AhIaEgHyAgHx6eHx8fH6AgICA
+goCAgoCAfnp6fHp6foKGhoSAfn5+fH6AgH58fH6AgIKIhn58fHp6fICCgoB+fHx6fn5+hIiKioR+
+enh6enx+gICCgoKCgoKCgoB+fn58fn6AhISCgH58foCCgoCChIKAfHx+foCCgoKCgH6AgoSCfn5+
+gICAgICAgIKCgoKAgH5+fn6AgISCgoKCgn5+gIJ+gIB8fHyAgoKCgICAfoCAgH6AgICAgIB+foB+
+fn5+gIB+gICAgICAgICAfn5+fnx8foCCgoKAfnx8fnx8foCCgoKAfn5+fHx8fn5+gICAgICAgH58
+fHx8foCAgH6AgIB+foCAfn58fHx8fn5+fn6AgH5+fn5+fnx+fn6AgICCgoB+fHp6foCAgIKAfn5+
+fn6Afnx8fHx+gIKAgH58fH5+gICCgIB+fn58fHx+fn5+gICCgoB+fHx8fnx+gIKCgHx+fn6Afnx6
+fH5+fn6AgICAgH5+fnx8fH5+gICAgIB+fn5+fn6AgoSAfHx+fn5+foB+gICAfn6AAA==
+
+
+--TACBoundary533--
+
+
