@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html> <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+<!--ANCHOR#1-->
+<!--ANCHOR#2-->
+<TITLE>Multiple Choice Quiz Maker: Task Manager</TITLE>
+<script type="text/javascript">
+var bites=document.cookie.split("; ");
+ function getCookie(name) {
+ for (i=0; i < bites.length; i++) {
+ nextbite=bites[i].split("="); 
+ if (nextbite[0]==name) 
+ return unescape(nextbite[1]); 
+ }
+ name="C0C0C0";
+return name; 
+ }
+manu=navigator.appName;			
+vers=navigator.appVersion;
+var Mozilla=true;		
+if (manu.indexOf("Microsoft")>=0 && parseInt(navigator.appVersion)>=4)
+{
+Mozilla=false;
+	}
+ var today=new Date();
+ var expiry=new Date(today.getTime() + 28 * 24 * 60 * 60 * 1000); // +28 days
+ function setCookie(name, value) {
+ if (value !=null && value !="")
+ document.cookie=name + "=" + escape(value) + "; expires=" + expiry.toGMTString();
+ bites=document.cookie.split("; ");// update cookie bites
+ }
+ var userData=getCookie("userData") || "johnf!Turner!1"; 
+ var data=userData.split("!"); 
+function wclose(){
+}
+function closer(){
+if (Mozilla){
+location.replace('about:blank');
+window.parent.close();
+}
+if (Mozilla || !window.opener){
+window.close();
+}
+if(!Mozilla && window.opener){
+window.opener.close();
+window.close();
+ }
+}
+</script>
+</head>
+<BODY BGCOLOR="silver" TEXT=#000000 LINK=#0000FF VLINK=#800080 onLoad=" for (i=0; i < 1; i++) if (data[i] !=null) document.forms[0].elements[i].value=data[i]; if (data[0] !=null) document.bgColor=data[0];" onUnload="wclose();" > 
+<script type="text/javascript">
+<!-- hide script from old browsers
+function process(){}
+  today=new Date()
+  if(today.getMinutes() < 10) {
+    pad="0"}
+  else
+    pad="";
+  document.write("<center><FONT SIZE=6 color=black>Welcome to the MC Quiz Maker Task Manager</FONT></center>")
+  if((today.getHours() < 12) && (today.getHours() >= 6))
+  {  document.write("<center><FONT SIZE=4 color=black>Good Morning</FONT></center>")}
+  if((today.getHours() >= 12) && (today.getHours() < 18))
+  {  document.write("<center><FONT SIZE=4 color=black>Good Afternoon</FONT></center>")}
+  if((today.getHours() >= 18) && (today.getHours() <= 23))
+  {  document.write("<center><FONT SIZE=4 color=black>Good Evening</FONT></center>")}
+  if((today.getHours() >= 0) && (today.getHours() < 4))
+  {  document.write("<center><FONT SIZE=4 color=black>You're up late today.</FONT></center>")}
+  if((today.getHours() >= 4) && (today.getHours() <= 6))
+  {  document.write("<center><FONT SIZE=4 color=black>Wow! You are up early!!</FONT></center>")}
+  document.write("<center><FONT SIZE=3 color=black>Time: ",today.getHours(),":",pad,today.getMinutes())
+  document.write("  Date: ",today.getMonth()+1,"/",today.getDate(),"/",today.getYear(),"<br></font></center>");
+function sendPost (form,button) {
+var SendTo= 'mailto:' +(form.ToUs.value);
+form.action=SendTo;
+form.submit()
+return;
+}
+// end hiding contents -->
+</script>
+	<!--THE FOLLOWING GETS THE COOKIE INFORMATION--> <FORM action='...'> <CENTER> <FONT FACE="VERDANA ARIAL"> <B> Background colour: </B> </FONT> <BR> <SELECT name="bkGround" size="1" onChange=(document.bgColor=bkGround.options[bkGround.selectedIndex].value)> <!--The first 16 colours are those named in the HTML 4.0 specification ... should be supported by all browsers. --> <OPTION value="C0C0C0"  selected> New Colour? <OPTION value="00FFFF"  selected> Aqua <OPTION value="0000FF" > Blue <OPTION value="000000" > Black <OPTION value="FF00FF" > Fuchsia <OPTION value="808080" > Gray <OPTION value="008000" > Green <OPTION value="00FF00" > Lime <OPTION value="800000" > Maroon <OPTION value="000080" > Navy <OPTION value="808000" > Olive <OPTION value="800080" > Purple <OPTION value="FF0000" > Red <OPTION value="C0C0C0" > Silver <OPTION value="008080" > 
+Teal <OPTION value="FFFFFF" > White <OPTION value="FFFF00" > Yellow <OPTION value="408080" > Light Green <OPTION value="A6BEFF" > Light Blue <OPTION value="DDDDDD" > Light Gray <OPTION value="FFCC99" > Orange <OPTION value="FF80FF" > Pink <OPTION value="D5CCBB" > Tan </select> <INPUT type="button" value='Save' onClick=" with (this.form) { data[0]=bkGround.options[bkGround.selectedIndex].value; } setCookie('userData', data.join('!'));">  </CENTER> </FORM>
+
+<form action='...'><INPUT TYPE="BUTTON" VALUE="Exit the Task Manager" onClick="closer()"></form>
+<form action='...'><INPUT TYPE="BUTTON" VALUE="Fullscreen Browser Window" onClick="doit()"></form>
+<CENTER>
+<P>
+<B>Select an exercise here: <BR></B>
+<!--ANCHOR#3-->
+</CENTER>
+<!--ANCHOR#4-->
+<!--ANCHOR#5-->
+<HR NOSHADE>
+<!--IN-->
+<h3><B>Would you like to send an e-mail to your test supervisor? ... a comment, or perhaps a question ...</B></h3>
+<CENTER><a href='mailto:myaddress@myserver.com?subject=MC Quiz Maker&amp;body=My comments'>Send e-mail</a></CENTER>
+<!--OUT-->
+<!--ANCHOR#6--></FORM>
+</CENTER>
+
+<h3><B>Would you like to send an e-mail to your test supervisor? ... a comment, or perhaps a question ...</B></h3>
+<FONT FACE="Arial" SIZE="3" >
+<FORM NAME="supportmail"  METHOD="POST" ENCTYPE="text/plain">
+<P>
+<FONT FACE="ARIAL"><B>To:</B></FONT> <P>
+<!--ANCHOR#7-->
+<!--ANCHOR#8-->
+<br>
+ <FONT FACE="ARIAL"><B>Subject:</B></FONT> <P>
+<INPUT TYPE="TEXT" NAME="subj" SIZE=55 VALUE="Multiple Choice Quizzes"> <BR>
+<br>
+<FONT FACE="ARIAL"><B>Message:</B></FONT> <P>
+<TEXTAREA name=comments rows=15 cols=60></TEXTAREA>
+<P>
+</FORM>
+<div align="left">
+<form action='...'>
+<!--ANCHOR#9-->
+</form>
+</div>
+<!--ANCHOR#10-->
+<!--ANCHOR#11-->
+<script type="text/javascript">
+function doit() {
+if (window.opener==null && Mozilla) {
+windowprops="top=0,left=0,fullscreen=yes,scrollbars"+",width="+screen.width+",height="+screen.height;
+var remote=open(location,"TEST",  windowprops);
+window.parent.close();
+}
+ if (window.opener==null && !Mozilla) {
+msgWindow=open(location,'window','resizable=no, fullscreen=yes, width=screen.width,height=screen.height');
+  }
+}
+</script>
+</body>
+</html>

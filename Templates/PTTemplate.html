@@ -1,0 +1,1521 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html> <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+<!--ANCHOR#1-->
+<!--***Version20***-->
+<!--PLEASE NOTE THAT ALTERATIONS TO THE ORIGINAL TEMPLATES ARE ONLY POSSIBLE IN THE REGISTERED VERSION-->
+<style type="text/css">
+</style>
+<script type="text/javascript"><!--
+var myLayer="";
+var MHT=0;
+var passed=0;
+var FFPresent="no";
+var PersInfo="";
+var picture=""; 
+var showPicture="";
+var uString="";
+resultString="";
+var browserName=""; 
+var touch=0;
+var ua=navigator.userAgent.toLowerCase(); 
+if ( ua.indexOf( "opera" ) != -1 ) { 
+browserName="opera"; 
+} 
+else if ( ua.indexOf( "chrome" ) != -1 ) { 
+browserName="chrome";
+} 
+else if ( ua.indexOf( "msie" ) != -1 ) { 
+browserName="msie"; 
+} 
+else if ( ua.indexOf( "safari" ) != -1 ) { 
+browserName="safari"; 
+} 
+else if ( ua.indexOf( "mozilla" ) != -1 ) { 
+if ( ua.indexOf( "firefox" ) != -1 ) { 
+browserName="firefox"; 
+} else { 
+browserName="firefox"; 
+}
+}
+//<!--ANCHOR#2-->
+//<!--ANCHOR#3-->
+//<!--BROWSERCHECK#1-->
+TestPop='false';
+function closeWindow() {
+window.open('','_parent','');
+window.close();
+}
+//<!--BROWSERCHECK#2-->
+function stripHtml(oldString)
+{
+uString="";
+oldString= oldString.replace(/&nbsp;/ig, "");
+var inTag=false;
+for(var i=0; i < oldString.length; i++) {
+if(oldString.charAt(i) == '<') inTag=true;
+if(oldString.charAt(i) == '>') {
+inTag=false;
+i++;
+ }
+if(!inTag) uString += oldString.charAt(i);
+ }
+uString=uString;
+return; 
+}
+//<!--BROWSERCHECK#3-->
+function PopupTest()
+{
+//return
+if (window.SymError || window['SymError'] || window.SymWinOpen || window['SymWinOpen'])
+{ 
+alert('You appear to have a program installed on this computer that is blocking the javascript for the quiz on this page.'+ 'It is most likely an ad blocking program that might be part of a security program such as '+'Norton Internet Security or '+'Norton Personal Firewall '+' If the quiz does not show or does not function correctly, you can try disabling the ad blocking program on '+'your computer and refreshing this page. It may also be necessary to clear the '+'Temporary Internet Files cache for your browser ');
+}
+var place=location.href;
+var gotIt= place.indexOf("?");
+if (gotIt!=-1){
+TestPop='true';
+}
+if (gotIt==-1){
+if (FULL!=0){
+try{
+TestPopup=window.open('','','width=screen.width,height=screen.height');
+TestPop=TestPopup;
+TestPopup.close();
+}
+catch(err){
+TestPop='false';
+}
+}
+}
+}
+//<!--BROWSERCHECK#4-->
+//<!--BROWSERCHECK#7-->
+function goLoca(){
+if (navigator.appName == 'Microsoft Internet Explorer' && goLoca2 != "about:blank"){
+location.replace("about:blank");
+if (window.opener !=null && !NS4) {
+}
+}
+location.replace(goLoca2);
+
+if(goLoca2 == "about:blank"){
+window.parent.close();
+}
+if (window.opener !=null && !NS4) {
+window.opener.document.open();
+var P3="<CENTER>Your quiz and test session has ended!<BR><BR><INPUT TYPE='button' VALUE='  Close  'onClick='window.close()'></CENTER>"; window.opener.document.write(P3);
+window.opener.document.close();
+}
+if (window.opener !=null && navigator.appName != 'Microsoft Internet Explorer' ) {
+window.opener.document.open();
+var P3="<CENTER>Your quiz and test session has ended!</CENTER>"; 
+window.opener.document.write(P3);
+window.opener.document.close();
+}
+return
+}
+//<!--BROWSERCHECK#8-->
+//<!--BROWSERCHECK#5-->
+function StatusQuo() {
+if (MHT==1){
+doit();
+return;
+}
+FFPresent="no";
+if (FULL!=0 &&(TestPop == 'false' || TestPop == null))
+	{
+if(navigator.oscpu && document.getElementsByClassName && FFPresent=="no"){
+FULL=0;
+FFPresent="yes";
+doit();
+return
+}
+alert('Your present browser settings block the popup window\nwhich is required in fullscreen or maximized quiz mode.\nPlease make the necessary changes to the\nquiz and/ or browser options.');
+<!--ANCHOR#4-->
+FFPresent="yes";
+doit();
+	}
+else
+	{
+doit();
+	}
+}
+//<!--BROWSERCHECK#6-->
+var tries="0";
+var verdict="";
+resultString="";
+//<!--ANCHOR#5-->
+//<!--ANCHOR#6-->
+//<!--ANCHOR#7-->
+SIZE=size;
+var correctListMail="";
+var incorrectListMail="";
+var InfoWin=null;
+var SUBMIT=1;
+//<!--ANCHOR#8-->
+var commas ="\"";
+var helpCall=0;
+var helpMoney=0;
+var reminder=0;
+var startCapital=5000;
+var blocker=0;
+var playernr=0;
+var fortune1=startCapital;
+var showFortune1=0;
+var showFortune2=0;
+var fortune2=startCapital;
+var winit=0;
+var jokersPlayer1=3;
+var jokersPlayer2=3;
+var scorer2="";
+var FONTT=0;
+var q=50;
+var answ=0;
+var enabled=0;
+var release=0;
+var nojoker=0;
+var finish=0;
+var FULL=0;
+var ema=0;
+var checker=0;
+var check="";
+var boobie=0;
+var allow=0;
+var MHT=0;
+function initAvail()
+{
+for (var i=1;i<=SIZE;i++)
+{
+available[i]=i;
+}
+availSize=SIZE;
+wrongSize=0;
+currentElement=SIZE;
+}
+function makeArray(size)
+{
+this.length=size;
+for (var i=1;i<=size;i++)
+{
+this[i]=0;
+}
+}
+available=new makeArray(SIZE);
+wrong=new makeArray(SIZE);
+availSize=SIZE;
+wrongSize=0;
+currentElement=SIZE;
+function decodeIT(verdict) {
+resultString=verdict;
+var tester;
+tester= resultString.indexOf('#');
+if (tester < 0) {
+return resultString;
+}
+if (verdict != '') {
+var uniText=verdict;
+var i=0;
+var testText=uniText.substring(2,uniText.length-1).split(";&#")
+for (i=0;i<testText.length;i++)
+resultString=testText[i];
+resultString=""
+for (i=0;i<testText.length;i++)
+resultString=resultString + String.fromCharCode(testText[i]); 
+return resultString;
+}
+}
+function disableselect(e){
+return false;
+}
+function reEnable(){
+return true;
+}
+document.onselectstart=new Function ("return false");
+if (window.sidebar){
+document.onmousedown=disableselect;
+document.onclick=reEnable;
+}
+NS4x=document.layers;
+if (NS4x) {
+origWidth=innerWidth;
+origHeight=innerHeight;
+}
+function reDo() {
+if (innerWidth !=origWidth || innerHeight !=origHeight)
+location.reload();
+}
+if (NS4x) onresize=reDo;
+manu=navigator.appName;
+vers=navigator.appVersion;
+var NS4=true;
+if (manu.indexOf("Microsoft")>=0)
+{
+NS4=false;
+}
+//<!--ANCHOR#9-->
+var browser_check="";
+if(navigator.appName=="Netscape" && parseInt(navigator.appVersion)>=3)
+browser_check="n3_or_better";
+if(navigator.appName.substring(0,9)=="Microsoft")
+browser_check="msie";
+sound=new Array;
+//<!--ANCHOR#10-->
+function playSound(dest)
+{
+var file=sound[dest];
+if (browserName!="msie"){
+document.getElementById("Player").innerHTML="<embed src='"+file+"' hidden=true height=1px width=1px autostart=true loop=false>";
+return;
+}
+if (browser_check!="n3_or_better" && browser_check!="msie")
+alert("\nSorry but this sound scheme is NOT supported by your browser.");
+if(browser_check=="msie")
+{
+var file=sound[dest];
+var doc=parent.framer1.document;
+doc.write('<HTML><HEAD>');
+doc.write('<TITLE></TITLE>');
+doc.write('</HEAD><BODY BGCOLOR="00FFFF">');
+}
+if (browser_check=="n3_or_better"){
+if (dest==1) document.mediaPlayer.SetSource(sound[1]);
+if (dest==2) document.mediaPlayer.SetSource(sound[2]);
+document.mediaPlayer.DoPlay();
+}
+if(browser_check=="msie"){
+doc.write('<bgsound src="' + file + '" loop=1>');
+doc.write('</BODY></HTML>');
+doc.close ();
+}
+}
+//<!-- Hide from JavaScript-Impaired Browsers
+ls=" abcdefg";
+/* Load your images into an array during initial
+page loading. These are the mouseOver buttons. */
+if (document.images) {
+isn1=new Array();
+for (i=1;i<7;i++){
+isn1[i]=new Image();
+isn1[i].src="Resources/Images/w"+i+".gif";
+}
+// And these are the handle pages.
+isn=new Array();
+for (i=1;i<5;i++){
+isn[i]=new Image();
+isn[i].src="Resources/Images/"+i+"a.gif";
+}
+var pri=new Array();
+for (i=1;i<6;i++){
+pri[i]=new Image();
+pri[i].src="Resources/Images/p"+i+".gif";
+}
+var win=new Array();
+win[0]="ccc"; // 10% winner - change to abc if not wanted
+win[1]="bcd";
+win[2]="cde";
+win[3]="dea";
+win[4]="aaa"; // 25% winner - change to cba if not wanted
+win[5]="bbe";
+win[6]="ebe";
+win[7]="eac";
+win[8]="bbb"; // 15% winner - change to ecb if not wanted
+win[9]="aeb";
+var hctr=0;
+}
+function spinIt(){
+window.status="Playtime";
+if (blocker !=1){
+document.getElementById("DivMCQuiz").innerHTML= "<img src='Resources/Images/f.gif' ";
+release=1;
+if (document.images) {
+if (hctr==1){
+document.prize.src=pri[5].src;
+}
+hctr++;
+if ((hctr>0)&&(hctr<7)){
+handleIt();
+} else {
+wheelIt();
+}
+} else {
+alert("You need a JavaScript capable browser to view this script. "
++"Please upgrade your browser and return.");
+}
+}
+}
+function wheelIt(){
+if (answ==0){
+location.reload();
+}
+blocker=1;
+document.lfwhl.src=isn1[6].src;
+setTimeout("document.mdwhl.src=isn1[6].src",2000);
+setTimeout("document.rtwhl.src=isn1[6].src",4000);
+setTimeout("wheelIt1()",6000);
+}
+function wheelIt1(){
+document.getElementById("DivMCQuiz").innerHTML= "<img src='Resources/Images/f.gif' ";
+srand();
+pos=ls.indexOf(win[rec].substring(0,1));
+document.lfwhl.src=isn1[pos].src;
+pos=ls.indexOf(win[rec].substring(1,2));
+document.mdwhl.src=isn1[pos].src;
+pos=ls.indexOf(win[rec].substring(2,3));
+document.rtwhl.src=isn1[pos].src;
+if (win[rec]=="aaa"||win[rec]=="bbb"||win[rec]=="ccc"){
+winIt();
+release=0;
+nextQuestion(document.forms.Playtime);
+}
+else{
+document.prize.src=pri[4].src;
+winit=1000;
+release=0;
+nextQuestion(document.forms.Playtime);
+}
+}
+function winIt(){
+if (win[rec]=="aaa"){
+document.prize.src=pri[3].src;
+winit=7000;
+}
+if (win[rec]=="bbb"){
+document.prize.src=pri[2].src;
+winit=5000;
+}
+if (win[rec]=="ccc"){
+document.prize.src=pri[1].src;
+winit=3000;
+}
+}
+function srand(){
+today=new Date();
+rand=today.getTime();
+picker="a"+rand;
+picker=picker.charAt((picker.length - 4));
+rec=picker;
+}
+function handleIt(){
+if (hctr==4){hctr=5;}
+if (hctr<4){
+document.spin.src=isn[hctr].src;
+setTimeout("spinIt()",75);
+}
+else{
+document.spin.src=isn[(7-hctr)].src;
+setTimeout("spinIt()",75);
+}
+}
+// START OF HELP PROCEDURE
+function TOfunc() {
+TO=window.setTimeout( "TOfunc()", 1000 );
+var today=new Date();
+document.forms[0].elements[0].value=today.toString();
+}
+function time_arrived() {
+helpCall=1;
+enter=new Date();
+}
+function time_here() {
+exit=new Date();
+time=(exit.getTime()-enter.getTime())/1000;
+time=Math.round(time);
+helpMoney=time*10;
+alert ("You were away for " + time + " seconds. That's $"+helpMoney+". I hope that you found what you were looking for!");
+}
+function bannercredit(){
+if (blocker==0){
+return;
+}
+time_arrived();
+if (document.all)
+InfoWin=window.open(bannerfile,"","width=468,height=160, scrollbars,resizable=yes");
+else
+InfoWin=window.open(bannerfile,"","width=468,height=160,scrollbars,resizable=yes");
+}
+function jumpBox(list) {
+location.href=list.options[list.selectedIndex].value;
+}
+function full_screen(){
+window.moveTo(0,0);
+window.resizeTo(screen.width,screen.height);
+}
+function checkOpen(){
+if (InfoWin.closed==true) alert("window is closed");
+else alert ("Window still open");
+}
+function init()
+{
+window.status="Please move your mouse to the slot-machine handle to start the quiz";
+//full_screen();
+answ=FONTT;
+}
+function randomise(maximise) {
+var now=new Date();
+var hour=now.getHours();
+var minimise=now.getMinutes();
+var sec=now.getSeconds();
+quiz();
+return ((((hour +1)*(minimise +1)*(sec))%maximise) + 1);
+}
+function nextQuestion(form)
+
+//set the total number of questions equal to quizend
+{
+//var availSize=20;
+currentElement=randomise(availSize);
+var quizEnd= availSize;  //eval(size * 1);
+quiz();
+if (availSize == 0) { 
+//if(form.questNr.value ==quizEnd) {
+form.question.value="";
+form.choiceA.value="";
+form.choiceB.value="";
+form.choiceC.value="";
+form.choiceD.value="";
+form.yourChoice.value="";
+form.results.value="End of Quiz. Your final results are listed below.";
+blocker=1;
+nojoker=1;
+finish=1;
+allow=1;
+} else {
+if(form.questNr.value =="") {form.questNr.value=1;} else {
+if (pictures[available[currentElement]] != ""){
+document.getElementById("DivMCQuiz").innerHTML=pictures[(available[currentElement])];
+//document.picture.src=pictures[available[currentElement]];
+}
+form.questNr.value=available[currentElement]; 
+reminder=form.questNr.value;
+} 
+resultString=questions[(available[currentElement])]; 
+decodeIT(resultString);
+stripHtml(resultString);
+resultString= uString;
+questions[form.questNr.value]=resultString; 
+resultString=answerA[(available[currentElement])];  
+decodeIT(resultString);
+stripHtml(resultString);
+resultString= uString;
+answerA[form.questNr.value]=resultString; 
+resultString=answerB[(available[currentElement])];  
+decodeIT(resultString);
+stripHtml(resultString);
+resultString= uString;
+answerB[form.questNr.value]=resultString; 
+resultString=answerC[(available[currentElement])];
+decodeIT(resultString);
+stripHtml(resultString);
+resultString= uString;
+answerC[form.questNr.value]=resultString; 
+resultString=answerD[(available[currentElement])];
+decodeIT(resultString);
+stripHtml(resultString);
+resultString= uString;
+answerD[form.questNr.value]=resultString;
+form.question.value=questions[form.questNr.value];
+form.choiceA.value=answerA[form.questNr.value];
+form.choiceB.value=answerB[form.questNr.value];
+form.choiceC.value=answerC[form.questNr.value];
+form.choiceD.value=answerD[form.questNr.value];
+form.yourChoice.value="";
+form.results.value="";
+allow=0;
+document.opta.src="Resources/Images/w2.gif";
+document.optb.src="Resources/Images/w2.gif";
+document.optc.src="Resources/Images/w2.gif";
+document.optd.src="Resources/Images/w2.gif";
+if(form.money2.value =="") {form.money2.value=0; } else {
+form.money2.value=form.money2.value; }
+}
+}
+function CA(form,choice){
+var ping="";
+ping=choice;
+if (ping==" a "){
+form.yourChoice.value="a";
+}
+if (ping==" b "){
+form.yourChoice.value="b";
+}
+if (ping==" c "){
+form.yourChoice.value="c";
+}
+if (ping==" d "){
+form.yourChoice.value="d";
+}
+}
+function checkAnswer(form) {
+//<!--ANCHOR#110-->
+var getIt ="";
+if (form.yourChoice.value=="a"){
+getIt =(answerA[form.questNr.value]);
+}
+if (form.yourChoice.value=="b"){
+getIt =(answerB[form.questNr.value]);
+}
+if (form.yourChoice.value=="c"){
+getIt =(answerC[form.questNr.value]);
+}
+if (form.yourChoice.value=="d"){
+getIt =(answerD[form.questNr.value]);
+}
+if (nojoker==1){
+return;
+}
+if (form.questNr.value!="0"){
+quiz();
+form.questNr.value=reminder;
+var money2=0;
+var curve=0;
+if (helpCall==1){
+if (InfoWin.closed!=true) {
+InfoWin.close();
+}
+time_here();
+helpCall=0;
+if (playernr==0){
+fortune1=fortune1-helpMoney;
+}
+if (playernr==1){
+fortune2=fortune2-helpMoney;
+}
+}
+blocker=0;
+if(form.results.value !="") {form.results.value="Sorry, no cheating allowed. In order to retry this question you will have to start the quiz again. "; }
+else if(form.yourChoice.value ==rightAns[form.questNr.value]) {
+form.money2.value=eval(form.money2.value) + eval(1);
+if (playernr==0){
+totaltried1 ++;
+totalcorrect1 ++;
+correctListMail=correctListMail+form.questNr.value + "," ;
+correctList=correctList+questions[form.questNr.value]+" ("+getIt+"); ";
+fortune1=(fortune1+winit);
+scorer=parseInt(fortune1);
+scorer2=parseInt(fortune2);
+form.results.value="Congratulations! You are correct. Your current wealth is $"+scorer+ ". Your Playmate has $"+scorer2+"." ;
+for (var i=currentElement;i<availSize;i++)
+available[i]=available[i+1];
+availSize--;
+if (SOUNDON1 ==1){
+playSound(1);}
+showFortune1=(" $"+scorer);
+form.money3.value=showFortune1;
+if (navigator.appName !="Netscape") {
+score1.value=("PLAYER 1: " + showFortune1);
+}
+}
+if (playernr==1){
+totaltried2 ++;
+totalcorrect2 ++;
+correctListMail=correctListMail+form.questNr.value + "," ;
+correctList=correctList+questions[form.questNr.value]+" ("+getIt+"); ";
+fortune2=(fortune2+winit);
+scorer=parseInt(fortune2);
+scorer2=parseInt(fortune1);
+form.results.value="Congratulations! You are correct. Your current wealth is $"+scorer+ ". Your Playmate has $"+scorer2+"." ;
+for (var i=currentElement;i<availSize;i++)
+available[i]=available[i+1];
+availSize--;
+if (SOUNDON1 ==1){
+playSound(1);}
+showFortune2=(" $"+scorer);
+form.money4.value=showFortune2;
+if (navigator.appName !="Netscape") {
+score2.value=("PLAYER 2: " + showFortune2);
+}
+}
+if (playernr==0){
+document.player.src="Resources/Images/play2.gif";
+document.turn1.src="Resources/Images/f.gif";
+document.turn2.src="Resources/Images/bulb.gif";
+document.prize.src=pri[5].src;
+playernr=2;
+}
+else{
+if (playernr==1){
+document.player.src="Resources/Images/play1.gif";
+document.turn2.src="Resources/Images/f.gif";
+document.turn1.src="Resources/Images/bulb.gif";
+document.prize.src=pri[5].src;
+playernr=0;
+}
+}
+if (playernr==2){
+playernr=1;
+}
+} else {
+if (playernr==0){
+totaltried1 ++;
+totalincorrect1 ++;
+incorrectListMail=incorrectListMail+form.questNr.value + "("+form.yourChoice.value+"), " ;
+incorrectList=incorrectList+questions[form.questNr.value]+" ("+getIt+"); ";
+fortune1=(fortune1-winit);
+if (fortune1<0){
+form.money3.value="Bankrupt!";
+document.one.src="Resources/Images/bankrupt.gif";
+if (navigator.appName !="Netscape") {
+score1.value=("PLAYER 1: BANKRUPT");
+fortune1="...BANKRUPT";
+}
+alert("Sorry, but Player 1 is bankrupt! The Quiz is over");
+clearForm(Playtime);
+return;
+}
+scorer=parseInt(fortune1);
+scorer2=parseInt(fortune2);
+resultString=feedback[form.questNr.value];
+decodeIT(resultString);
+stripHtml(resultString);
+resultString= uString;
+feedback[form.questNr.value]=resultString; 
+if (feedback[form.questNr.value]!=""){
+form.results.value="Sorry, you are incorrect. " + feedback[form.questNr.value] + " Your current wealth is $"+scorer+ ". Your Playmate has $"+scorer2+"." ;
+}
+if (feedback[form.questNr.value]==""){
+form.results.value="Sorry, you are incorrect. Your current wealth is $"+scorer+ ". Your Playmate has $"+scorer2+"." ;
+}
+if (SOUNDON2 ==1){
+playSound(2);}
+showFortune1=(" $"+scorer);
+form.money3.value=showFortune1;
+if (navigator.appName !="Netscape") {
+score1.value=("PLAYER 1: " + showFortune1);
+}
+}
+if (playernr==1){
+totaltried2 ++;
+totalincorrect2 ++;
+incorrectListMail=incorrectListMail+form.questNr.value + "("+form.yourChoice.value+"), " ;
+incorrectList=incorrectList+questions[form.questNr.value]+" ("+getIt+"); ";
+fortune2=(fortune2-winit);
+if (fortune2<0){
+form.money4.value="Bankrupt!";
+document.two.src="Resources/Images/bankrupt.gif";
+if (navigator.appName !="Netscape") {
+score1.value=("PLAYER 2: BANKRUPT");
+fortune2="...BANKRUPT";
+}
+alert("Sorry, but Player 2 is bankrupt! The Quiz is over");
+clearForm(Playtime);
+return;
+}
+scorer=parseInt(fortune2);
+scorer2=parseInt(fortune1);
+resultString=feedback[form.questNr.value];
+decodeIT(resultString);
+stripHtml(resultString);
+resultString= uString;
+feedback[form.questNr.value]=resultString; 
+if (feedback[form.questNr.value]!=""){
+form.results.value="Sorry, you are incorrect. " + feedback[form.questNr.value] + " Your current wealth is $"+scorer+ ". Your Playmate has $"+scorer2+"." ;
+}
+if (feedback[form.questNr.value]==""){
+form.results.value="Sorry, you are incorrect. Your current wealth is $"+scorer+ ". Your Playmate has $"+scorer2+"." ;
+}
+if (SOUNDON2 ==1){
+playSound(2);}
+showFortune2=(" $"+scorer);
+form.money4.value=showFortune2;
+if (navigator.appName !="Netscape") {
+score2.value=("PLAYER 2: " + showFortune2);
+}
+}
+if (playernr==0){
+document.player.src="Resources/Images/play2.gif";
+document.turn1.src="Resources/Images/f.gif";
+document.turn2.src="Resources/Images/bulb.gif";
+document.prize.src=pri[5].src;
+playernr=2;
+}
+else{
+if (playernr==1){
+document.player.src="Resources/Images/play1.gif";
+document.turn2.src="Resources/Images/f.gif";
+document.turn1.src="Resources/Images/bulb.gif";
+document.prize.src=pri[5].src;
+playernr=0;
+}
+}
+if (playernr==2){
+playernr=1;
+}
+}
+}
+}
+function clearForm(form)
+{
+if (SUBMIT==1){
+temp=window.confirm("Would you like to submit the results before re-starting Playtime?");
+if (temp==true){
+hw13('PT');
+}
+if (temp==false){
+javascript:location.reload();
+}
+}
+document.getElementById("DivMCQuiz").innerHTML= "<img src='Resources/Images/f.gif' ";
+totaltried1=0;
+totalcorrect1=0;
+incorrectListMail="";
+correctListMail="";
+totalincorrect1=0;
+totaltried2=0;
+totalcorrect2=0;
+totalincorrect2=0;
+incorrectAnswer="";
+incorrectList ="";
+correctList="";
+document.joker11.src="Resources/Images/quest.gif";
+document.joker12.src="Resources/Images/quest.gif";
+document.joker13.src="Resources/Images/quest.gif";
+document.joker21.src="Resources/Images/quest.gif";
+document.joker22.src="Resources/Images/quest.gif";
+document.joker23.src="Resources/Images/quest.gif";
+document.player.src="Resources/Images/play1.gif";
+document.prize.src=pri[5].src;
+document.two.src="Resources/Images/img6.gif";
+document.one.src="Resources/Images/img6.gif";
+blocker=0;
+nojoker=0;
+playernr=0;
+helpCall=0;
+finish=0;
+fortune1=startCapital;
+showFortune1=0;
+showFortune2=0;
+fortune2=startCapital;
+winit=0;
+jokersPlayer1=3;
+jokersPlayer2=3;
+form.money3.value=" $5000 ";
+if (navigator.appName !="Netscape") {
+score1.value=("PLAYER 1: START CAPITAL $5000");
+score2.value=("PLAYER 2: START CAPITAL $5000");
+}
+form.money4.value=" $5000 ";
+document.player.src="Resources/Images/play1.gif";
+document.turn2.src="Resources/Images/f.gif";
+document.turn1.src="Resources/Images/bulb.gif";
+reminder=0;
+form.questNr.value="0";
+form.question.value="";
+form.choiceA.value="";
+form.choiceB.value="";
+form.choiceC.value="";
+form.choiceD.value="";
+form.yourChoice.value="";
+form.results.value="";
+form.money2.value="";
+}
+function Joker(form)
+{
+if (release==1){
+return;
+}
+if (nojoker==1){
+return;
+}
+if (playernr ==0){
+if (jokersPlayer1 ==3){
+document.joker13.src="Resources/Images/incorrect.gif";
+}
+if (jokersPlayer1 ==2){
+document.joker12.src="Resources/Images/incorrect.gif";
+}
+if (jokersPlayer1 ==1){
+document.joker11.src="Resources/Images/incorrect.gif";
+}
+if (jokersPlayer1< 1){
+alert("Sorry, no Jokers left!");
+return;
+}
+jokersPlayer1=jokersPlayer1-1;
+blocker=0;
+if (helpCall==1){
+if (InfoWin.closed!=true) {
+InfoWin.close();
+}
+helpCall=0;
+}
+spinIt();
+}
+if (playernr ==1){
+if (jokersPlayer2 ==3){
+document.joker23.src="Resources/Images/incorrect.gif";
+}
+if (jokersPlayer2 ==2){
+document.joker22.src="Resources/Images/incorrect.gif";
+}
+if (jokersPlayer2 ==1){
+document.joker21.src="Resources/Images/incorrect.gif";
+}
+if (jokersPlayer2< 1){
+alert("Sorry, no Jokers left!");
+return;
+}
+jokersPlayer2=jokersPlayer2-1;
+blocker=0;
+if (helpCall==1){
+if (InfoWin.closed!=true) {
+InfoWin.close();
+}
+helpCall=0;
+}
+spinIt();
+}
+}
+function ran(form,maximise)
+{
+if (allow!=0){
+return;
+}
+allow=1;
+winit=(winit/2);
+check=(rightAns[form.questNr.value]);
+if (check=="c"){
+finish=3;
+}
+if (check=="a"){
+finish=1;
+}
+if (check=="b"){
+finish=2;
+}
+if (check=="d"){
+finish=4;
+}
+today=new Date();
+rand=today.getTime();
+picker="a"+rand;
+picker=picker.charAt((picker.length - 4));
+rec=picker;
+if (rec ==9){
+rec=4;}
+if (rec ==8){
+rec=3;}
+if (rec ==7){
+rec=2;}
+if (rec ==6){
+rec=1;}
+if (rec ==5){
+rec=2;}
+if (rec ==0){
+rec=4;}
+boobie=rec;
+if (boobie !=finish && boobie==1){
+checker++;
+document.opta.src="Resources/Images/w1.gif";
+}
+if (boobie !=finish && boobie==2){
+checker++;
+document.optb.src="Resources/Images/w1.gif";
+}
+if (boobie !=finish && boobie==3){
+checker++;
+document.optc.src="Resources/Images/w1.gif";
+}
+if (boobie !=finish && boobie==4){
+checker++;
+document.optd.src="Resources/Images/w1.gif";
+}
+boobie=(boobie-1);
+if (boobie==0){
+boobie=3;}
+if (boobie !=finish && boobie==1){
+checker++;
+document.opta.src="Resources/Images/w1.gif";
+}
+if (boobie !=finish && boobie==2){
+checker++;
+document.optb.src="Resources/Images/w1.gif";
+}
+if (boobie !=finish && boobie==3){
+checker++;
+document.optc.src="Resources/Images/w1.gif";
+}
+if (boobie !=finish && boobie==4){
+checker++;
+document.optd.src="Resources/Images/w1.gif";
+}
+boobie=(boobie-1);
+if (boobie==0){
+boobie=3;
+}
+if (checker!=2){
+if (boobie !=finish && boobie==1){
+checker++;
+document.opta.src="Resources/Images/w1.gif";
+}
+if (boobie !=finish && boobie==2){
+checker++;
+document.optb.src="Resources/Images/w1.gif";
+}
+if (boobie !=finish && boobie==3){
+checker++;
+document.optc.src="Resources/Images/w1.gif";
+}
+if (boobie !=finish && boobie==4){
+checker++;
+document.optd.src="Resources/Images/w1.gif";
+}
+}
+check="";
+checker=0;
+}
+function printWords(){
+alert("PLAYTIME is fun! Please move your mouse to the SLOT-MACHINE HANDLE to start the quiz. You can use the SET JOKER option to call another question. This costs you nothing, but you only have three jokers available. You can also click the RISK 50% button. This takes away two incorrect answers leaving the correct answer and one incorrect answer remaining. It also unfortunately reduces the amount of money you can win by half. To select your answer simply click the appropriate letter button (a,b,c or d) on the right-hand side and then select CHECK ANSWER. Good luck and let's see whether you can make a fortune! ");
+}
+//<!--ANCHOR#11-->
+var plonk="</" +"script>";
+var jbegin="<" +"script type='text/javascript'>";
+var invert='"';
+var bingo="";
+//<!--ANCHOR#12-->
+//<!--ANCHOR#13-->
+var quizname="Playtime Results for:";
+//<!--ANCHOR#14-->
+var totaltried1=0;
+var totalcorrect1=0;
+var totalincorrect1=0;
+var totaltried2=0;
+var totalcorrect2=0;
+var totalincorrect2=0;
+incorrectAnswer="";
+incorrectList="";
+correctList="";
+var popup="null";
+//<!--BROWSERCHECK#9-->
+function wclose(){
+location.replace("about:blank");
+return;
+}
+//<!--BROWSERCHECK#10-->
+function AlertCC(PassQues,PassAns,fortune1, fortune2, correctList, incorrectList, totalcorrect1,totaltried1, totalincorrect1, totalcorrect2, totaltried2, totalincorrect2, quiztitle, tries, SIZE, address)
+{
+temp=window.confirm('To use this option you must have a standard email client installed on your computer (Outlook Express, Outlook, Eudora etc.) Please note that you may encounter problems if you are running an anti-virus software which blocks script-based mailing.');
+if (temp==false){
+return;
+}
+myname1="Unknown User 1"; 
+var myname1=PassQues;
+if (myname1==null){
+return;
+}
+if(tries=="0"){
+tries="Not recorded";
+}
+ema=1;
+if (myname1==null || myname1==""){
+myname1="Unknown User 1";
+}
+var quiztaker1=myname1;
+myname1=quizname+" " +myname1;
+var myname2=PassAns;
+if (myname2==null){
+return;
+}
+if (myname2==null || myname2==""){
+myname2="Unknown User 2";
+}
+var quiztaker2=myname2;
+myname2=quizname+" " +myname2;
+var submitString= "'mailto:"+address+"?subject=MC Quiz Maker Results from "+quiztaker1 + " and " + quiztaker2 + " &amp;NAME=supporter &amp;METHOD=POST &amp;ENCTYPE=text/plain'>";
+var re=/ /g; 
+submitString= submitString.replace(re," ");
+var smyname1=myname1;
+while (smyname1.indexOf("'") > -1)
+ smyname1=smyname1.replace("'","`");
+var smyname2=myname2;
+while (smyname2.indexOf("'") > -1)
+ smyname2=smyname2.replace("'","`");
+var squiztitle=quiztitle;
+while (squiztitle.indexOf("'") > -1)
+ squiztitle=squiztitle.replace("'","`");
+var sIncorrect=incorrectListMail;
+while (sIncorrect.indexOf("'") > -1)
+ sIncorrect=sIncorrect.replace("'","`");
+var sCorrect=correctListMail;
+while (sCorrect.indexOf("'") > -1)
+ sCorrect=sCorrect.replace("'","`");
+var m1="<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'><html><head><meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'><TITLE>Results</TITLE>" +
+jbegin +
+"function disableselect(e){"+
+"return false;"+
+"} "+
+"function reEnable(){"+
+"return true;"+
+"} "+
+"document.onselectstart=new Function ('return false');"+
+"if (window.sidebar){"+
+"document.onmousedown=disableselect;"+
+"document.onclick=reEnable;"+
+"} "+
+plonk+
+"</head>";
+var m2="<body BGCOLOR='#FFFFFF'>";
+var m7="<div align='center'>"+
+"<form action='...'>"+
+"<input type='button' value='Send Message'onClick="+commas+"parent.location='mailto:"+address+"?subject=Quiz Maker Results&amp;body=TITLE: "+squiztitle+"%0AAvailable questions: "+SIZE+"%0A"+smyname1+":%0AQuestions answered: "+totaltried1+"%0ACorrect: "+totalcorrect1+"%0A Incorrect: "+totalincorrect1+"%0AFortune: $"+ fortune1+ "%0A%0A"+smyname2+"%0AQuestions answered: "+totaltried2+"%0ACorrect: "+totalcorrect2+"%0AIncorrect: "+totalincorrect2+"%0AFortune: $"+ fortune2 +"%0A%0AIncorrect Answers (the incorrect entry is in brackets)%0A%0A"+sIncorrect+"%0A%0AQuestions with correct answers%0A"+sCorrect+"%0A'"+commas+">"+
+"</form>"+
+"</div>"; 
+var m3="<h1><B>Multiple Choice Quiz Maker Results</B></h1>" +
+"<BR><CENTER>"+
+"<FORM action=" + submitString +"These are the results which will be sent if you click the 'Send message' button:<p>"+'\n'+
+"<TEXTAREA NAME=Message COLS=80 ROWS=20 readonly>"+
+"Title of Quiz: "+quiztitle+ '\n'+
+"Quiz type: Playtime"+'\n'+
+"Questions answered by: "+ quiztaker1 +" (Player 1) and " + quiztaker2+ " (Player 2)"+'\n'+
+"Number of quiz attempts: "+tries+'\n'+
+"Total number of questions available : "+ SIZE +'\n'+
+"RESULTS FOR PLAYER 1" +'\n'+
+"Total number of questions answered: "+totaltried1 +'\n'+
+"Total number of correct answers: " + totalcorrect1 +'\n' + "Total number of incorrect answers: " + totalincorrect1  +'\n'+
+"Fortune: "+"$"+fortune1+'\n'+
+"RESULTS FOR PLAYER 2" +'\n'+
+"Total number of questions answered: "+totaltried2 +'\n'+
+"Total number of correct answers: " + totalcorrect2+'\n' + "Total number of incorrect answers: " + totalincorrect2  +'\n'+
+"Fortune: "+"$"+fortune2+'\n'+
+"List of question(s) with incorrect answers. The incorrect entry is in brackets"+'\n' +incorrectList+'\n'+ "List of questions with correct answers" +'\n'+
+correctList+'\n';
+var m4="</textarea><BR><BR>"+
+"<input type=button VALUE=' Print this Page '" +
+" onClick='printit()'>"+
+"      "+
+"<input type='button' value=' Close Window'" +
+" onClick='wclosing()'><P>"+
+ jbegin+
+"var message='';" +
+"function clickIE()" +
+"{if (document.all)" +
+"{(message);return false;}}" +
+"function clickNS(e) {" +
+"if" +
+"(document.layers||(document.getElementById&&!document.all))" +
+"{"+
+"if (e.which==2||e.which==3) {(message);return false;}}}" +
+"if (document.layers)" +
+"{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}" +
+"else" +
+"{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}" +
+"document.oncontextmenu=new Function('return false');"+
+"var FULLER=" +FULL+";"+
+"var goLocal3=" + goLoca1+";"+'\n'+
+"var goLocal4='"+goLoca2+"';"+'\n'+
+"var goLoca3='about:blank';" +
+"var reLocate=0;" +
+"var browserName='unknown';" + 
+"var ua=navigator.userAgent.toLowerCase();" + 
+"if ( ua.indexOf('firefox') != -1 ) { " +
+"browserName='firefox';}" +
+"if ( ua.indexOf('chrome') != -1 ) { " +
+"browserName='chrome';}" +
+"if ( ua.indexOf('safari') != -1 ) { " +
+"browserName='safari';}" +
+"if ( ua.indexOf('opera') != -1 ) { " +
+"browserName='opera';}" +
+"if ( ua.indexOf('msie') != -1 ) { " +
+"browserName='msie';}" +
+"function wclosing(){" +
+"if (browserName =='msie' && reLocate == 0){window.parent.close();return;}" +
+"if (browserName =='unknown' && reLocate == 0){location.replace(goLoca3);return;}" +
+"location.replace(goLoca3);" +
+"if (reLocate==0){" +
+"window.document.write('');" +
+"self.close();return;}}" + 
+"function printit(){"+
+"var NS=(navigator.appName == 'Netscape');"+
+"var VERSION=parseInt(navigator.appVersion);"+
+"if (NS) {" +
+"window.print();" +
+"} else {" +
+"window.location.reload();"+
+"window.print();" +
+"} "+
+"} "+
+plonk +
+//<!--ANCHOR#15-->
+"</FORM></CENTER>";
+var m5="<FORM NAME='supportmail' METHOD='POST' ACTION='http://www.tac-soft.com/submit/tacmailer.php'>" +
+"<CENTER><INPUT TYPE=submit VALUE='Send mail via the TAC-Soft Server'></CENTER><P>"+
+"<INPUT TYPE ='HIDDEN' NAME= 'submitter' size='40' maxlength='35' value='"+quiztaker1+"'>"+
+"<INPUT TYPE ='HIDDEN' NAME='Supervisor' SIZE=30 VALUE='"+address+"'>" +
+"<INPUT TYPE ='HIDDEN' NAME='place' SIZE=30 VALUE='"+placer+"'>" +
+"<INPUT TYPE='HIDDEN' NAME='subj' SIZE=55 VALUE='Multiple Choice Quiz Maker Results'>" +
+"<INPUT TYPE='HIDDEN' NAME='message' VALUE='"+"Title of Quiz: "+quiztitle+ '\n'+
+"Quiz type: Multiple Choice"+'\n'+
+"The results will be submitted to: " + address  +'\n'+
+"Questions answered by: "+ quiztaker1 +" (Player 1) and " + quiztaker2+ " (Player 2)"+'\n'+
+"Number of quiz attempts:"+'\n'+tries+'\n'+
+"Total number of questions available: "+ SIZE +'\n' +
+"RESULTS FOR PLAYER 1" +'\n'+
+"Total number of questions answered: "+totaltried1 + '\n'+
+"Total number of correct answers: " + totalcorrect1 +'\n'+'\n' + "Total number of incorrect answers: " + totalincorrect1 + '\n' +
+"Fortune: "+"$"+fortune1+'\n'+
+"RESULTS FOR PLAYER 2" +'\n'+
+"Total number of questions answered: "+totaltried2 + '\n'+
+"Total number of correct answers: " + totalcorrect2+'\n' + "Total number of incorrect answers: " + totalincorrect2 + '\n' +
+"Fortune: "+"$"+fortune2+'\n'+
+"List of question(s) with incorrect answers. The incorrect entry is in brackets"+'\n'+'\n' +incorrectList+'\n'+ "List of questions with correct answers" +'\n'+
+correctList+"'"+'\n' + ">"+ '\n' +
+"<INPUT TYPE='HIDDEN' NAME='pageOne' VALUE='1'>";
+var m6=""+
+"</FORM>";
+window.document.write(m1+m2+m3+m4+m5+m6 + '</body></html>');
+//<!--ANCHOR#16-->
+}
+//<!--BROWSERCHECK#11-->
+function doit() {
+//<!--ANCHOR#17-->
+//<!--ANCHOR#18-->
+return;
+}
+//<!--BROWSERCHECK#12-->
+function right(e) {
+if (navigator.appName=='Netscape' &&
+(e.which==3 || e.which==2))
+return false;
+else if (navigator.appName=='Microsoft Internet Explorer' &&
+(event.button==2 || event.button==3)) {
+alert(decodeIT("Sorry, but this option is not available in this quiz!"));
+return false;
+}
+return true;
+}
+document.onmousedown=right;
+if (document.layers) window.captureEvents(Event.MOUSEDOWN);
+window.onmousedown=right;
+var message="";
+function clickIE()
+{if (document.all)
+{(message);return false;}}
+function clickNS(e) {
+if
+(document.layers||(document.getElementById&&!document.all))
+{
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers)
+{document.captureEvents(Event.MOUSEDOWN);document.  onmousedown=clickNS;}
+else
+{document.onmouseup=clickNS;document.oncontextmenu  =clickIE;}
+ document.oncontextmenu=new Function("return false")
+function onKeyDown() { if (FULL==1){
+if ( (event.altKey) || ((event.keyCode==8) &&
+(event.srcElement.type !="text" &&
+event.srcElement.type !="textarea" &&
+event.srcElement.type !="password")) ||
+((event.ctrlKey) && ((event.keyCode==78) || (event.keyCode==82)) ) ||
+(event.keyCode==116) ) {
+event.keyCode=0;
+event.returnValue=false;
+if (window.opener !=null && FULL==1 && !NS4) {
+window.opener.blur();
+msgWindow.focus();
+}
+}
+}
+}
+// --></script>
+<!--ANCHOR#100-->
+</head><body TEXT="#4C0000" BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#551A8B" ALINK="#0000FF" onKeyDown="onKeyDown();" onLoad="PopupTest(); init();initAvail();"><CENTER><NOSCRIPT><b>This page requires a JavaScript-enabled browser</b><BR>Instructions on how to enable your browser are contained in the Teaching
+Templates help file.<BR></NOSCRIPT></CENTER>
+<!-- tt_prompt HTML code -->
+<div id="tt_ovrl" style="display: none;">&nbsp;</div>
+<div id="tt_ww" style="display: none;">
+<div id="tt_win"><div id="tt_t"></div>
+<div id="tt_w"><span id="tt_prompt"></span>
+<br /><input type="text" id="tt_text" onKeyPress=
+"if((event.keyCode==10)||(event.keyCode==13)) tt_clk(1); if (event.keyCode==27) tt_clk(0);">
+<br><div><input type="button" id="tt_ok" onclick="tt_clk(1);" value="OK">
+<input type="button" id="tt_cancel" onclick="tt_clk(0);" value="Cancel">
+</div></div>
+</div>
+</div>
+<!-- tt_prompt HTML code -->	
+<!--ANCHOR#19--><center><font size="4" face="Helvetica"><B><SPAN style="background-color: #000000"><script type="text/javascript"><!--
+code="%3CFONT  COLOR%3D%22%23FF80FF%22%3EU%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%23FF0000%22%3EN%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%23FFFF80%22%3ER%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%23FFFF00%22%3EE%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%2380FF00%22%3EG%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%2300FF40%22%3EI%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%2380FF80%22%3ES%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%23FF8080%22%3ET%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%23FF00FF%22%3EE%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%23FFFF00%22%3ER%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%238080FF%22%3EE%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%2300FFFF%22%3ED%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%2300F66%22%3E%26nbsp%3B%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%2300F66%22%3E%26nbsp%3B%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%23FF8040%22%3EU%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%23FF8040%22%3ES%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%2300FF80%22%3EE%3C/FONT%3E%0D%0A%3CFONT  COLOR%3D%22%2300FF80%22%3ER%3C/FONT%3E%0D%0A%3Cscript%3EFONTT %3D 1%3B%3C/script%3E%0D%0A";
+document.write(unescape(code));
+//--></script></SPAN></B><font size=1><BR><BR>&lt;&lt;This message will be removed when you register &gt;&gt;</font></font><HR></center><!--ANCHOR#20--><TABLE SUMMARY='' BORDER=2 CELLPADDING=4 CELLSPACING=2 BORDERCOLOR="#FF0000" bgcolor ="#80FFFF" ALIGN="LEFT" >
+<TR>
+<TD>
+<CENTER>
+<IMG HEIGHT=20 BORDER=0
+WIDTH=20 SRC="Resources/Images/quest.gif" ALT="Setting the joker allows you one free go" name="joker11">
+</CENTER>
+</TD>
+<TD>
+<CENTER>
+<IMG HEIGHT=20 BORDER=0
+WIDTH=20 SRC="Resources/Images/quest.gif" ALT="Setting the joker allows you one free go" name="joker12">
+</CENTER>
+</TD>
+<TD>
+<CENTER>
+<IMG HEIGHT=20 BORDER=0
+WIDTH=20 SRC="Resources/Images/quest.gif" ALT="Setting the joker allows you one free go" name="joker13">
+</CENTER>
+</TD><TD>
+<IMG SRC="Resources/Images/img6.gif" HEIGHT=50 WIDTH=50 ALIGN="LEFT" name="one" ALT=""></TD>
+</TR>
+</TABLE>
+<TABLE SUMMARY='' BORDER=2 CELLPADDING=4 CELLSPACING=2 BORDERCOLOR="#FF0000" BGCOLOR="#80FFFF"  ALIGN="RIGHT">
+<TR>
+<TD>
+<CENTER>
+<IMG HEIGHT=20 BORDER=0
+WIDTH=20 SRC="Resources/Images/quest.gif" ALT="Setting the joker allows you one free go" name="joker21">
+</CENTER>
+</TD>
+<TD>
+<CENTER>
+<IMG HEIGHT=20 BORDER=0
+WIDTH=20 SRC="Resources/Images/quest.gif" ALT="Setting the joker allows you one free go" name="joker22">
+</CENTER>
+</TD>
+<TD>
+<CENTER>
+<IMG HEIGHT=20 BORDER=0
+WIDTH=20 SRC="Resources/Images/quest.gif" ALT="Setting the joker allows you one free go" name="joker23">
+</CENTER>
+</TD><TD>
+<IMG SRC="Resources/Images/img6.gif" HEIGHT=50 WIDTH=50 ALIGN="RIGHT" name="two" ALT=""></TD>
+</TR>
+</TABLE>
+<CENTER>
+<TABLE SUMMARY='' BORDER=0 CELLPADDING=0 CELLSPACING=0>
+<TR>
+<TD>
+<TABLE SUMMARY='' BORDER=6 CELLPADDING=0 CELLSPACING=0>
+<TR>
+<TD COLSPAN=3 ALIGN=CENTER>
+<FONT COLOR="#FF0000" SIZE=6>
+<B>
+Playtime!
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD>
+<IMG NAME="lfwhl" HEIGHT=80 BORDER=0
+WIDTH=59 SRC="Resources/Images/w1.gif" ALT="left wheel">
+</TD>
+<TD>
+<IMG NAME="mdwhl" HEIGHT=80 BORDER=0
+WIDTH=59 SRC="Resources/Images/w1.gif" ALT="middle wheel">
+</TD>
+<TD>
+<IMG NAME="rtwhl" HEIGHT=80 BORDER=0
+WIDTH=59 SRC="Resources/Images/w1.gif" ALT="right wheel">
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD> 
+<A HREF="Resources/Images/f.gif" onClick="return false;" onMouseOver="hctr=1;spinIt();return true;"><IMG NAME="spin" HEIGHT=118 BORDER=0 WIDTH=59 SRC="Resources/Images/1a.gif" ALT="Handle"></A>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+&nbsp;
+<CENTER><div id=DivMCQuiz></div>
+</CENTER>
+<IMG SRC="Resources/Images/bulb.gif" HEIGHT=30 WIDTH=21 ALT="Your turn" name="turn1">
+<IMG SRC="Resources/Images/play1.gif" HEIGHT=48 WIDTH=48 Align="LEFT" ALT="Player 1">
+<IMG SRC="Resources/Images/play2.gif" HEIGHT=48 WIDTH=48 Align="RIGHT" ALT="Player 2">
+<IMG SRC="Resources/Images/f.gif" HEIGHT=30 WIDTH=21 ALT="Your turn" ALIGN=RIGHT name="turn2">
+<form action='...' name='score1'><INPUT TYPE="hidden" Name ="score1" VALUE="PLAYER 1: START CAPITAL $5000" Size=3  readonly></form>
+<form action='...' name='score2'><INPUT TYPE="hidden" Name ="score2" VALUE="PLAYER 2: START CAPITAL $5000" SIZE=3  readonly></form>
+<center><IMG SRC="Resources/Images/p5.gif" NAME="prize" HEIGHT=40 WIDTH=256 ALT=""></center>
+<FORM action='...' method=POST Name="Playtime">
+<CENTER>
+<TABLE summary='' width="50%" BORDER=6>
+<TR>
+<TD COLSPAN=2 BGCOLOR="#4C0000">
+<CENTER>
+<FONT COLOR="#FFFFFF">
+<FONT SIZE=+3>
+<!--  -->
+*QUIZTITLE*:
+</FONT>
+</FONT>
+</CENTER>
+</TD>
+</TR>
+<TR>
+<TD>
+<B>
+Question:
+</B>
+<INPUT TYPE=TEXT NAME=questNr Value=0 Size=2 readonly >
+</TD>
+<TD>
+<CENTER>
+<textarea COLS=70 ROWS=2 class="FormFont" name="question" wrap='soft'>
+</textarea>
+</CENTER>
+</TD>
+</TR>
+<TR>
+<TD ALIGN=RIGHT>
+<IMG NAME="opta" HEIGHT=15 BORDER=1
+WIDTH=20 SRC="Resources/Images/w2.gif" ALT="Option a">
+<input TYPE="button" name="a" value=" a " onClick="CA(this.form,a.value)">
+</TD>
+<TD>
+<CENTER>
+<INPUT TYPE=TEXT class="FormFont" NAME=choiceA SIZE=75>
+</CENTER>
+</TD>
+</TR>
+<TR>
+<TD ALIGN=RIGHT>
+<IMG NAME="optb" HEIGHT=15 BORDER=1
+WIDTH=20 SRC="Resources/Images/w2.gif" ALT="Option b">
+<input TYPE="button" name="b" value=" b " onClick="CA(this.form,b.value)">
+</TD>
+<TD>
+<CENTER>
+<INPUT TYPE=TEXT class="FormFont" NAME=choiceB SIZE=75>
+</CENTER>
+</TD>
+</TR>
+<TR>
+<TD ALIGN=RIGHT>
+<IMG NAME="optc" HEIGHT=15 BORDER=1
+WIDTH=20 SRC="Resources/Images/w2.gif" ALT="Option c">
+<input TYPE="button" name="c" value=" c " onClick="CA(this.form,c.value)">
+</TD>
+<TD>
+<CENTER>
+<INPUT TYPE=TEXT class="FormFont" NAME=choiceC SIZE=75>
+</CENTER>
+</TD>
+</TR>
+<TR>
+<TD ALIGN=RIGHT>
+<IMG NAME="optd" HEIGHT=15 BORDER=1
+WIDTH=20 SRC="Resources/Images/w2.gif" ALT="Option d">
+<input TYPE="button" name="d" value=" d " onClick="CA(this.form,d.value)">
+</TD>
+<TD>
+<CENTER>
+<INPUT TYPE=TEXT class="FormFont" NAME=choiceD SIZE=75>
+</CENTER>
+</TD>
+</TR>
+<TR>
+<TD ALIGN=RIGHT>
+<B>
+Your choice:
+</B>
+</TD>
+<TD>
+<CENTER>
+<INPUT TYPE=TEXT NAME=yourChoice SIZE=4>
+<INPUT TYPE="button" VALUE="Check Answer" onClick="checkAnswer(this.form)">
+<INPUT TYPE="reset" VALUE="Start Again" onClick="clearForm(this.form)">
+<INPUT TYPE="button" VALUE="Set Joker" onClick="Joker(this.form)">
+<INPUT TYPE="button" VALUE="Risk 50%" onClick="ran(this.form,4)">
+<INPUT TYPE="button" VALUE="Instructions" onClick="printWords()">
+</CENTER>
+</TD>
+</TR>
+<TR>
+<TD ALIGN=RIGHT>
+<B>
+Results:
+</B>
+</TD>
+<TD>
+<CENTER>
+<textarea COLS=70 ROWS=3 name="results" wrap='soft'>
+</textarea>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<INPUT TYPE=hidden NAME=money2 SIZE=4>
+<div align="Center"><IMG SRC="Resources/Images/money2.gif" HEIGHT=35 WIDTH=32 ALT="">
+<input type="button" NAME="money3" value=" $5000 " SIZE=6>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<IMG SRC="Resources/Images/money2.gif" HEIGHT=35 WIDTH=32 ALT="">
+<input type="button" NAME="money4" value=" $5000 " SIZE=6>
+<BR>
+<BR>
+<font size="6" color="#000000" face="times new roman">Now it's your turn:
+</font>
+<IMG SRC="Resources/Images/play1.gif" HEIGHT=48 WIDTH=48 ALIGN=MIDDLE ALT="Player" Name="player"></div>
+<!--ANCHOR#21--><BR><Center><!--ANCHOR#22--><!--ANCHOR#23--><input type="button" onClick="TTM()" value="Task Manager">&nbsp;<!--ANCHOR#24--><!--ANCHOR#25--><INPUT TYPE="BUTTON" VALUE="Submit Results" onClick="hw13('PT')"><!--ANCHOR#26-->&nbsp;<INPUT TYPE="BUTTON" VALUE="Close Quiz" onClick="wclose()"></CENTER></form>
+<script type="text/javascript">
+<!--
+function TTM()
+{
+var mop=0;
+mop=history.length;
+if (mop == 0){
+alert(decodeIT("The Task Manager is not running. You must start the Task manager before you load the first quiz!"));
+}
+history.back();
+}
+// -->
+</script><!--<BR><FONT SIZE=1>MC Quiz Maker Copyright (C) 2001 by
+TAC-Soft. All Rights Reserved with the exception of
+the code for the slot machine which is from the ISN Toolbox and is
+the Copyright of Infohiway, Inc. (http://www.infohiway.com) </FONT>--><!--*TAC*--><script type="text/javascript">
+<!--
+function quiz(){
+q=answ;
+if (q==0){
+wclose();
+location.replace("Resources/Images/tac.gif");
+}
+}
+//-->
+</script>
+<!--ANCHOR#27-->
+<span id="Player"></span>
+<OBJECT ID="mediaPlayer" height="0" width="0"
+CLASSID="CLSID:22d6f312-b0f6-11d0-94ab-0080c74c7e95"
+CODEBASE="http://activex.microsoft.com/activex/controls/mplayer/en/nsmp2inf.cab#Version=5,1,52,701"
+STANDBY="Loading Microsoft Windows Media Player components..."
+TYPE="application/x-oleobject">
+<PARAM NAME="fileName" VALUE="Sounds/tt.wav">
+<PARAM NAME="animationatStart" VALUE="false">
+<PARAM NAME="transparentatStart" VALUE="true">
+<PARAM NAME="autoStart" VALUE="false">
+<PARAM NAME="showcontrols" VALUE="false">
+</object>
+<IFRAME NAME="framer1" SRC="Resources/Images/f.gif" title="Sounds" longdesc="Resources/Images/f.gif" WIDTH="1" HEIGHT="1" FRAMEBORDER="0">
+</IFRAME>
+<script type="text/javascript">
+<!--
+setTimeout('StatusQuo()',1000);
+questions=new Array();
+//<!--ANCHOR#28-->
+answerA=new Array();
+//<!--ANCHOR#29-->
+// -->
+</script>
+<script type="text/javascript">
+<!--
+answerB=new Array();
+//<!--ANCHOR#30-->
+answerC=new Array();
+//<!--ANCHOR#31-->
+answerD=new Array();
+//<!--ANCHOR#32-->
+rightAns=new Array;
+//<!--ANCHOR#33-->
+feedback=new Array();
+//<!--ANCHOR#34-->
+pictures=new Array();
+//<!--ANCHOR#35-->
+// -->
+</script>
+<!--ANCHOR#36-->
+</body></html>
